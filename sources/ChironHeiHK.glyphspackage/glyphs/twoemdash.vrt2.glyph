@@ -1,0 +1,36 @@
+{
+glyphname = twoemdash.vrt2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,-550,l),
+(518,1310,l),
+(482,1310,l),
+(482,-550,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,-545,l),
+(525,1305,l),
+(475,1305,l),
+(475,-545,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph51516;
+}

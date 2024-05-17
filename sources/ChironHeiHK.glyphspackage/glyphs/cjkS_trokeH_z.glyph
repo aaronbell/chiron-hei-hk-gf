@@ -1,0 +1,41 @@
+{
+glyphname = cjkStrokeHz;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(643,662,l),
+(643,70,l),
+(672,70,l),
+(672,691,l),
+(278,691,l),
+(278,662,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(613,619,l),
+(613,-3,l),
+(773,-3,l),
+(773,767,l),
+(250,767,l),
+(250,619,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni31D5;
+unicode = 12757;
+}

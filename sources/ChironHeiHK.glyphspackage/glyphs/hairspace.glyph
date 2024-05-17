@@ -1,0 +1,15 @@
+{
+glyphname = hairspace;
+layers = (
+{
+layerId = m01;
+width = 22;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+width = 23;
+}
+);
+note = uni200A;
+unicode = 8202;
+}

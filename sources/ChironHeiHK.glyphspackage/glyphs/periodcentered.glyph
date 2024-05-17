@@ -1,0 +1,55 @@
+{
+glyphname = periodcentered;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,321,o),
+(153,340,qs),
+(153,361,o),
+(128,384,o),
+(113,384,qs),
+(99,384,o),
+(74,361,o),
+(74,340,qs),
+(74,321,o),
+(99,299,o),
+(113,299,qs),
+(128,299,o)
+);
+}
+);
+width = 227;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,304,o),
+(284,351,qs),
+(284,398,o),
+(223,464,o),
+(176,464,qs),
+(130,464,o),
+(69,398,o),
+(69,351,qs),
+(69,304,o),
+(130,239,o),
+(176,239,qs),
+(223,239,o)
+);
+}
+);
+width = 353;
+}
+);
+note = uni00B7;
+unicode = 183;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = hyphen.full.pwid;
+kernLeft = hyphen.full.pwid;
+kernRight = hyphen.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(283,291,l),
+(44,291,l),
+(44,256,l),
+(283,256,l)
+);
+}
+);
+width = 324;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,352,l),
+(50,352,l),
+(50,227,l),
+(333,227,l)
+);
+}
+);
+width = 383;
+}
+);
+note = glyph00014;
+}

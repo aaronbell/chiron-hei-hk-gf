@@ -1,0 +1,40 @@
+{
+glyphname = quotesingle.loclJAN;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(136,813,l),
+(136,880,l),
+(92,880,l),
+(92,813,l),
+(99,657,l),
+(129,657,l)
+);
+}
+);
+width = 231;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(260,723,l),
+(266,880,l),
+(86,880,l),
+(92,723,l),
+(128,488,l),
+(224,488,l)
+);
+}
+);
+width = 353;
+}
+);
+note = glyph49480;
+}

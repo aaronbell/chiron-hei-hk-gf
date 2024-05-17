@@ -1,0 +1,36 @@
+{
+glyphname = bar.full.vrt2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,362,l),
+(1000,362,l),
+(1000,398,l),
+(0,398,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,355,l),
+(1000,355,l),
+(1000,405,l),
+(0,405,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph51825;
+}

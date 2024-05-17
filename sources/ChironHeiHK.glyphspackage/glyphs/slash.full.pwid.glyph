@@ -1,0 +1,38 @@
+{
+glyphname = slash.full.pwid;
+kernLeft = slash.full.pwid;
+kernRight = slash.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(393,782,l),
+(359,782,l),
+(9,-176,l),
+(44,-176,l)
+);
+}
+);
+width = 396;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(351,813,l),
+(236,813,l),
+(15,-183,l),
+(131,-183,l)
+);
+}
+);
+width = 385;
+}
+);
+note = glyph00016;
+}

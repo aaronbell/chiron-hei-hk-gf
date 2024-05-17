@@ -1,0 +1,41 @@
+{
+glyphname = "verticalandtopleft-dentistry";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,880,l),
+(99,840,l),
+(579,840,l),
+(397,-120,l),
+(437,-120,l),
+(626,880,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,880,l),
+(99,840,l),
+(579,840,l),
+(397,-120,l),
+(437,-120,l),
+(626,880,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni23CB;
+unicode = 9163;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = "lh-bopomofo";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(878,143,l),
+(884,173,l),
+(136,173,l),
+(130,143,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(157,143,l),
+(261,692,l),
+(231,692,l),
+(127,143,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(886,82,l),
+(916,237,l),
+(150,237,l),
+(120,82,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(238,82,l),
+(359,717,l),
+(205,717,l),
+(84,82,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni31B9;
+unicode = 12729;
+}

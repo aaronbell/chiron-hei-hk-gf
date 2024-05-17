@@ -1,0 +1,55 @@
+{
+glyphname = enclosingsquarecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-950,-70,l),
+(-50,-70,l),
+(-50,830,l),
+(-950,830,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-76,804,l),
+(-76,-44,l),
+(-924,-44,l),
+(-924,804,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-950,-70,l),
+(-50,-70,l),
+(-50,830,l),
+(-950,830,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-90,790,l),
+(-90,-30,l),
+(-910,-30,l),
+(-910,790,l)
+);
+}
+);
+width = 0;
+}
+);
+note = uni20DE;
+unicode = 8414;
+}

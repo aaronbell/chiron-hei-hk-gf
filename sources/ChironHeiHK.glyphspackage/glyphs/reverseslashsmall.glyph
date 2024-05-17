@@ -1,0 +1,37 @@
+{
+glyphname = reverseslashsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(629,-68,l),
+(393,576,l),
+(361,576,l),
+(597,-68,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(665,-72,l),
+(426,591,l),
+(319,591,l),
+(558,-72,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uniFE68;
+unicode = 65128;
+}

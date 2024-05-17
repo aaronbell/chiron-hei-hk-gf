@@ -1,0 +1,55 @@
+{
+glyphname = "nieunJong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(693,-53,l),
+(699,-23,l),
+(109,-23,l),
+(103,-53,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(136,-48,l),
+(185,210,l),
+(153,210,l),
+(104,-48,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(731,-87,l),
+(753,34,l),
+(80,34,l),
+(58,-87,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(207,-73,l),
+(257,190,l),
+(110,190,l),
+(60,-73,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uni11AB;
+unicode = 4523;
+}

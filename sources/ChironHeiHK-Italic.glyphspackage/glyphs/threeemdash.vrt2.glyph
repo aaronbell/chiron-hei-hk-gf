@@ -1,0 +1,36 @@
+{
+glyphname = threeemdash.vrt2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(260,-1050,l),
+(800,1810,l),
+(764,1810,l),
+(224,-1050,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(267,-1045,l),
+(806,1805,l),
+(756,1805,l),
+(217,-1045,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph51033;
+}

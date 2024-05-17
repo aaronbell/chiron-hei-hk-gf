@@ -1,0 +1,24 @@
+{
+glyphname = uniA78D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Che-cy";
+}
+);
+width = 623;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+ref = "Che-cy";
+}
+);
+width = 720;
+}
+);
+unicode = 42893;
+}

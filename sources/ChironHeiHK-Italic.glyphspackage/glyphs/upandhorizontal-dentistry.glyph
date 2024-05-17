@@ -1,0 +1,45 @@
+{
+glyphname = "upandhorizontal-dentistry";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(445,-80,l),
+(626,880,l),
+(586,880,l),
+(405,-80,l),
+(-75,-80,l),
+(-83,-120,l),
+(917,-120,l),
+(925,-80,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(445,-80,l),
+(626,880,l),
+(586,880,l),
+(405,-80,l),
+(-75,-80,l),
+(-83,-120,l),
+(917,-120,l),
+(925,-80,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni23CA;
+unicode = 9162;
+}

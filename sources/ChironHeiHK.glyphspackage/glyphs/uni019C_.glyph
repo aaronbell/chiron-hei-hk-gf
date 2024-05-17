@@ -1,0 +1,30 @@
+{
+glyphname = uni019C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (761,697);
+ref = M;
+}
+);
+width = 761;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+angle = 180;
+pos = (870,697);
+ref = M;
+}
+);
+width = 870;
+}
+);
+metricLeft = M;
+metricRight = M;
+unicode = 412;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = tortoiseshellbracketrightsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(522,32,l),
+(611,502,l),
+(459,578,l),
+(453,545,l),
+(577,482,l),
+(496,52,l),
+(348,-11,l),
+(342,-44,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,22,l),
+(617,508,l),
+(452,586,l),
+(436,495,l),
+(515,456,l),
+(444,74,l),
+(349,36,l),
+(331,-57,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uniFE5E;
+unicode = 65118;
+}

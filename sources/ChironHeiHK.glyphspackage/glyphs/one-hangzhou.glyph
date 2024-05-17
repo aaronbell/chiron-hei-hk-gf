@@ -1,0 +1,37 @@
+{
+glyphname = "one-hangzhou";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(513,-48,l),
+(513,804,l),
+(482,804,l),
+(482,-48,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(578,-57,l),
+(578,816,l),
+(421,816,l),
+(421,-57,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni3021;
+unicode = 12321;
+}

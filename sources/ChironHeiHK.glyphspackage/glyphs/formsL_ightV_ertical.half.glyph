@@ -1,0 +1,37 @@
+{
+glyphname = formsLightVertical.half;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(266,824,l),
+(234,824,l),
+(234,-276,l),
+(266,-276,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(308,862,l),
+(192,862,l),
+(192,-288,l),
+(308,-288,l)
+);
+}
+);
+width = 500;
+}
+);
+note = uniFFE8;
+unicode = 65512;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = "Two-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(468,721,l),
+(427,721,l),
+(291,0,l),
+(332,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(726,721,l),
+(685,721,l),
+(549,0,l),
+(590,0,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,749,l),
+(316,749,l),
+(174,0,l),
+(354,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(848,749,l),
+(668,749,l),
+(526,0,l),
+(706,0,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni2161;
+unicode = 8545;
+}

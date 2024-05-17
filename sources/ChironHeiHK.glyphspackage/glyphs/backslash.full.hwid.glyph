@@ -1,0 +1,36 @@
+{
+glyphname = backslash.full.hwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,780,l),
+(58,780,l),
+(408,-176,l),
+(442,-176,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(126,816,l),
+(10,816,l),
+(372,-184,l),
+(488,-184,l)
+);
+}
+);
+width = 500;
+}
+);
+note = glyph49593;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = I.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,726,l),
+(110,726,l),
+(110,0,l),
+(147,0,l)
+);
+}
+);
+width = 257;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,745,l),
+(86,745,l),
+(86,0,l),
+(265,0,l)
+);
+}
+);
+width = 350;
+}
+);
+note = glyph00042;
+}

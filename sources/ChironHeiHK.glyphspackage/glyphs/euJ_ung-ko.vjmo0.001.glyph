@@ -1,0 +1,36 @@
+{
+glyphname = "euJung-ko.vjmo0.001";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-60,56,l),
+(-60,87,l),
+(-861,87,l),
+(-861,56,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-35,3,l),
+(-35,138,l),
+(-884,138,l),
+(-884,3,l)
+);
+}
+);
+width = 0;
+}
+);
+note = glyph50885;
+}

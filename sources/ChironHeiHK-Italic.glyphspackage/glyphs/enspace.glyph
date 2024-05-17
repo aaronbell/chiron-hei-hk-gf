@@ -1,0 +1,15 @@
+{
+glyphname = enspace;
+layers = (
+{
+layerId = m01;
+width = 500;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+width = 500;
+}
+);
+note = uni2002;
+unicode = 8194;
+}

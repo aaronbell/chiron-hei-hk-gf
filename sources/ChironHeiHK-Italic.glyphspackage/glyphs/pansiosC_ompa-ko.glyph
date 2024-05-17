@@ -1,0 +1,51 @@
+{
+glyphname = "pansiosCompa-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,660,l),
+(224,146,l),
+(649,146,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(275,174,l),
+(517,586,l),
+(608,174,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(537,726,l),
+(150,92,l),
+(685,92,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(390,232,l),
+(469,368,l),
+(494,232,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uni317F;
+unicode = 12671;
+}

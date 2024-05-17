@@ -1,0 +1,36 @@
+{
+glyphname = emdash_emdash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1607,291,l),
+(44,291,l),
+(44,260,l),
+(1607,260,l)
+);
+}
+);
+width = 1651;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1666,346,l),
+(50,346,l),
+(50,234,l),
+(1666,234,l)
+);
+}
+);
+width = 1716;
+}
+);
+note = glyph01355;
+}

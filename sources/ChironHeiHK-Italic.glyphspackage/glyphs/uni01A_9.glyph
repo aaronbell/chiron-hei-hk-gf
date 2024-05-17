@@ -1,0 +1,26 @@
+{
+glyphname = uni01A9;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Sigma;
+}
+);
+width = 552;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+ref = Sigma;
+}
+);
+width = 597;
+}
+);
+metricLeft = Sigma;
+metricRight = Sigma;
+unicode = 425;
+}

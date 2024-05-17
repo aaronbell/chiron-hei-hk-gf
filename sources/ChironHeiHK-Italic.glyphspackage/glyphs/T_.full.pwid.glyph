@@ -1,0 +1,46 @@
+{
+glyphname = T.full.pwid;
+kernLeft = T.full.pwid;
+kernRight = T.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,693,l),
+(611,693,l),
+(617,726,l),
+(110,726,l),
+(104,693,l),
+(338,693,l),
+(207,0,l),
+(246,0,l)
+);
+}
+);
+width = 573;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(462,596,l),
+(664,596,l),
+(692,745,l),
+(110,745,l),
+(82,596,l),
+(283,596,l),
+(170,0,l),
+(349,0,l)
+);
+}
+);
+width = 640;
+}
+);
+note = glyph00053;
+}

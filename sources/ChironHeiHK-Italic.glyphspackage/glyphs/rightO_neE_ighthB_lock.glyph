@@ -1,0 +1,37 @@
+{
+glyphname = rightOneEighthBlock;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1106,880,l),
+(981,880,l),
+(792,-120,l),
+(917,-120,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1106,880,l),
+(981,880,l),
+(792,-120,l),
+(917,-120,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni2595;
+unicode = 9621;
+}

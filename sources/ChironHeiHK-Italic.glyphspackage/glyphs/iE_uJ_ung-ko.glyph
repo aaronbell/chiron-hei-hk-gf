@@ -1,0 +1,55 @@
+{
+glyphname = "iEuJung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(861,322,l),
+(867,352,l),
+(66,352,l),
+(60,322,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(782,402,l),
+(860,815,l),
+(828,815,l),
+(750,402,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(876,276,l),
+(899,396,l),
+(50,396,l),
+(27,276,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(852,441,l),
+(928,843,l),
+(781,843,l),
+(705,441,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uni119C;
+unicode = 4508;
+}

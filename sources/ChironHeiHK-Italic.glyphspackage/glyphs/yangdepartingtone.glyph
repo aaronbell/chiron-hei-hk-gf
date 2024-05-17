@@ -1,0 +1,65 @@
+{
+glyphname = yangdepartingtone;
+layers = (
+{
+anchors = (
+{
+name = _class0;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(521,591,l),
+(526,621,l),
+(260,621,l),
+(255,591,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(220,334,l),
+(315,838,l),
+(284,838,l),
+(189,334,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _class0;
+}
+);
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(539,532,l),
+(567,680,l),
+(296,680,l),
+(268,532,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(287,331,l),
+(384,844,l),
+(232,844,l),
+(135,331,l)
+);
+}
+);
+width = 600;
+}
+);
+note = uni02EB;
+unicode = 747;
+}

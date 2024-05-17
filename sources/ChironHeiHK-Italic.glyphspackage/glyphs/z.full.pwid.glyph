@@ -1,0 +1,50 @@
+{
+glyphname = z.full.pwid;
+kernLeft = z.full.pwid;
+kernRight = z.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(355,33,l),
+(22,33,l),
+(434,507,l),
+(438,527,l),
+(104,527,l),
+(97,494,l),
+(384,494,l),
+(-27,19,l),
+(-31,0,l),
+(349,0,l)
+);
+}
+);
+width = 438;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,139,l),
+(232,139,l),
+(527,474,l),
+(545,569,l),
+(118,569,l),
+(91,430,l),
+(296,430,l),
+(2,95,l),
+(-16,0,l),
+(445,0,l)
+);
+}
+);
+width = 532;
+}
+);
+note = glyph00091;
+}

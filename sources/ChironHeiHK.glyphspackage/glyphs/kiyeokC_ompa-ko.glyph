@@ -1,0 +1,41 @@
+{
+glyphname = "kiyeokCompa-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(696,558,l),
+(696,142,l),
+(729,142,l),
+(729,588,l),
+(191,588,l),
+(191,558,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(601,513,l),
+(601,127,l),
+(760,127,l),
+(760,640,l),
+(160,640,l),
+(160,513,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uniFFA1;
+unicode = (12593,65441);
+}

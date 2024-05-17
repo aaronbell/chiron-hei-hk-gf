@@ -1,0 +1,37 @@
+{
+glyphname = lowerSevenEighthsBlock;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,755,l),
+(0,755,l),
+(0,-120,l),
+(1000,-120,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,755,l),
+(0,755,l),
+(0,-120,l),
+(1000,-120,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni2587;
+unicode = 9607;
+}

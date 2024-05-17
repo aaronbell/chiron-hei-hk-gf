@@ -1,0 +1,37 @@
+{
+glyphname = underscore.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-120,l),
+(1000,-120,l),
+(1000,-84,l),
+(0,-84,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-120,l),
+(1000,-120,l),
+(1000,-70,l),
+(0,-70,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uniFF3F;
+unicode = 65343;
+}

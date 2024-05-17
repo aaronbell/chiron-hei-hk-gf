@@ -1,0 +1,14 @@
+{
+glyphname = glyph49477;
+layers = (
+{
+layerId = m01;
+width = 280;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+width = 280;
+}
+);
+note = glyph49477;
+}

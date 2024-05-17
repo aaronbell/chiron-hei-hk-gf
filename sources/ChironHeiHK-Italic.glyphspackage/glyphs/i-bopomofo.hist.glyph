@@ -1,0 +1,56 @@
+{
+glyphname = "i-bopomofo.hist";
+layers = (
+{
+anchors = (
+{
+name = class0;
+pos = (960,0);
+},
+{
+name = class0_;
+pos = (640,600);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(448,-53,l),
+(611,807,l),
+(581,807,l),
+(418,-53,l)
+);
+}
+);
+width = 1000;
+},
+{
+anchors = (
+{
+name = class0;
+pos = (960,0);
+},
+{
+name = class0_;
+pos = (640,600);
+}
+);
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(512,-57,l),
+(677,816,l),
+(517,816,l),
+(352,-57,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph01683;
+}

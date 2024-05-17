@@ -1,0 +1,54 @@
+{
+glyphname = quotedoubleprimeReversed.vrt2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(899,197,l),
+(702,-65,l),
+(726,-79,l),
+(939,171,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(721,197,l),
+(524,-65,l),
+(548,-79,l),
+(761,171,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(840,195,l),
+(662,-59,l),
+(734,-96,l),
+(950,132,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(631,195,l),
+(453,-59,l),
+(525,-96,l),
+(741,132,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph51028;
+}

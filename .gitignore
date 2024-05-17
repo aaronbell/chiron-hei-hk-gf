@@ -1,0 +1,8 @@
+instance_ufos
+*.md
+.DS_Store
+venv
+sources_old
+*.ninja
+.ninja_log
+fonts_original

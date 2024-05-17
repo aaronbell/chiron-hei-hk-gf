@@ -1,0 +1,54 @@
+{
+glyphname = "mieumCho-ko.ljmo0";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(488,387,l),
+(557,751,l),
+(203,751,l),
+(134,387,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(173,417,l),
+(230,722,l),
+(519,722,l),
+(462,417,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(510,375,l),
+(588,788,l),
+(150,788,l),
+(72,375,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(230,486,l),
+(266,678,l),
+(430,678,l),
+(394,486,l)
+);
+}
+);
+width = 920;
+}
+);
+note = glyph49674;
+}

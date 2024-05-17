@@ -1,0 +1,36 @@
+{
+glyphname = underscore.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(537,-90,l),
+(13,-90,l),
+(13,-126,l),
+(537,-126,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(558,-64,l),
+(14,-64,l),
+(14,-163,l),
+(558,-163,l)
+);
+}
+);
+width = 572;
+}
+);
+note = glyph00064;
+}

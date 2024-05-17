@@ -1,0 +1,38 @@
+{
+glyphname = glyph00737;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,692,l),
+(233,761,l),
+(201,763,l),
+(134,548,l),
+(157,546,l)
+);
+}
+);
+width = 231;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,634,l),
+(381,784,l),
+(203,784,l),
+(116,435,l),
+(232,434,l)
+);
+}
+);
+width = 351;
+}
+);
+note = glyph00737;
+}

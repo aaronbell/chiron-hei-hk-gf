@@ -1,0 +1,55 @@
+{
+glyphname = "mieumCompa-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(705,141,l),
+(791,597,l),
+(249,597,l),
+(163,141,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,171,l),
+(276,567,l),
+(752,567,l),
+(677,171,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(727,136,l),
+(821,635,l),
+(221,635,l),
+(127,136,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(311,263,l),
+(357,507,l),
+(637,507,l),
+(591,263,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uniFFB1;
+unicode = (12609,65457);
+}

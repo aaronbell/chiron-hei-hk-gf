@@ -1,0 +1,15 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = m01;
+width = 514;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+width = 605;
+}
+);
+note = uni2007;
+unicode = 8199;
+}

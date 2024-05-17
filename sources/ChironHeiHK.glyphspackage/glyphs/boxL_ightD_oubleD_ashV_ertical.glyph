@@ -1,0 +1,55 @@
+{
+glyphname = boxLightDoubleDashVertical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,755,l),
+(480,755,l),
+(480,505,l),
+(520,505,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(520,255,l),
+(480,255,l),
+(480,5,l),
+(520,5,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,755,l),
+(480,755,l),
+(480,505,l),
+(520,505,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(520,255,l),
+(480,255,l),
+(480,5,l),
+(520,5,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni254E;
+unicode = 9550;
+}

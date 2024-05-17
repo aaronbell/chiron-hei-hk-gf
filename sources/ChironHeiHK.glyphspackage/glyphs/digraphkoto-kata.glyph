@@ -1,0 +1,41 @@
+{
+glyphname = "digraphkoto-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(750,-46,l),
+(782,-46,l),
+(782,752,l),
+(203,752,l),
+(203,720,l),
+(750,720,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(644,-57,l),
+(803,-57,l),
+(803,797,l),
+(185,797,l),
+(185,653,l),
+(644,653,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni30FF;
+unicode = 12543;
+}

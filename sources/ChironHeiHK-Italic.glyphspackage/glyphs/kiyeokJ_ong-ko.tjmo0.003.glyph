@@ -1,0 +1,40 @@
+{
+glyphname = "kiyeokJong-ko.tjmo0.003";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-232,171,l),
+(-278,-72,l),
+(-245,-72,l),
+(-193,201,l),
+(-769,201,l),
+(-775,171,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-328,84,l),
+(-361,-90,l),
+(-214,-90,l),
+(-158,204,l),
+(-812,204,l),
+(-835,84,l)
+);
+}
+);
+width = 0;
+}
+);
+note = glyph50888;
+}

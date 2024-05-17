@@ -1,0 +1,41 @@
+{
+glyphname = anglebracketleft.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(879,-30,l),
+(899,-3,l),
+(498,305,l),
+(-21,-3,l),
+(-11,-30,l),
+(491,268,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(853,-65,l),
+(925,54,l),
+(503,335,l),
+(-25,54,l),
+(3,-65,l),
+(475,186,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uniFE3F;
+unicode = 65087;
+}

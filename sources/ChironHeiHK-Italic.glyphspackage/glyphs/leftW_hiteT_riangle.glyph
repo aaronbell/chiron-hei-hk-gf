@@ -1,0 +1,51 @@
+{
+glyphname = leftWhiteTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,377,l),
+(800,-93,l),
+(978,847,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(135,377,l),
+(938,795,l),
+(780,-41,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,377,l),
+(800,-93,l),
+(978,847,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(171,377,l),
+(914,764,l),
+(768,-10,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni25C1;
+unicode = 9665;
+}

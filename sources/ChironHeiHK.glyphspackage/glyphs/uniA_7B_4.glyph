@@ -1,0 +1,26 @@
+{
+glyphname = uniA7B4;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Beta;
+}
+);
+width = 626;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+ref = Beta;
+}
+);
+width = 688;
+}
+);
+metricLeft = Beta;
+metricRight = Beta;
+unicode = 42932;
+}

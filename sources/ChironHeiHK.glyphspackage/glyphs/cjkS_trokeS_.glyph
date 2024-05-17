@@ -1,0 +1,37 @@
+{
+glyphname = cjkStrokeS;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,-40,l),
+(518,803,l),
+(488,803,l),
+(488,-40,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(583,-51,l),
+(583,818,l),
+(423,818,l),
+(423,-51,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni31D1;
+unicode = 12753;
+}

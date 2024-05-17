@@ -1,0 +1,36 @@
+{
+glyphname = hyphen.full.hwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,294,l),
+(112,294,l),
+(105,258,l),
+(373,258,l)
+);
+}
+);
+width = 500;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(416,358,l),
+(100,358,l),
+(75,226,l),
+(391,226,l)
+);
+}
+);
+width = 500;
+}
+);
+note = glyph49062;
+}

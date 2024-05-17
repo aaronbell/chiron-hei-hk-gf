@@ -1,0 +1,37 @@
+{
+glyphname = bar.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,-120,l),
+(435,-120,l),
+(624,880,l),
+(588,880,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(392,-120,l),
+(442,-120,l),
+(631,880,l),
+(581,880,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uniFF5C;
+unicode = 65372;
+}

@@ -1,0 +1,41 @@
+{
+glyphname = boxLightDownAndLeft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,400,l),
+(8,360,l),
+(488,360,l),
+(397,-120,l),
+(437,-120,l),
+(536,400,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,400,l),
+(8,360,l),
+(488,360,l),
+(397,-120,l),
+(437,-120,l),
+(536,400,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni2510;
+unicode = 9488;
+}

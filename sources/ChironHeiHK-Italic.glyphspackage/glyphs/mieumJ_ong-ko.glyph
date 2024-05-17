@@ -1,0 +1,55 @@
+{
+glyphname = "mieumJong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(676,-65,l),
+(728,214,l),
+(153,214,l),
+(101,-65,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(138,-35,l),
+(180,185,l),
+(690,185,l),
+(648,-35,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(708,-95,l),
+(765,204,l),
+(114,204,l),
+(57,-95,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(219,17,l),
+(233,92,l),
+(602,92,l),
+(588,17,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uni11B7;
+unicode = 4535;
+}

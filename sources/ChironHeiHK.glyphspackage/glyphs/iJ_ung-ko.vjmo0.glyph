@@ -1,0 +1,36 @@
+{
+glyphname = "iJung-ko.vjmo0";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-173,311,l),
+(-173,815,l),
+(-206,815,l),
+(-206,311,l)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-91,329,l),
+(-91,843,l),
+(-238,843,l),
+(-238,329,l)
+);
+}
+);
+width = 0;
+}
+);
+note = glyph50793;
+}

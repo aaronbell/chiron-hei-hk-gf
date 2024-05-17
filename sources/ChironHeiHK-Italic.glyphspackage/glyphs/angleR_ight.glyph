@@ -1,0 +1,41 @@
+{
+glyphname = angleRight;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,380,l),
+(236,840,l),
+(206,825,l),
+(420,380,l),
+(38,-65,l),
+(62,-80,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(497,380,l),
+(306,855,l),
+(177,805,l),
+(348,380,l),
+(16,-45,l),
+(126,-95,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni232A;
+unicode = (9002,12297);
+}

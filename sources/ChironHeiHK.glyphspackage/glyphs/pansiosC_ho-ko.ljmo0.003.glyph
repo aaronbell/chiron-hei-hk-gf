@@ -1,0 +1,50 @@
+{
+glyphname = "pansiosCho-ko.ljmo0.003";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,727,l),
+(97,185,l),
+(483,185,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(139,215,l),
+(287,627,l),
+(440,215,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(276,770,l),
+(68,136,l),
+(485,136,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(248,260,l),
+(276,344,l),
+(304,260,l)
+);
+}
+);
+width = 920;
+}
+);
+note = glyph50588;
+}

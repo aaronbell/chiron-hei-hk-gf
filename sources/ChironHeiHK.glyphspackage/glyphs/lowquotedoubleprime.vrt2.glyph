@@ -1,0 +1,54 @@
+{
+glyphname = lowquotedoubleprime.vrt2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(78,563,l),
+(226,825,l),
+(199,839,l),
+(33,589,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(256,563,l),
+(404,825,l),
+(377,839,l),
+(211,589,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,565,l),
+(267,819,l),
+(188,856,l),
+(15,628,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(346,565,l),
+(476,819,l),
+(397,856,l),
+(224,628,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph51513;
+}

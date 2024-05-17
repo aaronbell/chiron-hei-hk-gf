@@ -1,0 +1,15 @@
+{
+glyphname = thinspace;
+layers = (
+{
+layerId = m01;
+width = 109;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+width = 113;
+}
+);
+note = uni2009;
+unicode = 8201;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = whiteDiamond;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(24,380,l),
+(420,-108,l),
+(1000,380,l),
+(604,868,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(957,380,l),
+(428,-65,l),
+(67,380,l),
+(596,825,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(24,380,l),
+(420,-108,l),
+(1000,380,l),
+(604,868,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(932,380,l),
+(432,-40,l),
+(92,380,l),
+(591,800,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni25C7;
+unicode = 9671;
+}

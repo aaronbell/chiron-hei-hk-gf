@@ -1,0 +1,15 @@
+{
+glyphname = narrownbspace;
+layers = (
+{
+layerId = m01;
+width = 131;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+width = 136;
+}
+);
+note = uni202F;
+unicode = 8239;
+}

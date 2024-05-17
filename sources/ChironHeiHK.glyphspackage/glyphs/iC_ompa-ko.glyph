@@ -1,0 +1,37 @@
+{
+glyphname = "iCompa-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(483,-68,l),
+(483,792,l),
+(450,792,l),
+(450,-68,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(543,-89,l),
+(543,844,l),
+(382,844,l),
+(382,-89,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uni3163;
+unicode = (12643,65500);
+}

@@ -1,0 +1,26 @@
+{
+glyphname = uni019F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Obarred-cy";
+}
+);
+width = 706;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+ref = "Obarred-cy";
+}
+);
+width = 779;
+}
+);
+metricLeft = "Obarred-cy";
+metricRight = "Obarred-cy";
+unicode = 415;
+}

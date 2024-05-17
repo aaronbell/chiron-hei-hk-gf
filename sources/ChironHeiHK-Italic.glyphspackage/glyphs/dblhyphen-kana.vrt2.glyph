@@ -1,0 +1,54 @@
+{
+glyphname = "dblhyphen-kana.vrt2";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(492,590,l),
+(462,590,l),
+(382,170,l),
+(412,170,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(642,590,l),
+(612,590,l),
+(532,170,l),
+(562,170,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(494,605,l),
+(449,605,l),
+(364,155,l),
+(409,155,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(659,605,l),
+(614,605,l),
+(529,155,l),
+(574,155,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = glyph51133;
+}

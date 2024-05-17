@@ -1,0 +1,51 @@
+{
+glyphname = downWhiteTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(428,-66,l),
+(1051,748,l),
+(111,748,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(439,-6,l),
+(158,718,l),
+(994,718,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(428,-66,l),
+(1051,748,l),
+(111,748,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(446,30,l),
+(185,700,l),
+(959,700,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni25BD;
+unicode = 9661;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = "dblhyphen-kana";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(733,440,l),
+(739,470,l),
+(319,470,l),
+(313,440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(705,290,l),
+(710,320,l),
+(290,320,l),
+(285,290,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(748,440,l),
+(757,485,l),
+(307,485,l),
+(298,440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(717,275,l),
+(725,320,l),
+(275,320,l),
+(267,275,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni30A0;
+unicode = 12448;
+}

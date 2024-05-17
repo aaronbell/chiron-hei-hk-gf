@@ -1,0 +1,65 @@
+{
+glyphname = yindepartingtonemod;
+layers = (
+{
+anchors = (
+{
+name = _class0;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(469,334,l),
+(469,364,l),
+(203,364,l),
+(203,334,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(217,334,l),
+(217,838,l),
+(186,838,l),
+(186,334,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _class0;
+}
+);
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,332,l),
+(498,480,l),
+(227,480,l),
+(227,332,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(284,331,l),
+(284,844,l),
+(132,844,l),
+(132,331,l)
+);
+}
+);
+width = 600;
+}
+);
+note = uni02EA;
+unicode = 746;
+}

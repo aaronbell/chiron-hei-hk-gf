@@ -1,0 +1,39 @@
+{
+glyphname = blackShogiPiece;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(31,-39,l),
+(817,-39,l),
+(862,635,l),
+(586,821,l),
+(240,635,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(28,-44,l),
+(822,-44,l),
+(868,636,l),
+(589,824,l),
+(238,636,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni2617;
+unicode = 9751;
+}

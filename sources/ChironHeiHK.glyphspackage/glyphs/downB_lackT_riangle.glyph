@@ -1,0 +1,35 @@
+{
+glyphname = downBlackTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,-66,l),
+(970,748,l),
+(30,748,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,-66,l),
+(970,748,l),
+(30,748,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni25BC;
+unicode = 9660;
+}

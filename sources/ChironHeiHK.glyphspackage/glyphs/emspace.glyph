@@ -1,0 +1,15 @@
+{
+glyphname = emspace;
+layers = (
+{
+layerId = m01;
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+width = 1000;
+}
+);
+note = uni2003;
+unicode = (8195,12288);
+}

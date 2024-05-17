@@ -1,0 +1,37 @@
+{
+glyphname = "euCompa-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(864,371,l),
+(870,401,l),
+(78,401,l),
+(72,371,l)
+);
+}
+);
+width = 920;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(887,329,l),
+(912,459,l),
+(63,459,l),
+(38,329,l)
+);
+}
+);
+width = 920;
+}
+);
+note = uni3161;
+unicode = (12641,65498);
+}

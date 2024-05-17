@@ -1,0 +1,41 @@
+{
+glyphname = quotesingle.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(532,799,l),
+(531,880,l),
+(469,880,l),
+(468,799,l),
+(486,584,l),
+(514,584,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "2B284C16-EA14-4761-8C41-B0F9D88443D8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(584,722,l),
+(590,880,l),
+(410,880,l),
+(416,722,l),
+(452,488,l),
+(548,488,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uniFF07;
+unicode = 65287;
+}

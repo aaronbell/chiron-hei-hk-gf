@@ -1,0 +1,55 @@
+{
+glyphname = "two-hangzhou";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(585,-47,l),
+(746,805,l),
+(715,805,l),
+(554,-47,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(341,76,l),
+(458,693,l),
+(428,693,l),
+(311,76,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(644,-55,l),
+(809,818,l),
+(652,818,l),
+(487,-55,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(399,69,l),
+(520,708,l),
+(368,708,l),
+(247,69,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = uni3022;
+unicode = 12322;
+}

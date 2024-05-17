@@ -1,0 +1,36 @@
+{
+glyphname = grave.full.pwid;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,820,l),
+(268,797,l),
+(389,631,l),
+(414,651,l)
+);
+}
+);
+width = 586;
+},
+{
+layerId = "0C2271EE-6BB0-42BD-9F3A-E5D7E2C847CD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,953,l),
+(191,835,l),
+(367,655,l),
+(470,741,l)
+);
+}
+);
+width = 637;
+}
+);
+note = glyph00065;
+}
