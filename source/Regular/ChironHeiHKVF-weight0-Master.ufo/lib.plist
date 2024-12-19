@@ -2,6 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
@@ -27633,7 +27649,7 @@
       <string>cid40000</string>
       <string>cid40001</string>
       <string>cid40002</string>
-      <string>cid40003</string>
+      <string>space</string>
       <string>cid40004</string>
       <string>cid40005</string>
       <string>cid40006</string>

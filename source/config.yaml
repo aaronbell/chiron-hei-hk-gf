@@ -1,0 +1,8 @@
+sources:
+  - ChironHeiHK-Italic.designspace
+  - ChironHeiHK.designspace
+familyName: Chiron Hei HK
+autohintTTF: False
+buildOTF: False
+buildWebfont: False
+buildSmallCap: False

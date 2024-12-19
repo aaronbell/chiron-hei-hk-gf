@@ -1266,7 +1266,7 @@ lookup AlternateSubstitution2 {
     sub cid00749 from [cid59211 cid63260];
     sub cid01396 from [cid63164 cid00001];
     sub cid01424 from [cid63258 cid00095];
-    sub cid40003 from [cid01396 cid45431];
+    sub space from [cid01396 cid45431];
     sub cid40008 from [cid59079 cid43324];
     sub cid40010 from [cid59080 cid43328];
     sub cid40012 from [cid59081 cid43330];
@@ -1683,7 +1683,7 @@ lookup AlternateSubstitution2 {
     sub cid63160 from [cid59069 cid63187];
     sub cid63161 from [cid59070 cid63188];
     sub cid63162 from [cid59071 cid63189];
-    sub cid63164 from [cid01396 cid40003];
+    sub cid63164 from [cid01396 space];
     sub cid63165 from [cid59047 cid42995];
     sub cid63166 from [cid59048 cid43007];
     sub cid63167 from [cid59049 cid43323];
@@ -5753,6 +5753,20 @@ lookup SingleSubstitution56 {
     sub cid65342 by cid01683;
 } SingleSubstitution56;
 
+lookup SingleSubstitution126 {
+    lookupflag 0;
+    # Original source: 125 
+    sub cid44220 by cid44320;
+} SingleSubstitution126;
+
+lookup ChainedContextualGSUB101 {
+    lookupflag 0;
+    ;
+    # Original source: 100 
+    sub cid44220' lookup SingleSubstitution126 cid44220;
+    sub [cid44219 cid44320] cid44220' lookup SingleSubstitution126;
+} ChainedContextualGSUB101;
+
 lookup LigatureSubstitution57 {
     lookupflag 0;
     ;
@@ -6608,7 +6622,7 @@ lookup SingleSubstitution81 {
     sub cid00749 by cid59211;
     sub cid01355 by cid63143;
     sub cid01356 by cid63144;
-    sub cid40003 by cid01396;
+    sub space by cid01396;
     sub cid40008 by cid59079;
     sub cid40010 by cid59080;
     sub cid40012 by cid59081;
@@ -7198,7 +7212,7 @@ lookup SingleSubstitution83 {
     sub cid63108 by cid00001;
     sub cid63143 by cid43142;
     sub cid63144 by cid43143;
-    sub cid63164 by cid40003;
+    sub cid63164 by space;
     sub cid63165 by cid42995;
     sub cid63166 by cid43007;
     sub cid63167 by cid43323;
@@ -7883,7 +7897,7 @@ lookup SingleSubstitution125 {
     lookupflag 0;
     ;
     # Original source: 124 
-    sub cid40003 by cid45431;
+    sub space by cid45431;
     sub cid44477 by cid44453;
     sub cid44479 by cid44455;
     sub cid44481 by cid44456;
@@ -7904,7 +7918,7 @@ lookup ChainedContextualGSUB96 {
     lookupflag 0;
     ;
     # Original source: 95 
-    sub @class217 cid40003' lookup SingleSubstitution125;
+    sub @class217 space' lookup SingleSubstitution125;
     sub @class219 @class218' lookup SingleSubstitution125;
     sub @class221 cid45431 @class218' lookup SingleSubstitution125;
 } ChainedContextualGSUB96;
@@ -8512,21 +8526,6 @@ lookup SingleSubstitution100 {
     sub cid42516 by cid44329;
     sub cid42517 by cid44332;
 } SingleSubstitution100;
-
-lookup SingleSubstitution126 {
-    lookupflag 0;
-    ;
-    # Original source: 125 
-    sub cid44220 by cid44320;
-} SingleSubstitution126;
-
-lookup ChainedContextualGSUB101 {
-    lookupflag 0;
-    ;
-    # Original source: 100 
-    sub cid44220' lookup SingleSubstitution126 cid44220;
-    sub [cid44219 cid44320] cid44220' lookup SingleSubstitution126;
-} ChainedContextualGSUB101;
 
 lookup SingleSubstitution102 {
     lookupflag 0;
@@ -21701,6 +21700,11 @@ feature hwid {
 
 } hwid;
 
+feature smcp {
+        lookup ChainedContextualGSUB101;
+
+} smcp;
+
 feature liga {
         lookup LigatureSubstitution57;
 
@@ -21745,11 +21749,6 @@ feature sinf {
         lookup SingleSubstitution7;
 
 } sinf;
-
-feature smcp {
-        lookup ChainedContextualGSUB101;
-
-} smcp;
 
 feature ss01 {
         lookup SingleSubstitution12;

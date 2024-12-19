@@ -460,7 +460,7 @@ lookup AlternateSubstitution2 {
     sub cid00749 from [cid59211 cid63260];
     sub cid01396 from [cid63164 cid00001];
     sub cid01424 from [cid63258 cid00095];
-    sub cid40003 from [cid01396 cid44414];
+    sub space from [cid01396 cid44414];
     sub cid40008 from [cid59079];
     sub cid40010 from [cid59080];
     sub cid40012 from [cid59081];
@@ -726,7 +726,7 @@ lookup AlternateSubstitution2 {
     sub cid63160 from [cid59069 cid63187];
     sub cid63161 from [cid59070 cid63188];
     sub cid63162 from [cid59071 cid63189];
-    sub cid63164 from [cid01396 cid40003];
+    sub cid63164 from [cid01396 space];
     sub cid63165 from [cid59047 cid42995];
     sub cid63166 from [cid59048 cid43007];
     sub cid63167 from [cid59049 cid43323];
@@ -5629,7 +5629,7 @@ lookup SingleSubstitution80 {
     sub cid00749 by cid59211;
     sub cid01355 by cid63143;
     sub cid01356 by cid63144;
-    sub cid40003 by cid01396;
+    sub space by cid01396;
     sub cid40008 by cid59079;
     sub cid40010 by cid59080;
     sub cid40012 by cid59081;
@@ -6219,7 +6219,7 @@ lookup SingleSubstitution82 {
     sub cid63108 by cid00001;
     sub cid63143 by cid43142;
     sub cid63144 by cid43143;
-    sub cid63164 by cid40003;
+    sub cid63164 by space;
     sub cid63165 by cid42995;
     sub cid63166 by cid43007;
     sub cid63167 by cid43323;
@@ -6907,7 +6907,7 @@ lookup SingleSubstitution116 {
     lookupflag 0;
     ;
     # Original source: 115 
-    sub cid40003 by cid44414;
+    sub space by cid44414;
     sub cid43424 by cid43392;
     sub cid43426 by cid43394;
     sub cid43427 by cid43395;
@@ -6928,7 +6928,7 @@ lookup ChainedContextualGSUB96 {
     lookupflag 0;
     ;
     # Original source: 95 
-    sub @class217 cid40003' lookup SingleSubstitution116;
+    sub @class217 space' lookup SingleSubstitution116;
     sub @class219 @class218' lookup SingleSubstitution116;
     sub @class221 cid44414 @class218' lookup SingleSubstitution116;
 } ChainedContextualGSUB96;
@@ -14263,3 +14263,22 @@ feature vpal {
 
 } vpal;
 
+table BASE {
+  HorizAxis.BaseTagList     icfb  icft  ideo  romn;
+  HorizAxis.BaseScriptList  
+                DFLT 	ideo  	-68   828  -120     0,
+                hani  	ideo   	-68   828  -120     0,
+                kana  	ideo   	-68   828  -120     0,
+                latn  	romn   	-68   828  -120     0,
+                cyrl  	romn   	-68   828  -120     0,
+                grek  	romn   	-68   828  -120     0;
+
+  VertAxis.BaseTagList      icfb  icft  ideo  romn;
+  VertAxis.BaseScriptList 
+                DFLT  	ideo    	43   952     0   120,
+                hani  	ideo    	43   952     0   120,
+                kana  	ideo    	43   952     0   120,
+                latn  	romn   	    43   952     0   120,
+                cyrl  	romn    	43   952     0   120,
+                grek  	romn    	43   952     0   120;
+} BASE;
