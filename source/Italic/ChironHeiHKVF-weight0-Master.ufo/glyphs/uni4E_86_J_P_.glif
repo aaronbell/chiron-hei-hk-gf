@@ -2,7 +2,6 @@
 <glyph name="uni4E86_JP" format="2">
   <advance height="1000" width="1000"/>
   <unicode hex="F9BA"/>
-  <unicode hex="4E86"/>
   <outline>
     <contour>
       <point x="515" y="491" type="line"/>

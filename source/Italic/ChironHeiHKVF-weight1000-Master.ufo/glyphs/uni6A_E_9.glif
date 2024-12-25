@@ -126,16 +126,16 @@
       <point x="568" y="253" type="line"/>
     </contour>
     <contour>
-      <point x="592" y="327" type="line"/>
-      <point x="563" y="311"/>
-      <point x="519" y="295"/>
-      <point x="483" y="283" type="curve"/>
-      <point x="488" y="263"/>
-      <point x="493" y="234"/>
-      <point x="495" y="215" type="curve"/>
-      <point x="535" y="223"/>
-      <point x="590" y="237"/>
-      <point x="638" y="256" type="curve"/>
+      <point x="591" y="327" type="line"/>
+      <point x="562" y="311"/>
+      <point x="518" y="295"/>
+      <point x="482" y="283" type="curve"/>
+      <point x="487" y="263"/>
+      <point x="492" y="234"/>
+      <point x="494" y="215" type="curve"/>
+      <point x="534" y="223"/>
+      <point x="589" y="237"/>
+      <point x="637" y="256" type="curve"/>
     </contour>
     <contour>
       <point x="592" y="498" type="line"/>

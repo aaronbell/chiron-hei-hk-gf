@@ -2,7 +2,6 @@
 <glyph name="uni674E_JP" format="2">
   <advance height="1000" width="1000"/>
   <unicode hex="F9E1"/>
-  <unicode hex="674E"/>
   <outline>
     <contour>
       <point x="133" y="692" type="line"/>
