@@ -52,7 +52,7 @@ table GDEF {
     markClass [uni02EA uni02EB uni0300.lgc uni0301.lgc uni030C.lgc] <anchor 0 0> @Anchor4__Anchor4;
 
     markClass [gravecmb variacmb acutecmb tonoscmb circumflexcmb tildecmb macroncmb overlinecmb brevecmb brevecmb.cyr dotaccentcmb dieresiscmb hoicmb ringcmb hungarumlautcmb caroncmb verticallineabovecmb dblgravecmb breveinvertedcmb commaturnedabovecmb aspercmb commaabovecmb leniscmb commabelowcmb.a xabovecmb perispomenicmb koroniscmb dialytikatonoscmb ringhalfrightabovecmb circumflexgrave circumflexacute circumflextilde circumflexmacron circumflexbreve circumflexhoi macrongrave macronacute brevegrave breveacute brevetilde brevehoi dieresisgrave dialytikagravecmb dieresisacute dieresistilde dieresismacron dieresiscaron ringacute carondotaccent caroncomma aspergravecmb asperacutecmb aspertildecmb lenisgravecmb lenisacutecmb lenistildecmb] <anchor 0 547> @Anchor6__Anchor6;
-    markClass [gravecmb.cap acutecmb.cap circumflexcmb.cap tildecmb.cap overlinecmb.cap overlinecmb.cap brevecmb.cap brevecmb.cyrcap dotaccentcmb.cap dieresiscmb.cap hoicmb.cap ringcmb.cap hungarumlautcmb.cap caroncmb.cap verticallineabovecmb.cap dblgravecmb.cap breveinvertedcmb.cap commaturnedabovecmb.cap commaabovecmb.cap perispomenicmb.cap ringhalfrightabovecmb.cap circumflexgrave.cap circumflexacute.cap circumflextilde.cap circumflexmacron.cap circumflexbreve.cap circumflexhoi.cap macrongrave.cap macronacute.cap brevegrave.cap breveacute.cap brevetilde.cap brevehoi.cap dieresisgrave.cap dieresisacute.cap dieresismacron.cap dieresiscaron.cap ringacute.cap carondotaccent.cap caroncomma.cap] <anchor 0 743> @Anchor6__Anchor6;
+    markClass [gravecmb.cap acutecmb.cap circumflexcmb.cap tildecmb.cap macroncmb.cap overlinecmb.cap brevecmb.cap brevecmb.cyrcap dotaccentcmb.cap dieresiscmb.cap hoicmb.cap ringcmb.cap hungarumlautcmb.cap caroncmb.cap verticallineabovecmb.cap dblgravecmb.cap breveinvertedcmb.cap commaturnedabovecmb.cap commaabovecmb.cap perispomenicmb.cap ringhalfrightabovecmb.cap circumflexgrave.cap circumflexacute.cap circumflextilde.cap circumflexmacron.cap circumflexbreve.cap circumflexhoi.cap macrongrave.cap macronacute.cap brevegrave.cap breveacute.cap brevetilde.cap brevehoi.cap dieresisgrave.cap dieresisacute.cap dieresismacron.cap dieresiscaron.cap ringacute.cap carondotaccent.cap caroncomma.cap] <anchor 0 743> @Anchor6__Anchor6;
 
     markClass [commaaboverightcmb leftangleabovecmb dotaboverightcmb] <anchor 0 547> @Anchor8__Anchor8;
     markClass [commaaboverightcmb.cap dotaboverightcmb.cap] <anchor 0 743> @Anchor8__Anchor8;
@@ -68,7 +68,7 @@ table GDEF {
     markClass [ogonekcmb ogonekcmb.cap] <anchor 0 0> @Anchor18__Anchor18;
 
     markClass [gravecmb variacmb acutecmb tonoscmb circumflexcmb tildecmb macroncmb overlinecmb brevecmb brevecmb.cyr dotaccentcmb dieresiscmb hoicmb ringcmb hungarumlautcmb caroncmb verticallineabovecmb dblgravecmb breveinvertedcmb commaturnedabovecmb aspercmb commaabovecmb leniscmb commabelowcmb.a xabovecmb perispomenicmb koroniscmb dialytikatonoscmb ringhalfrightabovecmb circumflexgrave circumflexacute circumflextilde circumflexmacron circumflexbreve circumflexhoi macrongrave macronacute brevegrave breveacute brevetilde brevehoi dieresisgrave dialytikagravecmb dieresisacute dieresistilde dieresismacron dieresiscaron ringacute carondotaccent caroncomma aspergravecmb asperacutecmb aspertildecmb lenisgravecmb lenisacutecmb lenistildecmb] <anchor 0 547> @Anchor20_Anchor20_;
-    markClass [gravecmb.cap acutecmb.cap circumflexcmb.cap tildecmb.cap overlinecmb.cap overlinecmb.cap brevecmb.cap brevecmb.cyrcap dotaccentcmb.cap dieresiscmb.cap hoicmb.cap ringcmb.cap hungarumlautcmb.cap caroncmb.cap verticallineabovecmb.cap dblgravecmb.cap breveinvertedcmb.cap commaturnedabovecmb.cap commaabovecmb.cap perispomenicmb.cap ringhalfrightabovecmb.cap circumflexgrave.cap circumflexacute.cap circumflextilde.cap circumflexmacron.cap circumflexbreve.cap circumflexhoi.cap macrongrave.cap macronacute.cap brevegrave.cap breveacute.cap brevetilde.cap brevehoi.cap dieresisgrave.cap dieresisacute.cap dieresismacron.cap dieresiscaron.cap ringacute.cap carondotaccent.cap caroncomma.cap] <anchor 0 743> @Anchor20_Anchor20_;
+    markClass [gravecmb.cap acutecmb.cap circumflexcmb.cap tildecmb.cap macroncmb.cap overlinecmb.cap brevecmb.cap brevecmb.cyrcap dotaccentcmb.cap dieresiscmb.cap hoicmb.cap ringcmb.cap hungarumlautcmb.cap caroncmb.cap verticallineabovecmb.cap dblgravecmb.cap breveinvertedcmb.cap commaturnedabovecmb.cap commaabovecmb.cap perispomenicmb.cap ringhalfrightabovecmb.cap circumflexgrave.cap circumflexacute.cap circumflextilde.cap circumflexmacron.cap circumflexbreve.cap circumflexhoi.cap macrongrave.cap macronacute.cap brevegrave.cap breveacute.cap brevetilde.cap brevehoi.cap dieresisgrave.cap dieresisacute.cap dieresismacron.cap dieresiscaron.cap ringacute.cap carondotaccent.cap caroncomma.cap] <anchor 0 743> @Anchor20_Anchor20_;
 
     markClass [uni02EA uni02EB uni0300.lgc uni0301.lgc uni030C.lgc] <anchor 0 0> @Anchor24__Anchor24;
 
@@ -82,7 +82,7 @@ table GDEF {
 @class146 = [Amacron Emacron Imacron Omacron Umacron amacron emacron imacron omacron umacron];
 @class153 = [gravecmb acutecmb circumflexcmb tildecmb macroncmb overlinecmb brevecmb brevecmb.cyr dotaccentcmb dieresiscmb hoicmb ringcmb hungarumlautcmb caroncmb verticallineabovecmb dblgravecmb candrabinducmb breveinvertedcmb commaturnedabovecmb commaabovecmb commaaboverightcmb cedillacmb ogonekcmb perispomenicmb ringhalfrightabovecmb dotaboverightcmb circumflexgrave circumflexacute circumflextilde circumflexmacron circumflexbreve circumflexhoi circumflexcaron macrongrave macronacute brevegrave breveacute brevetilde brevehoi dieresisgrave dieresisacute dieresismacron dieresiscaron ringacute carondotaccent caroncomma];
 @class154 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z b d f h k l t Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Adot Acaron Adblgrave Aogonek Aogonek.d Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Aringacute AE AEacute AEmacron Astroke Bstroke Bhook Bdotaccent Blinebelow Ccedilla Cacute Ccircumflex Cdotaccent Ccaron Cstroke Ddotaccent Dcaron Ddotbelow Dlinebelow Dcedilla Dcroat Dhook Egrave Eacute Ecircumflex Etilde Edieresis Emacron Ebreve Edotaccent Ecaron Edblgrave Eogonek Eogonek.d Edotbelow Ehoi Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow Emacronacute Eturned Eopen Fdotaccent Gacute Gcircumflex Gmacron Gbreve Gdotaccent Gcaron Gcommaaccent Gstroke Gtilde Ghook Hcircumflex Hdieresis Hdot Hcaron Hdotbelow Hcedilla Hbrevebelow Hlinebelow Hbar Igrave Iacute Icircumflex Itilde Idieresis Imacron Ibreve Idotaccent Icaron Idblgrave Iogonek Ihoi Idotbelow Istroke IJ Jcircumflex Jcaron Jstroke Kcommaaccent Kdotbelow Klinebelow Lacute Lcaron Lcommaaccent Ldotbelow Ldotbelowmacron Llinebelow Lslash Lbar Lbardbl Lmiddletilde Lbelt Ldot Macute Mdotaccent Mdotbelow Ngrave Nacute Ncaron Ntilde Ndotaccent Ncommaaccent Ndotbelow Nlinebelow Eng Nlong Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Ocaron Odblgrave Oogonek Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Omacronacute Oslash Oslashacute OE Vturned Oopen OO OU Ohorn Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Pdotaccent Racute Rcaron Rdotaccent Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow Sacute Scircumflex Sdotaccent Scaron Scedilla Scommaaccent Sdotbelow Scarondot Tcaron Tdotaccent Tcedilla Tcommaaccent Tdotbelow Tlinebelow Tdieresis Tbar Tstroke Ugrave Uacute Ucircumflex Utilde Udieresis Umacron Ubreve Uring Uhungarumlaut Ucaron Uogonek Udieresismacron Udieresisacute Udieresiscaron Udieresisgrave Udieresisbelow Udotbelow Ubar Uhoi Uhorn Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow Vdotbelow Wgrave Wacute Wcircumflex Wdieresis Ygrave Yacute Ycircumflex Ytilde Ydieresis Ydotaccent Ydotbelow Yhoi Zacute Zcircumflex Zdotaccent Zcaron Zdotbelow Zlinebelow Eth Thorn Wynn Yogh Ezh Ezhcaron Schwa Dinsular Finsular Ginsular Ginsularturned Lturned Rinsular Rrotunda Sinsular Tinsular Gammalatin Iotalatin Lambda.latin Upsilonlatin Chilatin Glottalstop AlefEgypt AinEgypt Lgeminada IJacute Aogonekacute Eogonekacute Iogonekacute Oogonekacute Uogonekacute Eopenogonek Lambdabar bstroke bhook dcroat hbar lslash lmiddletilde lbelt longs tbar eth thorn dtail dhook dzed dezh dzcurl dzretroflex hhook henghook lretroflex lezh philatin rlonglegturned esh dotlessjstrokehook tretroflex ts tesh tccurl tshook yturned glottalstop glottalstopreversed glottalstopstroke glottalstopstrokereversed clickalveolar clickretroflex clickbilabial Ettironian That l.a lslash.a Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Sho Alphatonos Epsilontonos Etatonos Iotatonos Iotadieresis Omicrontonos Upsilontonos Upsilondieresis Omegatonos Alphalenis Alphaasper Alphagrave Alphaacute Alphalenisgrave Alphaaspergrave Alphalenisacute Alphaasperacute Alphalenistilde Alphaaspertilde Alphabreve Alphamacron Epsilonlenis Epsilonasper Epsilongrave Epsilonacute Epsilonlenisgrave Epsilonaspergrave Epsilonlenisacute Epsilonasperacute Etalenis Etaasper Etagrave Etaacute Etalenisgrave Etaaspergrave Etalenisacute Etaasperacute Etalenistilde Etaaspertilde Iotalenis Iotaasper Iotagrave Iotaacute Iotalenisgrave Iotaaspergrave Iotalenisacute Iotaasperacute Iotalenistilde Iotaaspertilde Iotabreve Iotamacron Omicronlenis Omicronasper Omicrongrave Omicronacute Omicronlenisgrave Omicronaspergrave Omicronlenisacute Omicronasperacute Rhoasper Upsilonasper Upsilongrave Upsilonacute Upsilonaspergrave Upsilonasperacute Upsilonaspertilde Upsilonbreve Upsilonmacron Omegalenis Omegaasper Omegagrave Omegaacute Omegalenisgrave Omegaaspergrave Omegalenisacute Omegaasperacute Omegalenistilde Omegaaspertilde Alphaiotasub Alphaiotasublenis Alphaiotasubasper Alphaiotasublenisgrave Alphaiotasubaspergrave Alphaiotasublenisacute Alphaiotasubasperacute Alphaiotasublenistilde Alphaiotasubaspertilde Etaiotasub Etaiotasublenis Etaiotasubasper Etaiotasublenisgrave Etaiotasubaspergrave Etaiotasublenisacute Etaiotasubasperacute Etaiotasublenistilde Etaiotasubaspertilde Omegaiotasub Omegaiotasublenis Omegaiotasubasper Omegaiotasublenisgrave Omegaiotasubaspergrave Omegaiotasublenisacute Omegaiotasubasperacute Omegaiotasublenistilde Omegaiotasubaspertilde Kai Acyr Be Ve Ghe De Ie Zhe Ze Icyr Ishort Ka El Em En Ocyr Pe Er Es Te Ucyr Ef Ha Tse Che Sha Shcha Hard Yeru Soft Ecyr Yu Ya Iegrave Io Dje Gje Ieukran Dze Iukran Yi Je Lje Nje Tshe Kje Igravecyr Ushort Dzhe Yat Fita Izhitsa Gheup Ghestroke Ghedescender Zhedescender Zedescender Kadescender Kabashkir Kahook Endescender Enhook Esdescender Ustraight Ustraightstroke Hadescender Chedescender Shha Palochka Zhebreve Abrevecyr Aie Iebreve Schwacyr Imacroncyr Odieresiscyr Obarcyr Umacroncyr Uacutedblcyr De.a Zhe.a Ka.a El.a Ef.a Yi.a Lje.a Kje.a Zhedescender.a Kadescender.a Kabashkir.a Kahook.a Zhebreve.a];
-@class156 = [gravecmb.cap acutecmb.cap circumflexcmb.cap tildecmb.cap overlinecmb.cap overlinecmb.cap brevecmb.cap brevecmb.cyrcap dotaccentcmb.cap dieresiscmb.cap hoicmb.cap ringcmb.cap hungarumlautcmb.cap caroncmb.cap verticallineabovecmb.cap dblgravecmb.cap candrabinducmb.cap breveinvertedcmb.cap commaturnedabovecmb.cap commaabovecmb.cap commaaboverightcmb.cap cedillacmb.cap ogonekcmb.cap perispomenicmb.cap ringhalfrightabovecmb.cap dotaboverightcmb.cap circumflexgrave.cap circumflexacute.cap circumflextilde.cap circumflexmacron.cap circumflexbreve.cap circumflexhoi.cap circumflexcaron.cap macrongrave.cap macronacute.cap brevegrave.cap breveacute.cap brevetilde.cap brevehoi.cap dieresisgrave.cap dieresisacute.cap dieresismacron.cap dieresiscaron.cap ringacute.cap carondotaccent.cap caroncomma.cap];
+@class156 = [gravecmb.cap acutecmb.cap circumflexcmb.cap tildecmb.cap macroncmb.cap overlinecmb.cap brevecmb.cap brevecmb.cyrcap dotaccentcmb.cap dieresiscmb.cap hoicmb.cap ringcmb.cap hungarumlautcmb.cap caroncmb.cap verticallineabovecmb.cap dblgravecmb.cap candrabinducmb.cap breveinvertedcmb.cap commaturnedabovecmb.cap commaabovecmb.cap commaaboverightcmb.cap cedillacmb.cap ogonekcmb.cap perispomenicmb.cap ringhalfrightabovecmb.cap dotaboverightcmb.cap circumflexgrave.cap circumflexacute.cap circumflextilde.cap circumflexmacron.cap circumflexbreve.cap circumflexhoi.cap circumflexcaron.cap macrongrave.cap macronacute.cap brevegrave.cap breveacute.cap brevetilde.cap brevehoi.cap dieresisgrave.cap dieresisacute.cap dieresismacron.cap dieresiscaron.cap ringacute.cap carondotaccent.cap caroncomma.cap];
 @class157 = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z b d f h k l t Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Adot Acaron Adblgrave Aogonek Aogonek.d Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Aringacute AE AEacute AEmacron Astroke Bstroke Bhook Bdotaccent Blinebelow Ccedilla Cacute Ccircumflex Cdotaccent Ccaron Cstroke Ddotaccent Dcaron Ddotbelow Dlinebelow Dcedilla Dcroat Dhook Egrave Eacute Ecircumflex Etilde Edieresis Emacron Ebreve Edotaccent Ecaron Edblgrave Eogonek Eogonek.d Edotbelow Ehoi Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow Emacronacute Eturned Eopen Fdotaccent Gacute Gcircumflex Gmacron Gbreve Gdotaccent Gcaron Gcommaaccent Gstroke Gtilde Ghook Hcircumflex Hdieresis Hdot Hcaron Hdotbelow Hcedilla Hbrevebelow Hlinebelow Hbar Igrave Iacute Icircumflex Itilde Idieresis Imacron Ibreve Idotaccent Icaron Idblgrave Iogonek Ihoi Idotbelow Istroke IJ Jcircumflex Jcaron Jstroke Kcommaaccent Kdotbelow Klinebelow Lacute Lcaron Lcommaaccent Ldotbelow Ldotbelowmacron Llinebelow Lslash Lbar Lbardbl Lmiddletilde Lbelt Ldot Macute Mdotaccent Mdotbelow Ngrave Nacute Ncaron Ntilde Ndotaccent Ncommaaccent Ndotbelow Nlinebelow Eng Nlong Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Ocaron Odblgrave Oogonek Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Omacronacute Oslash Oslashacute OE Vturned Oopen OO OU Ohorn Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Pdotaccent Racute Rcaron Rdotaccent Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow Sacute Scircumflex Sdotaccent Scaron Scedilla Scommaaccent Sdotbelow Scarondot Tcaron Tdotaccent Tcedilla Tcommaaccent Tdotbelow Tlinebelow Tdieresis Tbar Tstroke Ugrave Uacute Ucircumflex Utilde Udieresis Umacron Ubreve Uring Uhungarumlaut Ucaron Uogonek Udieresismacron Udieresisacute Udieresiscaron Udieresisgrave Udieresisbelow Udotbelow Ubar Uhoi Uhorn Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow Vdotbelow Wgrave Wacute Wcircumflex Wdieresis Ygrave Yacute Ycircumflex Ytilde Ydieresis Ydotaccent Ydotbelow Yhoi Zacute Zcircumflex Zdotaccent Zcaron Zdotbelow Zlinebelow Eth Thorn Wynn Yogh Ezh Ezhcaron Schwa Dinsular Finsular Ginsular Ginsularturned Lturned Rinsular Rrotunda Sinsular Tinsular Gammalatin Iotalatin Lambda.latin Upsilonlatin Chilatin Glottalstop AlefEgypt AinEgypt Lgeminada IJacute Aogonekacute Eogonekacute Iogonekacute Oogonekacute Uogonekacute Eopenogonek Lambdabar bstroke bhook dcroat hbar lslash lmiddletilde lbelt longs tbar eth thorn dtail dhook dzed dezh dzcurl dzretroflex hhook henghook lretroflex lezh philatin rlonglegturned esh dotlessjstrokehook tretroflex ts tesh tccurl tshook yturned glottalstop glottalstopreversed glottalstopstroke glottalstopstrokereversed clickalveolar clickretroflex clickbilabial Ettironian That l.a lslash.a Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Sho Alphatonos Epsilontonos Etatonos Iotatonos Iotadieresis Omicrontonos Upsilontonos Upsilondieresis Omegatonos theta Alphalenis Alphaasper Alphagrave Alphaacute Alphalenisgrave Alphaaspergrave Alphalenisacute Alphaasperacute Alphalenistilde Alphaaspertilde Alphabreve Alphamacron Epsilonlenis Epsilonasper Epsilongrave Epsilonacute Epsilonlenisgrave Epsilonaspergrave Epsilonlenisacute Epsilonasperacute Etalenis Etaasper Etagrave Etaacute Etalenisgrave Etaaspergrave Etalenisacute Etaasperacute Etalenistilde Etaaspertilde Iotalenis Iotaasper Iotagrave Iotaacute Iotalenisgrave Iotaaspergrave Iotalenisacute Iotaasperacute Iotalenistilde Iotaaspertilde Iotabreve Iotamacron Omicronlenis Omicronasper Omicrongrave Omicronacute Omicronlenisgrave Omicronaspergrave Omicronlenisacute Omicronasperacute Rhoasper Upsilonasper Upsilongrave Upsilonacute Upsilonaspergrave Upsilonasperacute Upsilonaspertilde Upsilonbreve Upsilonmacron Omegalenis Omegaasper Omegagrave Omegaacute Omegalenisgrave Omegaaspergrave Omegalenisacute Omegaasperacute Omegalenistilde Omegaaspertilde Alphaiotasub Alphaiotasublenis Alphaiotasubasper Alphaiotasublenisgrave Alphaiotasubaspergrave Alphaiotasublenisacute Alphaiotasubasperacute Alphaiotasublenistilde Alphaiotasubaspertilde Etaiotasub Etaiotasublenis Etaiotasubasper Etaiotasublenisgrave Etaiotasubaspergrave Etaiotasublenisacute Etaiotasubasperacute Etaiotasublenistilde Etaiotasubaspertilde Omegaiotasub Omegaiotasublenis Omegaiotasubasper Omegaiotasublenisgrave Omegaiotasubaspergrave Omegaiotasublenisacute Omegaiotasubasperacute Omegaiotasublenistilde Omegaiotasubaspertilde Kai Acyr Be Ve Ghe De Ie Zhe Ze Icyr Ishort Ka El Em En Ocyr Pe Er Es Te Ucyr Ef Ha Tse Che Sha Shcha Hard Yeru Soft Ecyr Yu Ya Iegrave Io Dje Gje Ieukran Dze Iukran Yi Je Lje Nje Tshe Kje Igravecyr Ushort Dzhe Yat Fita Izhitsa Gheup Ghestroke Ghedescender Zhedescender Zedescender Kadescender Kabashkir Kahook Endescender Enhook Esdescender Ustraight Ustraightstroke Hadescender Chedescender Shha Palochka Zhebreve Abrevecyr Aie Iebreve Schwacyr Imacroncyr Odieresiscyr Obarcyr Umacroncyr Uacutedblcyr De.a Zhe.a Ka.a El.a Ef.a Yi.a Lje.a Kje.a Zhedescender.a Kadescender.a Kabashkir.a Kahook.a Zhebreve.a];
 @class159 = [uni1100.ljmo05 uni1101.ljmo05 uni1102.ljmo05 uni1103.ljmo05 uni1104.ljmo05 uni1105.ljmo05 uni1106.ljmo05 uni1107.ljmo05 uni1108.ljmo05 uni1109.ljmo05 uni110A.ljmo05 uni110B.ljmo05 uni110C.ljmo05 uni110D.ljmo05 uni110E.ljmo05 uni110F.ljmo05 uni1110.ljmo05 uni1111.ljmo05 uni1112.ljmo05 uni1113.ljmo05 uni1114.ljmo05 uni1115.ljmo05 uni1116.ljmo05 uni1117.ljmo05 uni1118.ljmo05 uni1119.ljmo05 uni111A.ljmo05 uni111B.ljmo05 uni111C.ljmo05 uni111D.ljmo05 uni111E.ljmo05 uni111F.ljmo05 uni1120.ljmo05 uni1121.ljmo05 uni1122.ljmo05 uni1123.ljmo05 uni1124.ljmo05 uni1125.ljmo05 uni1126.ljmo05 uni1127.ljmo05 uni1128.ljmo05 uni1129.ljmo05 uni112A.ljmo05 uni112B.ljmo05 uni112C.ljmo05 uni112D.ljmo05 uni112E.ljmo05 uni112F.ljmo05 uni1130.ljmo05 uni1131.ljmo05 uni1132.ljmo05 uni1133.ljmo05 uni1134.ljmo05 uni1135.ljmo05 uni1136.ljmo05 uni1137.ljmo05 uni1138.ljmo05 uni1139.ljmo05 uni113A.ljmo05 uni113B.ljmo05 uni113C.ljmo05 uni113D.ljmo05 uni113E.ljmo05 uni113F.ljmo05 uni1140.ljmo05 uni1141.ljmo05 uni1142.ljmo05 uni1143.ljmo05 uni1144.ljmo05 uni1145.ljmo05 uni1146.ljmo05 uni1147.ljmo05 uni1148.ljmo05 uni1149.ljmo05 uni114A.ljmo05 uni114B.ljmo05 uni114C.ljmo05 uni114D.ljmo05 uni114E.ljmo05 uni114F.ljmo05 uni1150.ljmo05 uni1151.ljmo05 uni1152.ljmo05 uni1153.ljmo05 uni1154.ljmo05 uni1155.ljmo05 uni1156.ljmo05 uni1157.ljmo05 uni1158.ljmo05 uni1159.ljmo05 uni115A.ljmo05 uni115B.ljmo05 uni115C.ljmo05 uni115D.ljmo05 uni115E.ljmo05 uniA960.ljmo05 uniA961.ljmo05 uniA962.ljmo05 uniA963.ljmo05 uniA964.ljmo05 uniA965.ljmo05 uniA966.ljmo05 uniA967.ljmo05 uniA968.ljmo05 uniA969.ljmo05 uniA96A.ljmo05 uniA96B.ljmo05 uniA96C.ljmo05 uniA96D.ljmo05 uniA96E.ljmo05 uniA96F.ljmo05 uniA970.ljmo05 uniA971.ljmo05 uniA972.ljmo05 uniA973.ljmo05 uniA974.ljmo05 uniA975.ljmo05 uniA976.ljmo05 uniA977.ljmo05 uniA978.ljmo05 uniA979.ljmo05 uniA97A.ljmo05 uniA97B.ljmo05 uniA97C.ljmo05];
 @class160 = [uni1161 uni1162 uni1163 uni1164 uni1165 uni1166 uni1167 uni1168 uni1175 uni1198 uni1199 uni119D uni11A5 uniD7BE uniD7BF uniD7C0 uniD7C4];
@@ -100,7 +100,7 @@ table GDEF {
 @class218 = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr parenleft.numr parenright.numr period.numr comma.numr];
 @class219 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom parenleft.dnom parenright.dnom period.dnom comma.dnom fraction divisionslash slash.frac];
 @class221 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@markAttachmentSet1 = [gravecmb gravecmb.cap variacmb acutecmb acutecmb.cap tonoscmb circumflexcmb circumflexcmb.cap tildecmb tildecmb.cap macroncmb overlinecmb.cap overlinecmb overlinecmb.cap brevecmb brevecmb.cap brevecmb.cyr brevecmb.cyrcap dotaccentcmb dotaccentcmb.cap dieresiscmb dieresiscmb.cap hoicmb hoicmb.cap ringcmb ringcmb.cap hungarumlautcmb hungarumlautcmb.cap caroncmb caroncmb.cap verticallineabovecmb verticallineabovecmb.cap dblgravecmb dblgravecmb.cap breveinvertedcmb breveinvertedcmb.cap commaturnedabovecmb commaturnedabovecmb.cap aspercmb commaabovecmb commaabovecmb.cap leniscmb commabelowcmb.a xabovecmb perispomenicmb perispomenicmb.cap koroniscmb dialytikatonoscmb ringhalfrightabovecmb ringhalfrightabovecmb.cap circumflexgrave circumflexgrave.cap circumflexacute circumflexacute.cap circumflextilde circumflextilde.cap circumflexmacron circumflexmacron.cap circumflexbreve circumflexbreve.cap circumflexhoi circumflexhoi.cap macrongrave macrongrave.cap macronacute macronacute.cap brevegrave brevegrave.cap breveacute breveacute.cap brevetilde brevetilde.cap brevehoi brevehoi.cap dieresisgrave dieresisgrave.cap dialytikagravecmb dieresisacute dieresisacute.cap dieresistilde dieresismacron dieresismacron.cap dieresiscaron dieresiscaron.cap ringacute ringacute.cap carondotaccent carondotaccent.cap caroncomma caroncomma.cap aspergravecmb asperacutecmb aspertildecmb lenisgravecmb lenisacutecmb lenistildecmb];
+@markAttachmentSet1 = [gravecmb gravecmb.cap variacmb acutecmb acutecmb.cap tonoscmb circumflexcmb circumflexcmb.cap tildecmb tildecmb.cap macroncmb macroncmb.cap overlinecmb overlinecmb.cap brevecmb brevecmb.cap brevecmb.cyr brevecmb.cyrcap dotaccentcmb dotaccentcmb.cap dieresiscmb dieresiscmb.cap hoicmb hoicmb.cap ringcmb ringcmb.cap hungarumlautcmb hungarumlautcmb.cap caroncmb caroncmb.cap verticallineabovecmb verticallineabovecmb.cap dblgravecmb dblgravecmb.cap breveinvertedcmb breveinvertedcmb.cap commaturnedabovecmb commaturnedabovecmb.cap aspercmb commaabovecmb commaabovecmb.cap leniscmb commabelowcmb.a xabovecmb perispomenicmb perispomenicmb.cap koroniscmb dialytikatonoscmb ringhalfrightabovecmb ringhalfrightabovecmb.cap circumflexgrave circumflexgrave.cap circumflexacute circumflexacute.cap circumflextilde circumflextilde.cap circumflexmacron circumflexmacron.cap circumflexbreve circumflexbreve.cap circumflexhoi circumflexhoi.cap macrongrave macrongrave.cap macronacute macronacute.cap brevegrave brevegrave.cap breveacute breveacute.cap brevetilde brevetilde.cap brevehoi brevehoi.cap dieresisgrave dieresisgrave.cap dialytikagravecmb dieresisacute dieresisacute.cap dieresistilde dieresismacron dieresismacron.cap dieresiscaron dieresiscaron.cap ringacute ringacute.cap carondotaccent carondotaccent.cap caroncomma caroncomma.cap aspergravecmb asperacutecmb aspertildecmb lenisgravecmb lenisacutecmb lenistildecmb];
 
 lookup SingleSubstitution1 {
     lookupflag 0;
@@ -1103,7 +1103,7 @@ lookup SingleSubstitution1 {
     sub commareversedmod by commareversedmod.sc;
     sub circumflexcmb by circumflexcmb.cap;
     sub tildecmb by tildecmb.cap;
-    sub macroncmb by overlinecmb.cap;
+    sub macroncmb by macroncmb.cap;
     sub overlinecmb by overlinecmb.cap;
     sub brevecmb.cap by brevecmb.cyrcap;
     sub brevecmb.cyr by brevecmb.cyrcap;
@@ -1983,7 +1983,7 @@ lookup SingleSubstitution10 {
     sub acutecmb by acutecmb.cap;
     sub circumflexcmb by circumflexcmb.cap;
     sub tildecmb by tildecmb.cap;
-    sub macroncmb by overlinecmb.cap;
+    sub macroncmb by macroncmb.cap;
     sub overlinecmb by overlinecmb.cap;
     sub brevecmb by brevecmb.cap;
     sub brevecmb.cyr by brevecmb.cyrcap;
@@ -2140,7 +2140,7 @@ lookup MultipleSubstitution16 {
     sub Atilde by A tildecmb.cap;
     sub Adieresis by A dieresiscmb.cap;
     sub Aring by A ringcmb.cap;
-    sub Amacron by A overlinecmb.cap;
+    sub Amacron by A macroncmb.cap;
     sub Abreve by A brevecmb.cap;
     sub Adot by A dotaccentcmb.cap;
     sub Acaron by A caroncmb.cap;
@@ -2159,7 +2159,7 @@ lookup MultipleSubstitution16 {
     sub Abrevedotbelow by A brevecmb.cap dotbelowcmb;
     sub Aringacute by A ringcmb.cap acutecmb.cap;
     sub AEacute by AE acutecmb.cap;
-    sub AEmacron by AE overlinecmb.cap;
+    sub AEmacron by AE macroncmb.cap;
     sub Bdotaccent by B dotaccentcmb.cap;
     sub Blinebelow by B macronbelowcmb;
     sub Ccedilla by C cedillacmb.cap;
@@ -2177,7 +2177,7 @@ lookup MultipleSubstitution16 {
     sub Ecircumflex by E circumflexcmb.cap;
     sub Etilde by E tildecmb.cap;
     sub Edieresis by E dieresiscmb.cap;
-    sub Emacron by E overlinecmb.cap;
+    sub Emacron by E macroncmb.cap;
     sub Ebreve by E brevecmb.cap;
     sub Edotaccent by E dotaccentcmb.cap;
     sub Ecaron by E caroncmb.cap;
@@ -2189,11 +2189,11 @@ lookup MultipleSubstitution16 {
     sub Ecircumflexhoi by E circumflexcmb.cap hoicmb.cap;
     sub Ecircumflextilde by E circumflexcmb.cap tildecmb.cap;
     sub Ecircumflexdotbelow by E circumflexcmb.cap dotbelowcmb;
-    sub Emacronacute by E overlinecmb.cap acutecmb.cap;
+    sub Emacronacute by E macroncmb.cap acutecmb.cap;
     sub Fdotaccent by F dotaccentcmb.cap;
     sub Gacute by G acutecmb.cap;
     sub Gcircumflex by G circumflexcmb.cap;
-    sub Gmacron by G overlinecmb.cap;
+    sub Gmacron by G macroncmb.cap;
     sub Gbreve by G brevecmb.cap;
     sub Gdotaccent by G dotaccentcmb.cap;
     sub Gcaron by G caroncmb.cap;
@@ -2212,7 +2212,7 @@ lookup MultipleSubstitution16 {
     sub Icircumflex by I circumflexcmb.cap;
     sub Itilde by I tildecmb.cap;
     sub Idieresis by I dieresiscmb.cap;
-    sub Imacron by I overlinecmb.cap;
+    sub Imacron by I macroncmb.cap;
     sub Ibreve by I brevecmb.cap;
     sub Idotaccent by I dotaccentcmb.cap;
     sub Icaron by I caroncmb.cap;
@@ -2228,7 +2228,7 @@ lookup MultipleSubstitution16 {
     sub Lcaron by L caroncmb.cap;
     sub Lcommaaccent by L commabelowcmb;
     sub Ldotbelow by L dotbelowcmb;
-    sub Ldotbelowmacron by L dotbelowcmb overlinecmb.cap;
+    sub Ldotbelowmacron by L dotbelowcmb macroncmb.cap;
     sub Llinebelow by L macronbelowcmb;
     sub Macute by M acutecmb.cap;
     sub Mdotaccent by M dotaccentcmb.cap;
@@ -2246,7 +2246,7 @@ lookup MultipleSubstitution16 {
     sub Ocircumflex by O circumflexcmb.cap;
     sub Otilde by O tildecmb.cap;
     sub Odieresis by O dieresiscmb.cap;
-    sub Omacron by O overlinecmb.cap;
+    sub Omacron by O macroncmb.cap;
     sub Obreve by O brevecmb.cap;
     sub Ohungarumlaut by O hungarumlautcmb.cap;
     sub Ocaron by O caroncmb.cap;
@@ -2258,7 +2258,7 @@ lookup MultipleSubstitution16 {
     sub Ocircumflexhoi by O circumflexcmb.cap hoicmb.cap;
     sub Ocircumflextilde by O circumflexcmb.cap tildecmb.cap;
     sub Ocircumflexdotbelow by O circumflexcmb.cap dotbelowcmb;
-    sub Omacronacute by O overlinecmb.cap acutecmb.cap;
+    sub Omacronacute by O macroncmb.cap acutecmb.cap;
     sub Oslashacute by Oslash acutecmb.cap;
     sub Ohornacute by Ohorn acutecmb.cap;
     sub Ohorngrave by Ohorn gravecmb.cap;
@@ -2271,7 +2271,7 @@ lookup MultipleSubstitution16 {
     sub Rdotaccent by R dotaccentcmb.cap;
     sub Rcommaaccent by R commabelowcmb;
     sub Rdotbelow by R dotbelowcmb;
-    sub Rdotbelowmacron by R dotbelowcmb overlinecmb.cap;
+    sub Rdotbelowmacron by R dotbelowcmb macroncmb.cap;
     sub Rlinebelow by R macronbelowcmb;
     sub Sacute by S acutecmb.cap;
     sub Scircumflex by S circumflexcmb.cap;
@@ -2293,12 +2293,12 @@ lookup MultipleSubstitution16 {
     sub Ucircumflex by U circumflexcmb.cap;
     sub Utilde by U tildecmb.cap;
     sub Udieresis by U dieresiscmb.cap;
-    sub Umacron by U overlinecmb.cap;
+    sub Umacron by U macroncmb.cap;
     sub Ubreve by U brevecmb.cap;
     sub Uring by U ringcmb.cap;
     sub Uhungarumlaut by U hungarumlautcmb.cap;
     sub Ucaron by U caroncmb.cap;
-    sub Udieresismacron by U dieresiscmb.cap overlinecmb.cap;
+    sub Udieresismacron by U dieresiscmb.cap macroncmb.cap;
     sub Udieresisacute by U dieresiscmb.cap acutecmb.cap;
     sub Udieresiscaron by U dieresiscmb.cap caroncmb.cap;
     sub Udieresisgrave by U dieresiscmb.cap gravecmb.cap;
@@ -2428,7 +2428,7 @@ lookup MultipleSubstitution16 {
     sub lcaron by l caroncmb.a;
     sub lcommaaccent by l commabelowcmb;
     sub ldotbelow by l dotbelowcmb;
-    sub ldotbelowmacron by l dotbelowcmb overlinecmb.cap;
+    sub ldotbelowmacron by l dotbelowcmb macroncmb.cap;
     sub llinebelow by l macronbelowcmb;
     sub macute by m acutecmb;
     sub mdotaccent by m dotaccentcmb;
@@ -5753,20 +5753,6 @@ lookup SingleSubstitution56 {
     sub uni3127_V by uni3127;
 } SingleSubstitution56;
 
-lookup SingleSubstitution126 {
-    lookupflag 0;
-    # Original source: 125 
-    sub Yi.sc by Yi.as;
-} SingleSubstitution126;
-
-lookup ChainedContextualGSUB101 {
-    lookupflag 0;
-    ;
-    # Original source: 100 
-    sub Yi.sc' lookup SingleSubstitution126 Yi.sc;
-    sub [Iukran.sc Yi.as] Yi.sc' lookup SingleSubstitution126;
-} ChainedContextualGSUB101;
-
 lookup LigatureSubstitution57 {
     lookupflag 0;
     ;
@@ -7945,7 +7931,7 @@ lookup SingleSubstitution98 {
     sub acutecmb by acutecmb.cap;
     sub circumflexcmb by circumflexcmb.cap;
     sub tildecmb by tildecmb.cap;
-    sub macroncmb by overlinecmb.cap;
+    sub macroncmb by macroncmb.cap;
     sub overlinecmb by overlinecmb.cap;
     sub brevecmb by brevecmb.cap;
     sub brevecmb.cyr by brevecmb.cyrcap;
@@ -8526,6 +8512,21 @@ lookup SingleSubstitution100 {
     sub Kahook.a by Kahook.as;
     sub Zhebreve.a by Zhebreve.as;
 } SingleSubstitution100;
+
+lookup SingleSubstitution126 {
+    lookupflag 0;
+    ;
+    # Original source: 125 
+    sub Yi.sc by Yi.as;
+} SingleSubstitution126;
+
+lookup ChainedContextualGSUB101 {
+    lookupflag 0;
+    ;
+    # Original source: 100 
+    sub Yi.sc' lookup SingleSubstitution126 Yi.sc;
+    sub [Iukran.sc Yi.as] Yi.sc' lookup SingleSubstitution126;
+} ChainedContextualGSUB101;
 
 lookup SingleSubstitution102 {
     lookupflag 0;
@@ -10502,7 +10503,7 @@ lookup MarkToMark19 {
             <anchor 0 798> mark @Anchor20_Anchor20_;
         pos mark [macroncmb overlinecmb]
             <anchor 0 700> mark @Anchor20_Anchor20_;
-        pos mark [overlinecmb.cap overlinecmb.cap]
+        pos mark [macroncmb.cap overlinecmb.cap]
             <anchor 0 852> mark @Anchor20_Anchor20_;
         pos mark [dotaccentcmb dieresiscmb]
             <anchor 0 743> mark @Anchor20_Anchor20_;
@@ -20108,11 +20109,6 @@ feature hwid {
 
 } hwid;
 
-feature smcp {
-        lookup ChainedContextualGSUB101;
-
-} smcp;
-
 feature liga {
         lookup LigatureSubstitution57;
 
@@ -20157,6 +20153,11 @@ feature sinf {
         lookup SingleSubstitution7;
 
 } sinf;
+
+feature smcp {
+        lookup ChainedContextualGSUB101;
+
+} smcp;
 
 feature ss01 {
         lookup SingleSubstitution12;
@@ -20318,22 +20319,3 @@ feature vpal {
 
 } vpal;
 
-table BASE {
-  HorizAxis.BaseTagList     icfb  icft  ideo  romn;
-  HorizAxis.BaseScriptList  
-                DFLT 	ideo  	-68   828  -120     0,
-                hani  	ideo   	-68   828  -120     0,
-                kana  	ideo   	-68   828  -120     0,
-                latn  	romn   	-68   828  -120     0,
-                cyrl  	romn   	-68   828  -120     0,
-                grek  	romn   	-68   828  -120     0;
-
-  VertAxis.BaseTagList      icfb  icft  ideo  romn;
-  VertAxis.BaseScriptList 
-                DFLT  	ideo    	43   952     0   120,
-                hani  	ideo    	43   952     0   120,
-                kana  	ideo    	43   952     0   120,
-                latn  	romn   	    43   952     0   120,
-                cyrl  	romn    	43   952     0   120,
-                grek  	romn    	43   952     0   120;
-} BASE;

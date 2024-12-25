@@ -284,12 +284,12 @@
     <contour>
       <point x="79" y="652" type="curve"/>
       <point x="79" y="652"/>
-      <point x="79" y="316"/>
-      <point x="79" y="316" type="curve"/>
-      <point x="79" y="316"/>
-      <point x="108" y="316"/>
-      <point x="108" y="316" type="curve"/>
-      <point x="108" y="316"/>
+      <point x="79" y="329"/>
+      <point x="79" y="329" type="curve"/>
+      <point x="79" y="329"/>
+      <point x="108" y="329"/>
+      <point x="108" y="329" type="curve"/>
+      <point x="108" y="329"/>
       <point x="108" y="652"/>
       <point x="108" y="652" type="curve"/>
       <point x="108" y="652"/>
