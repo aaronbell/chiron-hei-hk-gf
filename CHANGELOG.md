@@ -1,3 +1,8 @@
+v2.522 (2024/12/24)
+====
+- Continue fixing stroke misalignment issues in the font.
+- Glyph fixes: 徬 (U+5FAC), 旌 (U+65CC), 旐 (U+65D0), 旛 (U+65DB), 緊 (U+7DCA), 餪 (U+992A). 
+
 v2.520 (2024/12/08)
 ====
 - Continue fixing stroke misalignment issues in the font.
