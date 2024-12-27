@@ -74,14 +74,14 @@
       <point x="949" y="691" type="curve"/>
     </contour>
     <contour>
-      <point x="432" y="175" type="curve"/>
-      <point x="465" y="175" type="line"/>
-      <point x="528" y="252"/>
-      <point x="623" y="389"/>
-      <point x="681" y="496" type="curve"/>
-      <point x="653" y="502" type="line"/>
-      <point x="596" y="397"/>
-      <point x="501" y="258"/>
+      <point x="434" y="175" type="curve"/>
+      <point x="467" y="175" type="line"/>
+      <point x="530" y="252"/>
+      <point x="625" y="389"/>
+      <point x="683" y="496" type="curve"/>
+      <point x="655" y="502" type="line"/>
+      <point x="598" y="397"/>
+      <point x="503" y="258"/>
     </contour>
     <contour>
       <point x="171" y="787" type="line"/>

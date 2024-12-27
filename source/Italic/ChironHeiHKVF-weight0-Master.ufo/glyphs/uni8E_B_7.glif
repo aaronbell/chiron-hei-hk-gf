@@ -232,18 +232,18 @@
       <point x="796" y="542"/>
     </contour>
     <contour>
-      <point x="443" y="113" type="curve"/>
-      <point x="443" y="113"/>
-      <point x="473" y="113"/>
-      <point x="473" y="113" type="curve"/>
-      <point x="527" y="176"/>
-      <point x="607" y="285"/>
-      <point x="657" y="373" type="curve"/>
-      <point x="657" y="373"/>
-      <point x="631" y="377"/>
-      <point x="631" y="377" type="curve"/>
-      <point x="584" y="292"/>
-      <point x="503" y="181"/>
+      <point x="442" y="113" type="curve"/>
+      <point x="442" y="113"/>
+      <point x="472" y="113"/>
+      <point x="472" y="113" type="curve"/>
+      <point x="526" y="176"/>
+      <point x="606" y="285"/>
+      <point x="656" y="373" type="curve"/>
+      <point x="656" y="373"/>
+      <point x="630" y="377"/>
+      <point x="630" y="377" type="curve"/>
+      <point x="583" y="292"/>
+      <point x="502" y="181"/>
     </contour>
   </outline>
   <lib>

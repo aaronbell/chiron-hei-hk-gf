@@ -98,14 +98,14 @@
       <point x="280" y="228" type="curve"/>
     </contour>
     <contour>
-      <point x="399" y="93" type="curve"/>
-      <point x="435" y="93" type="line"/>
-      <point x="492" y="148"/>
-      <point x="575" y="243"/>
-      <point x="629" y="321" type="curve"/>
-      <point x="600" y="328" type="line"/>
-      <point x="549" y="252"/>
-      <point x="463" y="155"/>
+      <point x="399" y="91" type="curve"/>
+      <point x="435" y="91" type="line"/>
+      <point x="493" y="146"/>
+      <point x="576" y="241"/>
+      <point x="629" y="319" type="curve"/>
+      <point x="601" y="326" type="line"/>
+      <point x="549" y="250"/>
+      <point x="464" y="153"/>
     </contour>
     <contour>
       <point x="333" y="237" type="line"/>
