@@ -1,3 +1,7 @@
+v2.523 (2024/12/27)
+====
+- Fix glyphs with stroke misalignment issues.
+
 v2.522 (2024/12/24)
 ====
 - Continue fixing stroke misalignment issues in the font.
