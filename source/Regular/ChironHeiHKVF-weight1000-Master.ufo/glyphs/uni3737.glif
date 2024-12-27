@@ -242,14 +242,14 @@
       <point x="263" y="152" type="curve"/>
     </contour>
     <contour>
-      <point x="174" y="65" type="curve"/>
-      <point x="332" y="65" type="line"/>
-      <point x="381" y="118"/>
-      <point x="453" y="209"/>
-      <point x="497" y="292" type="curve"/>
-      <point x="362" y="322" type="line"/>
-      <point x="317" y="235"/>
-      <point x="238" y="132"/>
+      <point x="172" y="66" type="curve"/>
+      <point x="330" y="66" type="line"/>
+      <point x="379" y="119"/>
+      <point x="451" y="210"/>
+      <point x="495" y="293" type="curve"/>
+      <point x="360" y="323" type="line"/>
+      <point x="315" y="236"/>
+      <point x="236" y="133"/>
     </contour>
   </outline>
   <lib>

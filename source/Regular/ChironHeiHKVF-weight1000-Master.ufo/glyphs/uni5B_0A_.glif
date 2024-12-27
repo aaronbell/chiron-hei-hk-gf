@@ -120,14 +120,14 @@
       <point x="250" y="132" type="curve"/>
     </contour>
     <contour>
-      <point x="166" y="56" type="curve"/>
-      <point x="313" y="56" type="line"/>
-      <point x="367" y="110"/>
-      <point x="441" y="199"/>
-      <point x="490" y="280" type="curve"/>
-      <point x="345" y="308" type="line"/>
-      <point x="304" y="223"/>
-      <point x="227" y="121"/>
+      <point x="164" y="55" type="curve"/>
+      <point x="311" y="55" type="line"/>
+      <point x="365" y="109"/>
+      <point x="439" y="198"/>
+      <point x="488" y="279" type="curve"/>
+      <point x="343" y="307" type="line"/>
+      <point x="302" y="222"/>
+      <point x="225" y="120"/>
     </contour>
   </outline>
   <lib>
