@@ -28798,1219 +28798,1219 @@
       <string>mmiddletilde</string>
       <string>uni91B3</string>
       <string>uni91B4_CN</string>
-      <string>uni91B4</string>
       <string>nhookleft</string>
       <string>nretroflex</string>
-      <string>uni91B5</string>
       <string>nmiddletilde</string>
+      <string>uni91B5</string>
       <string>nsmall</string>
-      <string>uni91B6</string>
       <string>ramshorn</string>
-      <string>uni91B7</string>
+      <string>uni91B6</string>
       <string>obar</string>
+      <string>uni91B7</string>
+      <string>oesmall</string>
       <string>uni91B8</string>
       <string>uni91B9</string>
-      <string>oesmall</string>
       <string>omegalatinclosed</string>
-      <string>uni91BA</string>
       <string>philatin</string>
-      <string>uni91BB</string>
+      <string>uni91BA</string>
       <string>rturned</string>
-      <string>uni91BC</string>
+      <string>uni91BB</string>
       <string>rlonglegturned</string>
-      <string>uni91BD</string>
+      <string>uni91BC</string>
       <string>rhookturned</string>
+      <string>uni91BD</string>
       <string>rtail</string>
-      <string>uni91BE</string>
       <string>rfishhook</string>
-      <string>uni91BF</string>
+      <string>uni91BE</string>
       <string>rsmall</string>
+      <string>uni91BF</string>
       <string>rsmallinverted</string>
-      <string>uni91C0</string>
       <string>shook</string>
+      <string>uni91C0</string>
       <string>esh</string>
       <string>dotlessjstrokehook</string>
-      <string>uni91C1</string>
       <string>tturned</string>
+      <string>uni91C1</string>
       <string>tretroflex</string>
-      <string>uni91C2</string>
       <string>ts</string>
-      <string>uni91C3</string>
+      <string>uni91C2</string>
       <string>tesh</string>
+      <string>uni91C3</string>
       <string>tccurl</string>
       <string>tshook</string>
       <string>theta.latin</string>
-      <string>uni91C4</string>
       <string>ubar</string>
+      <string>uni91C4</string>
       <string>upsilonlatin</string>
+      <string>upsilonstroke</string>
       <string>uni91C5</string>
       <string>uni91C6</string>
       <string>uni91C7</string>
       <string>uni91C8</string>
-      <string>upsilonstroke</string>
+      <string>vhook</string>
       <string>uni91C9</string>
       <string>uni91CA</string>
-      <string>vhook</string>
+      <string>vhookright</string>
       <string>uni91CB</string>
       <string>uni91CC_CN</string>
       <string>uni91CD</string>
       <string>uni91CE</string>
       <string>uni91CF_JP</string>
       <string>uni91D0</string>
-      <string>vhookright</string>
+      <string>wturned</string>
       <string>uni91D1_JP</string>
       <string>uni91D1_CN</string>
       <string>uni91D2</string>
       <string>uni91D3</string>
-      <string>wturned</string>
-      <string>uni91D4</string>
       <string>yturned</string>
+      <string>uni91D4</string>
+      <string>ysmall</string>
       <string>uni91D5</string>
       <string>uni91D6</string>
-      <string>ysmall</string>
-      <string>uni91D7</string>
       <string>zretroflex</string>
-      <string>uni91D8</string>
+      <string>uni91D7</string>
       <string>zcurl</string>
-      <string>uni91D9</string>
+      <string>uni91D8</string>
       <string>ain</string>
-      <string>uni91DA</string>
+      <string>uni91D9</string>
       <string>glottalstop</string>
+      <string>uni91DA</string>
+      <string>glottalstopreversed</string>
       <string>uni91DB</string>
       <string>uni91DC</string>
-      <string>glottalstopreversed</string>
-      <string>uni91DD</string>
       <string>glottalstopstroke</string>
-      <string>uni91DE</string>
+      <string>uni91DD</string>
       <string>glottalstopstrokereversed</string>
+      <string>uni91DE</string>
       <string>clickdental</string>
+      <string>clicklateral</string>
       <string>uni91DF</string>
       <string>uni91E0</string>
       <string>uni91E1</string>
       <string>uni91E2</string>
       <string>uni91E3</string>
-      <string>clicklateral</string>
-      <string>uni91E4</string>
       <string>clickalveolar</string>
-      <string>uni91E5</string>
+      <string>uni91E4</string>
       <string>clickretroflex</string>
-      <string>uni91E6</string>
+      <string>uni91E5</string>
       <string>clickbilabial</string>
-      <string>uni91E7</string>
+      <string>uni91E6</string>
       <string>apicaldental</string>
+      <string>uni91E7</string>
+      <string>apicalretroflex</string>
       <string>uni91E8</string>
       <string>uni91E9</string>
-      <string>apicalretroflex</string>
-      <string>uni91EA</string>
       <string>ampersand</string>
+      <string>uni91EA</string>
+      <string>ettironian</string>
       <string>uni91EB</string>
       <string>uni91EC</string>
-      <string>ettironian</string>
-      <string>uni91ED</string>
       <string>Ettironian</string>
+      <string>uni91ED</string>
       <string>That</string>
-      <string>uni91EE</string>
       <string>that</string>
+      <string>uni91EE</string>
+      <string>f_f</string>
       <string>uni91EF</string>
       <string>uni91F0</string>
-      <string>f_f</string>
-      <string>uni91F1</string>
       <string>f_f_i</string>
+      <string>uni91F1</string>
+      <string>f_f_l</string>
       <string>uni91F2</string>
       <string>uni91F3</string>
       <string>uni91F4</string>
       <string>uni91F5</string>
-      <string>f_f_l</string>
-      <string>uni91F6</string>
       <string>f_t</string>
+      <string>uni91F6</string>
       <string>f_f_t</string>
-      <string>uni91F7</string>
       <string>I.a</string>
+      <string>uni91F7</string>
       <string>Igrave.a</string>
-      <string>uni91F8</string>
       <string>Iacute.a</string>
+      <string>uni91F8</string>
       <string>Icircumflex.a</string>
+      <string>Itilde.a</string>
       <string>uni91F9</string>
       <string>uni91FA</string>
       <string>uni91FB</string>
-      <string>Itilde.a</string>
-      <string>uni91FD</string>
       <string>Idieresis.a</string>
+      <string>uni91FD</string>
       <string>Imacron.a</string>
       <string>Ibreve.a</string>
+      <string>Idotaccent.a</string>
       <string>uni91FE</string>
       <string>uni91FF</string>
-      <string>Idotaccent.a</string>
-      <string>uni9200</string>
       <string>Icaron.a</string>
+      <string>uni9200</string>
       <string>Idblgrave.a</string>
+      <string>Iogonek.a</string>
       <string>uni9201</string>
       <string>uni9202</string>
       <string>uni9203</string>
       <string>uni9204</string>
-      <string>Iogonek.a</string>
-      <string>uni9205</string>
       <string>Iogonekacute.a</string>
+      <string>uni9205</string>
       <string>Ihoi.a</string>
-      <string>uni9206</string>
       <string>Idotbelow.a</string>
-      <string>uni9207</string>
+      <string>uni9206</string>
       <string>Istroke.a</string>
+      <string>uni9207</string>
+      <string>Eng.a</string>
       <string>uni9208</string>
       <string>uni9209</string>
-      <string>Eng.a</string>
       <string>Iotalatin.a</string>
-      <string>uni920A</string>
       <string>a.a</string>
+      <string>uni920A</string>
+      <string>agrave.a</string>
       <string>uni920B</string>
       <string>uni920C</string>
-      <string>agrave.a</string>
       <string>aacute.a</string>
       <string>acircumflex.a</string>
-      <string>uni920D</string>
       <string>atilde.a</string>
+      <string>uni920D</string>
+      <string>adieresis.a</string>
       <string>uni920E</string>
       <string>uni920F</string>
       <string>uni9210</string>
-      <string>adieresis.a</string>
       <string>aring.a</string>
       <string>amacron.a</string>
-      <string>uni9211</string>
       <string>abreve.a</string>
+      <string>uni9211</string>
       <string>acaron.a</string>
-      <string>uni9212</string>
       <string>adblgrave.a</string>
+      <string>uni9212</string>
       <string>aogonek.a</string>
       <string>aogonek.e</string>
+      <string>adot.a</string>
       <string>uni9213</string>
       <string>uni9214</string>
-      <string>adot.a</string>
       <string>adotbelow.a</string>
-      <string>uni9215</string>
       <string>ahoi.a</string>
+      <string>uni9215</string>
       <string>acircumflexacute.a</string>
       <string>acircumflexgrave.a</string>
-      <string>uni9216</string>
       <string>acircumflexhoi.a</string>
+      <string>uni9216</string>
       <string>acircumflextilde.a</string>
+      <string>acircumflexdotbelow.a</string>
       <string>uni9217</string>
       <string>uni9218</string>
-      <string>acircumflexdotbelow.a</string>
-      <string>uni9219</string>
       <string>abreveacute.a</string>
+      <string>uni9219</string>
+      <string>abrevegrave.a</string>
       <string>uni921A</string>
       <string>uni921B</string>
-      <string>abrevegrave.a</string>
+      <string>abrevehoi.a</string>
       <string>uni921C</string>
       <string>uni921D</string>
-      <string>abrevehoi.a</string>
       <string>abrevetilde.a</string>
+      <string>abrevedotbelow.a</string>
       <string>uni921E</string>
       <string>uni921F</string>
       <string>uni9220</string>
       <string>uni9221</string>
       <string>uni9222</string>
-      <string>abrevedotbelow.a</string>
+      <string>aringacute.a</string>
       <string>uni9223</string>
       <string>uni9224</string>
-      <string>aringacute.a</string>
-      <string>uni9225</string>
       <string>astroke.a</string>
+      <string>uni9225</string>
       <string>aogonekacute.a</string>
-      <string>uni9226</string>
       <string>a.b</string>
+      <string>uni9226</string>
+      <string>agrave.b</string>
       <string>uni9227</string>
       <string>uni9228</string>
-      <string>agrave.b</string>
       <string>aacute.b</string>
+      <string>acircumflex.b</string>
       <string>uni9229</string>
       <string>uni922A</string>
       <string>uni922B</string>
       <string>uni922C</string>
       <string>uni922D</string>
-      <string>acircumflex.b</string>
-      <string>uni922E</string>
       <string>atilde.b</string>
+      <string>uni922E</string>
       <string>adieresis.b</string>
-      <string>uni922F</string>
       <string>aring.b</string>
+      <string>uni922F</string>
       <string>amacron.b</string>
+      <string>abreve.b</string>
       <string>uni9230</string>
       <string>uni9231</string>
       <string>uni9232</string>
       <string>uni9233</string>
-      <string>abreve.b</string>
-      <string>uni9234_JP</string>
       <string>adot.b</string>
+      <string>uni9234_JP</string>
+      <string>acaron.b</string>
       <string>uni9234</string>
       <string>uni9235</string>
-      <string>acaron.b</string>
       <string>adblgrave.b</string>
+      <string>aogonek.b</string>
       <string>uni9236</string>
       <string>uni9237</string>
-      <string>aogonek.b</string>
-      <string>uni9238</string>
       <string>aogonek.f</string>
+      <string>uni9238</string>
       <string>adotbelow.b</string>
-      <string>uni9239</string>
       <string>ahoi.b</string>
-      <string>uni923A</string>
+      <string>uni9239</string>
       <string>acircumflexacute.b</string>
+      <string>uni923A</string>
+      <string>acircumflexgrave.b</string>
       <string>uni923B</string>
       <string>uni923C</string>
-      <string>acircumflexgrave.b</string>
+      <string>acircumflexhoi.b</string>
       <string>uni923D</string>
       <string>uni923E</string>
-      <string>acircumflexhoi.b</string>
-      <string>uni923F</string>
       <string>acircumflextilde.b</string>
-      <string>uni9240</string>
+      <string>uni923F</string>
       <string>acircumflexdotbelow.b</string>
-      <string>uni9241</string>
+      <string>uni9240</string>
       <string>abreveacute.b</string>
-      <string>uni9242</string>
+      <string>uni9241</string>
       <string>abrevegrave.b</string>
+      <string>uni9242</string>
+      <string>abrevehoi.b</string>
       <string>uni9243</string>
       <string>uni9244</string>
-      <string>abrevehoi.b</string>
-      <string>uni9245</string>
       <string>abrevetilde.b</string>
+      <string>uni9245</string>
       <string>abrevedotbelow.b</string>
-      <string>uni9246</string>
       <string>aringacute.b</string>
-      <string>uni9247</string>
+      <string>uni9246</string>
       <string>astroke.b</string>
-      <string>uni9248</string>
+      <string>uni9247</string>
       <string>aogonekacute.b</string>
+      <string>uni9248</string>
+      <string>aturned.b</string>
       <string>uni9249</string>
       <string>uni924A</string>
-      <string>aturned.b</string>
-      <string>uni924B</string>
       <string>g.a</string>
+      <string>uni924B</string>
+      <string>gacute.a</string>
       <string>uni924C</string>
       <string>uni924D</string>
-      <string>gacute.a</string>
-      <string>uni924E</string>
       <string>gcircumflex.a</string>
-      <string>uni924F</string>
+      <string>uni924E</string>
       <string>gmacron.a</string>
-      <string>uni9250</string>
+      <string>uni924F</string>
       <string>gbreve.a</string>
-      <string>uni9251</string>
+      <string>uni9250</string>
       <string>gdotaccent.a</string>
-      <string>uni9252</string>
+      <string>uni9251</string>
       <string>gcaron.a</string>
+      <string>uni9252</string>
+      <string>gcommaaccent.a</string>
       <string>uni9253</string>
       <string>uni9254</string>
       <string>uni9255</string>
-      <string>gcommaaccent.a</string>
+      <string>gtilde.a</string>
       <string>uni9256</string>
       <string>uni9257</string>
-      <string>gtilde.a</string>
       <string>l.a</string>
+      <string>lacute.a</string>
       <string>uni9258</string>
       <string>uni9259</string>
-      <string>lacute.a</string>
-      <string>uni925A</string>
       <string>lcaron.a</string>
+      <string>uni925A</string>
       <string>lcommaaccent.a</string>
+      <string>ldotbelow.a</string>
       <string>uni925B</string>
       <string>uni925C</string>
-      <string>ldotbelow.a</string>
       <string>ldotbelowmacron.a</string>
-      <string>uni925D</string>
       <string>llinebelow.a</string>
+      <string>uni925D</string>
+      <string>lslash.a</string>
       <string>uni925E</string>
       <string>uni925F</string>
       <string>uni9260</string>
-      <string>lslash.a</string>
       <string>lbar.a</string>
       <string>lbardbl.a</string>
+      <string>lmiddletilde.a</string>
       <string>uni9261</string>
       <string>uni9262</string>
-      <string>lmiddletilde.a</string>
+      <string>ldot.a</string>
       <string>uni9263</string>
       <string>uni9264</string>
-      <string>ldot.a</string>
       <string>lgeminada.a</string>
       <string>fl.a</string>
+      <string>iogonek.x</string>
       <string>uni9265</string>
       <string>uni9266</string>
-      <string>iogonek.x</string>
       <string>istroke.x</string>
+      <string>jcrossedtail.x</string>
       <string>uni9267</string>
       <string>uni9268</string>
       <string>uni9269</string>
-      <string>jcrossedtail.x</string>
+      <string>Alpha</string>
       <string>uni926A</string>
       <string>uni926B</string>
       <string>uni926C</string>
       <string>uni926D</string>
       <string>uni926E</string>
-      <string>Alpha</string>
-      <string>uni926F</string>
       <string>Beta</string>
+      <string>uni926F</string>
       <string>Gamma</string>
-      <string>uni9270</string>
       <string>Delta</string>
+      <string>uni9270</string>
       <string>Epsilon</string>
+      <string>Zeta</string>
       <string>uni9271</string>
       <string>uni9272</string>
       <string>uni9273</string>
       <string>uni9274</string>
       <string>uni9275</string>
-      <string>Zeta</string>
-      <string>uni9276</string>
       <string>Eta</string>
-      <string>uni9277</string>
+      <string>uni9276</string>
       <string>Theta</string>
+      <string>uni9277</string>
       <string>Iota</string>
+      <string>Kappa</string>
       <string>uni9278</string>
       <string>uni9279</string>
-      <string>Kappa</string>
       <string>Lambda</string>
       <string>Mu</string>
+      <string>Nu</string>
       <string>uni927A</string>
       <string>uni927B</string>
-      <string>Nu</string>
-      <string>uni927C</string>
       <string>Xi</string>
+      <string>uni927C</string>
       <string>Omicron</string>
-      <string>uni927D</string>
       <string>Pi</string>
+      <string>uni927D</string>
       <string>Rho</string>
+      <string>Sigma</string>
       <string>uni927E</string>
       <string>uni927F</string>
-      <string>Sigma</string>
       <string>Tau</string>
+      <string>Upsilon</string>
       <string>uni9280</string>
       <string>uni9281</string>
-      <string>Upsilon</string>
-      <string>uni9282</string>
       <string>Phi</string>
-      <string>uni9283</string>
+      <string>uni9282</string>
       <string>Chi</string>
-      <string>uni9284</string>
+      <string>uni9283</string>
       <string>Psi</string>
+      <string>uni9284</string>
+      <string>Omega</string>
       <string>uni9285</string>
       <string>uni9286</string>
-      <string>Omega</string>
+      <string>Sho</string>
       <string>uni9287</string>
       <string>uni9288</string>
-      <string>Sho</string>
-      <string>uni9289</string>
       <string>Alphatonos</string>
-      <string>uni928A</string>
+      <string>uni9289</string>
       <string>Epsilontonos</string>
+      <string>uni928A</string>
       <string>Etatonos</string>
       <string>Iotatonos</string>
+      <string>Iotadieresis</string>
       <string>uni928B</string>
       <string>uni928C</string>
-      <string>Iotadieresis</string>
-      <string>uni928D</string>
       <string>Omicrontonos</string>
+      <string>uni928D</string>
       <string>Upsilontonos</string>
       <string>Upsilondieresis</string>
-      <string>uni928E</string>
       <string>Omegatonos</string>
+      <string>uni928E</string>
+      <string>alpha</string>
       <string>uni928F</string>
       <string>uni9290</string>
       <string>uni9291</string>
-      <string>alpha</string>
+      <string>beta</string>
       <string>uni9292</string>
       <string>uni9293</string>
-      <string>beta</string>
       <string>gamma</string>
-      <string>uni9294</string>
       <string>delta</string>
+      <string>uni9294</string>
+      <string>epsilon</string>
       <string>uni9295</string>
       <string>uni9296</string>
-      <string>epsilon</string>
-      <string>uni9297</string>
       <string>zeta</string>
+      <string>uni9297</string>
       <string>eta</string>
       <string>theta</string>
-      <string>uni9298</string>
       <string>iota</string>
+      <string>uni9298</string>
+      <string>kappa</string>
       <string>uni9299</string>
       <string>uni929A</string>
-      <string>kappa</string>
-      <string>uni929B</string>
       <string>lambda</string>
-      <string>uni929C</string>
+      <string>uni929B</string>
       <string>mu</string>
+      <string>uni929C</string>
+      <string>nu</string>
       <string>uni929D</string>
       <string>uni929E</string>
       <string>uni929F</string>
       <string>uni92A0</string>
-      <string>nu</string>
       <string>xi</string>
+      <string>omicron</string>
       <string>uni92A1</string>
       <string>uni92A2</string>
-      <string>omicron</string>
+      <string>pi</string>
       <string>uni92A3</string>
       <string>uni92A4</string>
-      <string>pi</string>
       <string>rho</string>
       <string>sigma</string>
+      <string>tau</string>
       <string>uni92A5</string>
       <string>uni92A6</string>
       <string>uni92A7</string>
-      <string>tau</string>
       <string>upsilon</string>
       <string>phi</string>
-      <string>uni92A8</string>
       <string>chi</string>
+      <string>uni92A8</string>
+      <string>psi</string>
       <string>uni92A9</string>
       <string>uni92AA</string>
-      <string>psi</string>
-      <string>uni92AB</string>
       <string>omega</string>
+      <string>uni92AB</string>
+      <string>sigma.end</string>
       <string>uni92AC</string>
       <string>uni92AD</string>
-      <string>sigma.end</string>
-      <string>uni92AE</string>
       <string>koppa</string>
+      <string>uni92AE</string>
+      <string>stigma</string>
       <string>uni92AF</string>
       <string>uni92B0</string>
       <string>uni92B1</string>
       <string>uni92B2</string>
-      <string>stigma</string>
       <string>digamma</string>
-      <string>uni92B3</string>
       <string>sampi</string>
-      <string>uni92B4</string>
+      <string>uni92B3</string>
       <string>sho</string>
+      <string>uni92B4</string>
+      <string>Theta.a</string>
       <string>uni92B5</string>
       <string>uni92B6</string>
-      <string>Theta.a</string>
       <string>beta.a</string>
       <string>theta.a</string>
-      <string>uni92B7</string>
       <string>phi.a</string>
-      <string>uni92B8</string>
+      <string>uni92B7</string>
       <string>alphatonos</string>
+      <string>uni92B8</string>
       <string>epsilontonos</string>
       <string>etatonos</string>
-      <string>uni92B9</string>
       <string>iotatonos</string>
-      <string>uni92BA</string>
+      <string>uni92B9</string>
       <string>iotadieresis</string>
+      <string>uni92BA</string>
+      <string>omicrontonos</string>
       <string>uni92BB</string>
       <string>uni92BC</string>
-      <string>omicrontonos</string>
       <string>upsilontonos</string>
+      <string>upsilondieresis</string>
       <string>uni92BD</string>
       <string>uni92BE</string>
       <string>uni92BF</string>
-      <string>upsilondieresis</string>
-      <string>uni92C0</string>
       <string>omegatonos</string>
-      <string>uni92C1</string>
+      <string>uni92C0</string>
       <string>iotadieresistonos</string>
+      <string>uni92C1</string>
       <string>upsilondieresistonos</string>
       <string>Alphalenis</string>
-      <string>uni92C2</string>
       <string>Alphaasper</string>
-      <string>uni92C3</string>
+      <string>uni92C2</string>
       <string>Alphagrave</string>
-      <string>uni92C4</string>
+      <string>uni92C3</string>
       <string>Alphaacute</string>
+      <string>uni92C4</string>
+      <string>Alphalenisgrave</string>
       <string>uni92C5</string>
       <string>uni92C6</string>
-      <string>Alphalenisgrave</string>
       <string>Alphaaspergrave</string>
       <string>Alphalenisacute</string>
-      <string>uni92C7</string>
       <string>Alphaasperacute</string>
-      <string>uni92C8</string>
+      <string>uni92C7</string>
       <string>Alphalenistilde</string>
+      <string>uni92C8</string>
+      <string>Alphaaspertilde</string>
       <string>uni92C9</string>
       <string>uni92CA</string>
-      <string>Alphaaspertilde</string>
       <string>Alphabreve</string>
-      <string>uni92CB</string>
       <string>Alphamacron</string>
+      <string>uni92CB</string>
+      <string>Epsilonlenis</string>
       <string>uni92CC</string>
       <string>uni92CD</string>
-      <string>Epsilonlenis</string>
       <string>Epsilonasper</string>
+      <string>Epsilongrave</string>
       <string>uni92CE</string>
       <string>uni92CF</string>
-      <string>Epsilongrave</string>
       <string>Epsilonacute</string>
-      <string>uni92D0</string>
       <string>Epsilonlenisgrave</string>
+      <string>uni92D0</string>
       <string>Epsilonaspergrave</string>
       <string>Epsilonlenisacute</string>
+      <string>Epsilonasperacute</string>
       <string>uni92D1</string>
       <string>uni92D2</string>
-      <string>Epsilonasperacute</string>
-      <string>uni92D3</string>
       <string>Etalenis</string>
+      <string>uni92D3</string>
+      <string>Etaasper</string>
       <string>uni92D4</string>
       <string>uni92D5</string>
-      <string>Etaasper</string>
+      <string>Etagrave</string>
       <string>uni92D6</string>
       <string>uni92D7</string>
-      <string>Etagrave</string>
       <string>Etaacute</string>
       <string>Etalenisgrave</string>
       <string>Etaaspergrave</string>
+      <string>Etalenisacute</string>
       <string>uni92D8</string>
       <string>uni92D9</string>
-      <string>Etalenisacute</string>
+      <string>Etaasperacute</string>
       <string>uni92DA</string>
       <string>uni92DB</string>
       <string>uni92DC</string>
-      <string>Etaasperacute</string>
       <string>Etalenistilde</string>
+      <string>Etaaspertilde</string>
       <string>uni92DD</string>
       <string>uni92DE</string>
       <string>uni92DF</string>
-      <string>Etaaspertilde</string>
       <string>Iotalenis</string>
       <string>Iotaasper</string>
       <string>Iotagrave</string>
+      <string>Iotaacute</string>
       <string>uni92E0</string>
       <string>uni92E1</string>
-      <string>Iotaacute</string>
       <string>Iotalenisgrave</string>
-      <string>uni92E2</string>
       <string>Iotaaspergrave</string>
+      <string>uni92E2</string>
       <string>Iotalenisacute</string>
+      <string>Iotaasperacute</string>
       <string>uni92E3</string>
       <string>uni92E4</string>
-      <string>Iotaasperacute</string>
-      <string>uni92E5</string>
       <string>Iotalenistilde</string>
+      <string>uni92E5</string>
       <string>Iotaaspertilde</string>
       <string>Iotabreve</string>
+      <string>Iotamacron</string>
       <string>uni92E6</string>
       <string>uni92E7</string>
-      <string>Iotamacron</string>
-      <string>uni92E8</string>
       <string>Omicronlenis</string>
+      <string>uni92E8</string>
       <string>Omicronasper</string>
       <string>Omicrongrave</string>
+      <string>Omicronacute</string>
       <string>uni92E9</string>
       <string>uni92EA</string>
-      <string>Omicronacute</string>
-      <string>uni92EB</string>
       <string>Omicronlenisgrave</string>
-      <string>uni92EC</string>
+      <string>uni92EB</string>
       <string>Omicronaspergrave</string>
-      <string>uni92ED_CN</string>
+      <string>uni92EC</string>
       <string>Omicronlenisacute</string>
-      <string>uni92EE</string>
+      <string>uni92ED_CN</string>
       <string>Omicronasperacute</string>
-      <string>uni92EF</string>
+      <string>uni92EE</string>
       <string>Rhoasper</string>
+      <string>uni92EF</string>
+      <string>Upsilonasper</string>
       <string>uni92F0</string>
       <string>uni92F1</string>
       <string>uni92F2</string>
-      <string>Upsilonasper</string>
-      <string>uni92F3</string>
       <string>Upsilongrave</string>
+      <string>uni92F3</string>
       <string>Upsilonacute</string>
+      <string>Upsilonaspergrave</string>
       <string>uni92F4</string>
       <string>uni92F5</string>
       <string>uni92F6</string>
-      <string>Upsilonaspergrave</string>
       <string>Upsilonasperacute</string>
+      <string>Upsilonaspertilde</string>
       <string>uni92F7</string>
       <string>uni92F8</string>
-      <string>Upsilonaspertilde</string>
       <string>Upsilonbreve</string>
-      <string>uni92F9</string>
       <string>Upsilonmacron</string>
+      <string>uni92F9</string>
       <string>Omegalenis</string>
-      <string>uni92FA</string>
       <string>Omegaasper</string>
-      <string>uni92FB</string>
+      <string>uni92FA</string>
       <string>Omegagrave</string>
+      <string>uni92FB</string>
+      <string>Omegaacute</string>
       <string>uni92FC</string>
       <string>uni92FD</string>
-      <string>Omegaacute</string>
-      <string>uni92FE</string>
       <string>Omegalenisgrave</string>
+      <string>uni92FE</string>
+      <string>Omegaaspergrave</string>
       <string>uni92FF</string>
       <string>uni9300</string>
-      <string>Omegaaspergrave</string>
-      <string>uni9301</string>
       <string>Omegalenisacute</string>
+      <string>uni9301</string>
       <string>Omegaasperacute</string>
       <string>Omegalenistilde</string>
+      <string>Omegaaspertilde</string>
       <string>uni9302</string>
       <string>uni9303</string>
       <string>uni9304_JP</string>
-      <string>Omegaaspertilde</string>
+      <string>Alphaiotasub</string>
       <string>uni9304</string>
       <string>uni9305</string>
-      <string>Alphaiotasub</string>
       <string>Alphaiotasublenis</string>
       <string>Alphaiotasubasper</string>
-      <string>uni9307</string>
       <string>Alphaiotasublenisgrave</string>
+      <string>uni9307</string>
+      <string>Alphaiotasubaspergrave</string>
       <string>uni9308</string>
       <string>uni9309</string>
       <string>uni930A</string>
       <string>uni930B</string>
       <string>uni930C</string>
       <string>uni930D</string>
-      <string>Alphaiotasubaspergrave</string>
+      <string>Alphaiotasublenisacute</string>
       <string>uni930E</string>
       <string>uni930F</string>
-      <string>Alphaiotasublenisacute</string>
       <string>Alphaiotasubasperacute</string>
+      <string>Alphaiotasublenistilde</string>
       <string>uni9310</string>
       <string>uni9311</string>
-      <string>Alphaiotasublenistilde</string>
-      <string>uni9312</string>
       <string>Alphaiotasubaspertilde</string>
+      <string>uni9312</string>
+      <string>Etaiotasub</string>
       <string>uni9313</string>
       <string>uni9314</string>
-      <string>Etaiotasub</string>
       <string>Etaiotasublenis</string>
       <string>Etaiotasubasper</string>
       <string>Etaiotasublenisgrave</string>
+      <string>Etaiotasubaspergrave</string>
       <string>uni9315</string>
       <string>uni9316</string>
-      <string>Etaiotasubaspergrave</string>
-      <string>uni9317</string>
       <string>Etaiotasublenisacute</string>
+      <string>uni9317</string>
       <string>Etaiotasubasperacute</string>
+      <string>Etaiotasublenistilde</string>
       <string>uni9318</string>
       <string>uni9319</string>
-      <string>Etaiotasublenistilde</string>
       <string>Etaiotasubaspertilde</string>
       <string>Omegaiotasub</string>
+      <string>Omegaiotasublenis</string>
       <string>uni931A</string>
       <string>uni931B</string>
       <string>uni931C</string>
-      <string>Omegaiotasublenis</string>
       <string>Omegaiotasubasper</string>
-      <string>uni931D</string>
       <string>Omegaiotasublenisgrave</string>
+      <string>uni931D</string>
       <string>Omegaiotasubaspergrave</string>
+      <string>Omegaiotasublenisacute</string>
       <string>uni931E</string>
       <string>uni931F</string>
-      <string>Omegaiotasublenisacute</string>
       <string>Omegaiotasubasperacute</string>
       <string>Omegaiotasublenistilde</string>
+      <string>Omegaiotasubaspertilde</string>
       <string>uni9320</string>
       <string>uni9321</string>
-      <string>Omegaiotasubaspertilde</string>
-      <string>uni9322</string>
       <string>alphalenis</string>
-      <string>uni9323</string>
+      <string>uni9322</string>
       <string>alphaasper</string>
-      <string>uni9324</string>
+      <string>uni9323</string>
       <string>alphagrave</string>
+      <string>uni9324</string>
       <string>alphaacute</string>
-      <string>uni9325</string>
       <string>alphalenisgrave</string>
-      <string>uni9326</string>
+      <string>uni9325</string>
       <string>alphaaspergrave</string>
+      <string>uni9326</string>
       <string>alphalenisacute</string>
-      <string>uni9327</string>
       <string>alphaasperacute</string>
+      <string>uni9327</string>
       <string>alphalenistilde</string>
+      <string>alphaaspertilde</string>
       <string>uni9328</string>
       <string>uni9329</string>
-      <string>alphaaspertilde</string>
       <string>alphabreve</string>
-      <string>uni932A</string>
       <string>alphamacron</string>
-      <string>uni932B</string>
+      <string>uni932A</string>
       <string>alphatilde</string>
-      <string>uni932C</string>
+      <string>uni932B</string>
       <string>epsilonlenis</string>
+      <string>uni932C</string>
       <string>epsilonasper</string>
       <string>epsilongrave</string>
+      <string>epsilonacute</string>
       <string>uni932D</string>
       <string>uni932E</string>
-      <string>epsilonacute</string>
-      <string>uni932F</string>
       <string>epsilonlenisgrave</string>
+      <string>uni932F</string>
+      <string>epsilonaspergrave</string>
       <string>uni9330</string>
       <string>uni9331</string>
       <string>uni9332</string>
-      <string>epsilonaspergrave</string>
-      <string>uni9333</string>
       <string>epsilonlenisacute</string>
+      <string>uni9333</string>
       <string>epsilonasperacute</string>
       <string>etalenis</string>
-      <string>uni9334</string>
       <string>etaasper</string>
+      <string>uni9334</string>
       <string>etagrave</string>
       <string>etaacute</string>
-      <string>uni9335</string>
       <string>etalenisgrave</string>
+      <string>uni9335</string>
+      <string>etaaspergrave</string>
       <string>uni9336</string>
       <string>uni9337</string>
       <string>uni9338</string>
       <string>uni9339</string>
-      <string>etaaspergrave</string>
       <string>etalenisacute</string>
+      <string>etaasperacute</string>
       <string>uni933A</string>
       <string>uni933B</string>
       <string>uni933C</string>
-      <string>etaasperacute</string>
+      <string>etalenistilde</string>
       <string>uni933D</string>
       <string>uni933E</string>
       <string>uni933F</string>
-      <string>etalenistilde</string>
+      <string>etaaspertilde</string>
       <string>uni9340</string>
       <string>uni9341</string>
       <string>uni9342</string>
       <string>uni9343</string>
-      <string>etaaspertilde</string>
+      <string>etatilde</string>
       <string>uni9344</string>
       <string>uni9345</string>
       <string>uni9346</string>
-      <string>etatilde</string>
       <string>iotalenis</string>
-      <string>uni9347</string>
       <string>iotaasper</string>
+      <string>uni9347</string>
       <string>iotagrave</string>
+      <string>iotaacute</string>
       <string>uni9348</string>
       <string>uni9349</string>
-      <string>iotaacute</string>
+      <string>iotalenisgrave</string>
       <string>uni934A_JP</string>
       <string>uni934A</string>
       <string>uni934B</string>
-      <string>iotalenisgrave</string>
       <string>iotaaspergrave</string>
-      <string>uni934C</string>
       <string>iotalenisacute</string>
+      <string>uni934C</string>
+      <string>iotaasperacute</string>
       <string>uni934D</string>
       <string>uni934E</string>
-      <string>iotaasperacute</string>
-      <string>uni934F</string>
       <string>iotalenistilde</string>
+      <string>uni934F</string>
       <string>iotaaspertilde</string>
       <string>iotabreve</string>
+      <string>iotamacron</string>
       <string>uni9350</string>
       <string>uni9351</string>
-      <string>iotamacron</string>
       <string>iotatilde</string>
       <string>iotadieresisgrave</string>
-      <string>uni9352</string>
       <string>iotadieresisacute</string>
+      <string>uni9352</string>
       <string>iotadieresistilde</string>
-      <string>uni9353</string>
       <string>omicronlenis</string>
+      <string>uni9353</string>
+      <string>omicronasper</string>
       <string>uni9354</string>
       <string>uni9355</string>
-      <string>omicronasper</string>
       <string>omicrongrave</string>
       <string>omicronacute</string>
-      <string>uni9356</string>
       <string>omicronlenisgrave</string>
+      <string>uni9356</string>
+      <string>omicronaspergrave</string>
       <string>uni9357</string>
       <string>uni9358</string>
-      <string>omicronaspergrave</string>
+      <string>omicronlenisacute</string>
       <string>uni9359</string>
       <string>uni935A</string>
-      <string>omicronlenisacute</string>
       <string>omicronasperacute</string>
+      <string>rholenis</string>
       <string>uni935B</string>
       <string>uni935C</string>
-      <string>rholenis</string>
       <string>rhoasper</string>
+      <string>upsilonlenis</string>
       <string>uni935D</string>
       <string>uni935E</string>
-      <string>upsilonlenis</string>
+      <string>upsilonasper</string>
       <string>uni935F</string>
       <string>uni9360</string>
-      <string>upsilonasper</string>
+      <string>upsilongrave</string>
       <string>uni9361</string>
       <string>uni9362</string>
-      <string>upsilongrave</string>
-      <string>uni9363</string>
       <string>upsilonacute</string>
+      <string>uni9363</string>
       <string>upsilonlenisgrave</string>
+      <string>upsilonaspergrave</string>
       <string>uni9364</string>
       <string>uni9365</string>
-      <string>upsilonaspergrave</string>
       <string>upsilonlenisacute</string>
       <string>upsilonasperacute</string>
-      <string>uni9366</string>
       <string>upsilonlenistilde</string>
-      <string>uni9367</string>
+      <string>uni9366</string>
       <string>upsilonaspertilde</string>
-      <string>uni9368</string>
+      <string>uni9367</string>
       <string>upsilontilde</string>
+      <string>uni9368</string>
       <string>upsilonbreve</string>
+      <string>upsilonmacron</string>
       <string>uni9369</string>
       <string>uni936A</string>
-      <string>upsilonmacron</string>
-      <string>uni936B</string>
       <string>upsilondieresisgrave</string>
+      <string>uni936B</string>
       <string>upsilondieresisacute</string>
-      <string>uni936C</string>
       <string>upsilondieresistilde</string>
+      <string>uni936C</string>
       <string>omegalenis</string>
-      <string>uni936D</string>
       <string>omegaasper</string>
+      <string>uni936D</string>
       <string>omegagrave</string>
       <string>omegaacute</string>
+      <string>omegalenisgrave</string>
       <string>uni936E</string>
       <string>uni936F</string>
-      <string>omegalenisgrave</string>
+      <string>omegaaspergrave</string>
       <string>uni9370</string>
       <string>uni9371</string>
-      <string>omegaaspergrave</string>
       <string>omegalenisacute</string>
-      <string>uni9372</string>
       <string>omegaasperacute</string>
+      <string>uni9372</string>
       <string>omegalenistilde</string>
+      <string>omegaaspertilde</string>
       <string>uni9373</string>
       <string>uni9374</string>
-      <string>omegaaspertilde</string>
       <string>omegatilde</string>
+      <string>alphaiotasub</string>
       <string>uni9375</string>
       <string>uni9376</string>
-      <string>alphaiotasub</string>
-      <string>uni9377</string>
       <string>alphaiotasublenis</string>
+      <string>uni9377</string>
+      <string>alphaiotasubasper</string>
       <string>uni9378</string>
       <string>uni9379</string>
-      <string>alphaiotasubasper</string>
-      <string>uni937A</string>
       <string>alphaiotasubgrave</string>
+      <string>uni937A</string>
       <string>alphaiotasubacute</string>
+      <string>alphaiotasublenisgrave</string>
       <string>uni937B</string>
       <string>uni937C</string>
-      <string>alphaiotasublenisgrave</string>
       <string>alphaiotasubaspergrave</string>
+      <string>alphaiotasublenisacute</string>
       <string>uni937D</string>
       <string>uni937E</string>
-      <string>alphaiotasublenisacute</string>
+      <string>alphaiotasubasperacute</string>
       <string>uni937F</string>
       <string>uni9380</string>
-      <string>alphaiotasubasperacute</string>
       <string>alphaiotasublenistilde</string>
-      <string>uni9381</string>
       <string>alphaiotasubaspertilde</string>
+      <string>uni9381</string>
       <string>alphaiotasubtilde</string>
-      <string>uni9382</string>
       <string>etaiotasub</string>
+      <string>uni9382</string>
       <string>etaiotasublenis</string>
+      <string>etaiotasubasper</string>
       <string>uni9383</string>
       <string>uni9384</string>
       <string>uni9385</string>
       <string>uni9386</string>
       <string>uni9387</string>
       <string>uni9388</string>
-      <string>etaiotasubasper</string>
       <string>etaiotasubgrave</string>
       <string>etaiotasubacute</string>
       <string>etaiotasublenisgrave</string>
-      <string>uni9389</string>
       <string>etaiotasubaspergrave</string>
-      <string>uni938A</string>
+      <string>uni9389</string>
       <string>etaiotasublenisacute</string>
+      <string>uni938A</string>
+      <string>etaiotasubasperacute</string>
       <string>uni938B</string>
       <string>uni938C</string>
-      <string>etaiotasubasperacute</string>
       <string>etaiotasublenistilde</string>
+      <string>etaiotasubaspertilde</string>
       <string>uni938D</string>
       <string>uni938E</string>
-      <string>etaiotasubaspertilde</string>
       <string>etaiotasubtilde</string>
-      <string>uni938F</string>
       <string>omegaiotasub</string>
+      <string>uni938F</string>
       <string>omegaiotasublenis</string>
+      <string>omegaiotasubasper</string>
       <string>uni9390</string>
       <string>uni9391</string>
-      <string>omegaiotasubasper</string>
       <string>omegaiotasubgrave</string>
       <string>omegaiotasubacute</string>
+      <string>omegaiotasublenisgrave</string>
       <string>uni9392</string>
       <string>uni9393</string>
-      <string>omegaiotasublenisgrave</string>
-      <string>uni9394</string>
       <string>omegaiotasubaspergrave</string>
+      <string>uni9394</string>
+      <string>omegaiotasublenisacute</string>
       <string>uni9395</string>
       <string>uni9396</string>
-      <string>omegaiotasublenisacute</string>
-      <string>uni9397</string>
       <string>omegaiotasubasperacute</string>
+      <string>uni9397</string>
       <string>omegaiotasublenistilde</string>
       <string>omegaiotasubaspertilde</string>
-      <string>uni9398</string>
       <string>omegaiotasubtilde</string>
-      <string>uni9399</string>
+      <string>uni9398</string>
       <string>kai</string>
+      <string>uni9399</string>
       <string>Kai</string>
-      <string>uni939A</string>
       <string>questiongreek</string>
+      <string>uni939A</string>
       <string>anoteleia</string>
-      <string>uni939B</string>
       <string>anoteleia.cap</string>
-      <string>uni939C</string>
+      <string>uni939B</string>
       <string>numeralsign</string>
-      <string>uni939D</string>
+      <string>uni939C</string>
       <string>lownumeralsign</string>
+      <string>uni939D</string>
       <string>tonos</string>
+      <string>tonos.cap</string>
       <string>uni939E</string>
       <string>uni939F</string>
-      <string>tonos.cap</string>
       <string>dieresistonos</string>
-      <string>uni93A0</string>
       <string>iotasubscript</string>
+      <string>uni93A0</string>
       <string>iotaadscript</string>
+      <string>lenis</string>
       <string>uni93A1</string>
       <string>uni93A2</string>
       <string>uni93A3</string>
-      <string>lenis</string>
       <string>psili</string>
-      <string>uni93A4</string>
       <string>asper</string>
+      <string>uni93A4</string>
       <string>varia</string>
       <string>oxia</string>
-      <string>uni93A5</string>
       <string>lenisgrave</string>
+      <string>uni93A5</string>
+      <string>aspergrave</string>
       <string>uni93A6</string>
       <string>uni93A7</string>
-      <string>aspergrave</string>
       <string>lenisacute</string>
-      <string>uni93A8</string>
       <string>asperacute</string>
+      <string>uni93A8</string>
       <string>lenistilde</string>
-      <string>uni93A9</string>
       <string>aspertilde</string>
+      <string>uni93A9</string>
       <string>perispomeni</string>
-      <string>uni93AA</string>
       <string>dialytikagrave</string>
-      <string>uni93AB</string>
+      <string>uni93AA</string>
       <string>dialytikaacute</string>
+      <string>uni93AB</string>
+      <string>dialytikatilde</string>
       <string>uni93AC</string>
       <string>uni93AD</string>
-      <string>dialytikatilde</string>
       <string>lenis.cap</string>
       <string>asper.cap</string>
+      <string>varia.cap</string>
       <string>uni93AE</string>
       <string>uni93AF</string>
-      <string>varia.cap</string>
+      <string>lenisgrave.cap</string>
       <string>uni93B0</string>
       <string>uni93B1</string>
       <string>uni93B2</string>
       <string>uni93B3</string>
-      <string>lenisgrave.cap</string>
-      <string>uni93B4</string>
       <string>aspergrave.cap</string>
+      <string>uni93B4</string>
       <string>lenisacute.cap</string>
-      <string>uni93B5</string>
       <string>asperacute.cap</string>
+      <string>uni93B5</string>
+      <string>lenistilde.cap</string>
       <string>uni93B6</string>
       <string>uni93B7</string>
       <string>uni93B8</string>
-      <string>lenistilde.cap</string>
-      <string>uni93B9</string>
       <string>aspertilde.cap</string>
+      <string>uni93B9</string>
+      <string>Acyr</string>
       <string>uni93BA</string>
       <string>uni93BB</string>
-      <string>Acyr</string>
+      <string>Be</string>
       <string>uni93BC</string>
       <string>uni93BD</string>
       <string>uni93BE</string>
       <string>uni93BF</string>
       <string>uni93C0</string>
       <string>uni93C1</string>
-      <string>Be</string>
       <string>Ve</string>
-      <string>uni93C2</string>
       <string>Ghe</string>
+      <string>uni93C2</string>
       <string>De</string>
+      <string>Ie</string>
       <string>uni93C3</string>
       <string>uni93C4</string>
-      <string>Ie</string>
-      <string>uni93C5</string>
       <string>Zhe</string>
-      <string>uni93C6</string>
+      <string>uni93C5</string>
       <string>Ze</string>
+      <string>uni93C6</string>
       <string>Icyr</string>
-      <string>uni93C7</string>
       <string>Ishort</string>
+      <string>uni93C7</string>
       <string>Ka</string>
+      <string>El</string>
       <string>uni93C8</string>
       <string>uni93C9</string>
-      <string>El</string>
       <string>Em</string>
       <string>En</string>
+      <string>Ocyr</string>
       <string>uni93CA</string>
       <string>uni93CB</string>
-      <string>Ocyr</string>
       <string>Pe</string>
       <string>Er</string>
       <string>Es</string>
-      <string>uni93CC</string>
       <string>Te</string>
-      <string>uni93CD</string>
+      <string>uni93CC</string>
       <string>Ucyr</string>
+      <string>uni93CD</string>
       <string>Ef</string>
-      <string>uni93CE</string>
       <string>Ha</string>
-      <string>uni93CF</string>
+      <string>uni93CE</string>
       <string>Tse</string>
+      <string>uni93CF</string>
       <string>Che</string>
-      <string>uni93D0</string>
       <string>Sha</string>
+      <string>uni93D0</string>
+      <string>Shcha</string>
       <string>uni93D1</string>
       <string>uni93D2</string>
-      <string>Shcha</string>
+      <string>Hard</string>
       <string>uni93D3</string>
       <string>uni93D4</string>
-      <string>Hard</string>
-      <string>uni93D5</string>
       <string>Yeru</string>
+      <string>uni93D5</string>
       <string>Soft</string>
       <string>Ecyr</string>
-      <string>uni93D6</string>
       <string>Yu</string>
+      <string>uni93D6</string>
+      <string>Ya</string>
       <string>uni93D7</string>
       <string>uni93D8</string>
-      <string>Ya</string>
       <string>Iegrave</string>
       <string>Io</string>
+      <string>Dje</string>
       <string>uni93D9</string>
       <string>uni93DA</string>
       <string>uni93DB</string>
       <string>uni93DC</string>
-      <string>Dje</string>
       <string>Gje</string>
       <string>Ieukran</string>
       <string>Dze</string>
       <string>Iukran</string>
-      <string>uni93DE</string>
       <string>Yi</string>
+      <string>uni93DE</string>
       <string>Je</string>
       <string>Lje</string>
-      <string>uni93DF</string>
       <string>Nje</string>
-      <string>uni93E0</string>
+      <string>uni93DF</string>
       <string>Tshe</string>
+      <string>uni93E0</string>
+      <string>Kje</string>
       <string>uni93E1</string>
       <string>uni93E2</string>
-      <string>Kje</string>
       <string>Igravecyr</string>
-      <string>uni93E3</string>
       <string>Ushort</string>
+      <string>uni93E3</string>
       <string>Dzhe</string>
       <string>Yat</string>
-      <string>uni93E4</string>
       <string>Fita</string>
+      <string>uni93E4</string>
+      <string>Izhitsa</string>
       <string>uni93E5</string>
       <string>uni93E6</string>
-      <string>Izhitsa</string>
       <string>Gheup</string>
+      <string>Ghestroke</string>
       <string>uni93E7</string>
       <string>uni93E8</string>
-      <string>Ghestroke</string>
+      <string>Ghedescender</string>
       <string>uni93E9</string>
       <string>uni93EA</string>
       <string>uni93EB</string>
-      <string>Ghedescender</string>
+      <string>Zhedescender</string>
       <string>uni93EC</string>
       <string>uni93ED</string>
-      <string>Zhedescender</string>
+      <string>Zedescender</string>
       <string>uni93EE</string>
       <string>uni93EF</string>
       <string>uni93F0</string>
-      <string>Zedescender</string>
+      <string>Kadescender</string>
       <string>uni93F1</string>
       <string>uni93F2</string>
-      <string>Kadescender</string>
+      <string>Kabashkir</string>
       <string>uni93F3</string>
       <string>uni93F4</string>
-      <string>Kabashkir</string>
       <string>Kahook</string>
-      <string>uni93F5</string>
       <string>Endescender</string>
-      <string>uni93F6</string>
+      <string>uni93F5</string>
       <string>Enhook</string>
-      <string>uni93F7</string>
+      <string>uni93F6</string>
       <string>Esdescender</string>
+      <string>uni93F7</string>
       <string>Ustraight</string>
-      <string>uni93F8</string>
       <string>Ustraightstroke</string>
+      <string>uni93F8</string>
       <string>Hadescender</string>
       <string>Chedescender</string>
-      <string>uni93F9</string>
       <string>Shha</string>
-      <string>uni93FA</string>
+      <string>uni93F9</string>
       <string>Palochka</string>
+      <string>uni93FA</string>
       <string>Zhebreve</string>
       <string>Abrevecyr</string>
-      <string>uni93FB</string>
       <string>Aie</string>
-      <string>uni93FC</string>
+      <string>uni93FB</string>
       <string>Iebreve</string>
+      <string>uni93FC</string>
       <string>Schwacyr</string>
+      <string>Imacroncyr</string>
       <string>uni93FD</string>
       <string>uni93FE</string>
-      <string>Imacroncyr</string>
-      <string>uni93FF</string>
       <string>Odieresiscyr</string>
+      <string>uni93FF</string>
+      <string>Obarcyr</string>
       <string>uni9400</string>
       <string>uni9401</string>
-      <string>Obarcyr</string>
+      <string>Umacroncyr</string>
       <string>uni9402</string>
       <string>uni9403</string>
-      <string>Umacroncyr</string>
-      <string>uni9404</string>
       <string>Uacutedblcyr</string>
+      <string>uni9404</string>
       <string>acyr</string>
+      <string>be</string>
       <string>uni9405</string>
       <string>uni9406</string>
       <string>uni9407</string>
-      <string>be</string>
-      <string>uni9407_TW</string>
       <string>ve</string>
-      <string>uni9408</string>
+      <string>uni9407_TW</string>
       <string>ghe</string>
+      <string>uni9408</string>
       <string>de</string>
       <string>ie</string>
       <string>zhe</string>
+      <string>ze</string>
       <string>uni9409</string>
       <string>uni940A</string>
       <string>uni940B</string>
-      <string>ze</string>
+      <string>icyr</string>
       <string>uni940C</string>
       <string>uni940D</string>
-      <string>icyr</string>
       <string>ishort</string>
       <string>ka</string>
-      <string>uni940E</string>
       <string>el</string>
+      <string>uni940E</string>
       <string>em</string>
+      <string>en</string>
       <string>uni940F</string>
       <string>uni9410</string>
-      <string>en</string>
-      <string>uni9411</string>
       <string>ocyr</string>
-      <string>uni9412</string>
+      <string>uni9411</string>
       <string>pe</string>
+      <string>uni9412</string>
+      <string>er</string>
       <string>uni9413</string>
       <string>uni9414</string>
-      <string>er</string>
       <string>es</string>
       <string>te</string>
       <string>ucyr</string>
-      <string>uni9415</string>
       <string>ef</string>
+      <string>uni9415</string>
       <string>ha</string>
+      <string>tse</string>
       <string>uni9416</string>
       <string>uni9417</string>
-      <string>tse</string>
       <string>che</string>
       <string>sha</string>
+      <string>shcha</string>
       <string>uni9418</string>
       <string>uni9419</string>
-      <string>shcha</string>
+      <string>hard</string>
       <string>uni941A</string>
       <string>uni941B</string>
       <string>uni941C</string>
@@ -30022,201 +30022,201 @@
       <string>uni9422</string>
       <string>uni9423</string>
       <string>uni9424</string>
-      <string>hard</string>
       <string>yeru</string>
+      <string>soft</string>
       <string>uni9425</string>
       <string>uni9426</string>
       <string>uni9427</string>
       <string>uni9428</string>
-      <string>soft</string>
-      <string>uni9429</string>
       <string>ecyr</string>
+      <string>uni9429</string>
       <string>yu</string>
       <string>ya</string>
-      <string>uni942A</string>
       <string>iegrave</string>
+      <string>uni942A</string>
+      <string>io</string>
       <string>uni942B</string>
       <string>uni942C</string>
-      <string>io</string>
-      <string>uni942D</string>
       <string>dje</string>
-      <string>uni942E</string>
+      <string>uni942D</string>
       <string>gje</string>
+      <string>uni942E</string>
       <string>ieukran</string>
+      <string>dze</string>
       <string>uni942F</string>
       <string>uni9430</string>
-      <string>dze</string>
-      <string>uni9431</string>
       <string>iukran</string>
-      <string>uni9432</string>
+      <string>uni9431</string>
       <string>yi</string>
-      <string>uni9433</string>
+      <string>uni9432</string>
       <string>je</string>
+      <string>uni9433</string>
       <string>lje</string>
       <string>nje</string>
-      <string>uni9434</string>
       <string>tshe</string>
+      <string>uni9434</string>
       <string>kje</string>
-      <string>uni9435</string>
       <string>igravecyr</string>
-      <string>uni9436</string>
+      <string>uni9435</string>
       <string>ushort</string>
+      <string>uni9436</string>
       <string>dzhe</string>
+      <string>yat</string>
       <string>uni9437</string>
       <string>uni9438</string>
-      <string>yat</string>
       <string>fita</string>
+      <string>izhitsa</string>
       <string>uni9439</string>
       <string>uni943A</string>
-      <string>izhitsa</string>
       <string>gheup</string>
       <string>ghestroke</string>
-      <string>uni943B</string>
       <string>ghedescender</string>
-      <string>uni943C</string>
+      <string>uni943B</string>
       <string>zhedescender</string>
+      <string>uni943C</string>
       <string>zedescender</string>
+      <string>kadescender</string>
       <string>uni943D</string>
       <string>uni943E</string>
-      <string>kadescender</string>
+      <string>kabashkir</string>
       <string>uni943F</string>
       <string>uni9440</string>
-      <string>kabashkir</string>
-      <string>uni9441</string>
       <string>kahook</string>
-      <string>uni9442</string>
+      <string>uni9441</string>
       <string>endescender</string>
+      <string>uni9442</string>
       <string>enhook</string>
       <string>esdescender</string>
+      <string>ustraight</string>
       <string>uni9443</string>
       <string>uni9444</string>
-      <string>ustraight</string>
-      <string>uni9445</string>
       <string>ustraightstroke</string>
+      <string>uni9445</string>
       <string>hadescender</string>
       <string>chedescender</string>
-      <string>uni9446</string>
       <string>shha</string>
+      <string>uni9446</string>
+      <string>zhebreve</string>
       <string>uni9447</string>
       <string>uni9448</string>
-      <string>zhebreve</string>
       <string>palochka</string>
-      <string>uni9449</string>
       <string>abrevecyr</string>
+      <string>uni9449</string>
       <string>aie</string>
+      <string>iebreve</string>
       <string>uni944A</string>
       <string>uni944B</string>
-      <string>iebreve</string>
+      <string>schwacyr</string>
       <string>uni944C</string>
       <string>uni944D</string>
       <string>uni944E</string>
       <string>uni944F</string>
-      <string>schwacyr</string>
+      <string>imacroncyr</string>
       <string>uni9450</string>
       <string>uni9451</string>
-      <string>imacroncyr</string>
       <string>odieresiscyr</string>
       <string>obarcyr</string>
       <string>umacroncyr</string>
-      <string>uni9452</string>
       <string>uacutedblcyr</string>
+      <string>uni9452</string>
+      <string>De.a</string>
       <string>uni9453</string>
       <string>uni9454</string>
       <string>uni9455</string>
-      <string>De.a</string>
-      <string>uni9456</string>
       <string>Zhe.a</string>
+      <string>uni9456</string>
+      <string>Ka.a</string>
       <string>uni9457</string>
       <string>uni9458</string>
       <string>uni9459</string>
       <string>uni945A</string>
-      <string>Ka.a</string>
       <string>El.a</string>
+      <string>Ef.a</string>
       <string>uni945B</string>
       <string>uni945C</string>
-      <string>Ef.a</string>
-      <string>uni945D</string>
       <string>Yi.a</string>
+      <string>uni945D</string>
       <string>Lje.a</string>
       <string>Kje.a</string>
+      <string>Zhedescender.a</string>
       <string>uni945E</string>
       <string>uni945F</string>
-      <string>Zhedescender.a</string>
       <string>Kadescender.a</string>
-      <string>uni9460</string>
       <string>Kabashkir.a</string>
-      <string>uni9461</string>
+      <string>uni9460</string>
       <string>Kahook.a</string>
+      <string>uni9461</string>
       <string>Zhebreve.a</string>
       <string>acyr.a</string>
-      <string>uni9462</string>
       <string>abrevecyr.a</string>
+      <string>uni9462</string>
       <string>acyr.b</string>
-      <string>uni9463</string>
       <string>abrevecyr.b</string>
-      <string>uni9464</string>
+      <string>uni9463</string>
       <string>de.a</string>
+      <string>uni9464</string>
+      <string>zhe.a</string>
       <string>uni9465</string>
       <string>uni9466</string>
-      <string>zhe.a</string>
-      <string>uni9467</string>
       <string>ka.a</string>
-      <string>uni9468</string>
+      <string>uni9467</string>
       <string>el.a</string>
-      <string>uni9469</string>
+      <string>uni9468</string>
       <string>ef.a</string>
+      <string>uni9469</string>
       <string>yi.a</string>
+      <string>lje.a</string>
       <string>uni946A</string>
       <string>uni946B</string>
-      <string>lje.a</string>
       <string>kje.a</string>
+      <string>zhedescender.a</string>
       <string>uni946C</string>
       <string>uni946D</string>
-      <string>zhedescender.a</string>
       <string>kadescender.a</string>
       <string>kabashkir.a</string>
+      <string>kahook.a</string>
       <string>uni946E</string>
       <string>uni946F</string>
-      <string>kahook.a</string>
-      <string>uni9470</string>
       <string>zhebreve.a</string>
+      <string>uni9470</string>
       <string>be.c</string>
       <string>ve.c</string>
-      <string>uni9471</string>
       <string>ghe.c</string>
+      <string>uni9471</string>
+      <string>de.c</string>
       <string>uni9472</string>
       <string>uni9473</string>
-      <string>de.c</string>
-      <string>uni9474</string>
       <string>ze.c</string>
+      <string>uni9474</string>
       <string>icyr.c</string>
-      <string>uni9475</string>
       <string>ishort.c</string>
+      <string>uni9475</string>
+      <string>pe.c</string>
       <string>uni9476</string>
       <string>uni9477</string>
-      <string>pe.c</string>
       <string>te.c</string>
-      <string>uni9478</string>
       <string>tse.c</string>
+      <string>uni9478</string>
+      <string>sha.c</string>
       <string>uni9479</string>
       <string>uni947A</string>
       <string>uni947B</string>
-      <string>sha.c</string>
-      <string>uni947C</string>
       <string>shcha.c</string>
-      <string>uni947D</string>
+      <string>uni947C</string>
       <string>gje.c</string>
-      <string>uni947E</string>
+      <string>uni947D</string>
       <string>igravecyr.c</string>
+      <string>uni947E</string>
       <string>zhe.b</string>
-      <string>uni947F</string>
       <string>ka.b</string>
-      <string>uni9480</string>
+      <string>uni947F</string>
       <string>yu.b</string>
+      <string>uni9480</string>
+      <string>zhe.d</string>
       <string>uni9481</string>
       <string>uni9482</string>
       <string>uni9483</string>
-      <string>zhe.d</string>
+      <string>ka.d</string>
       <string>uni9484</string>
       <string>uni9485</string>
       <string>uni9486</string>
@@ -30412,7 +30412,7 @@
       <string>uni9544</string>
       <string>uni9545</string>
       <string>uni9546</string>
-      <string>ka.d</string>
+      <string>numero</string>
       <string>uni9547</string>
       <string>uni9548</string>
       <string>uni9549</string>
@@ -30465,19 +30465,19 @@
       <string>uni9577</string>
       <string>uni9578_JP</string>
       <string>uni9578</string>
-      <string>numero</string>
+      <string>zero</string>
       <string>uni9579</string>
       <string>uni957A</string>
       <string>uni957B</string>
       <string>uni957C</string>
       <string>uni957D</string>
-      <string>zero</string>
+      <string>one</string>
       <string>uni957E</string>
       <string>uni957F</string>
       <string>uni9580</string>
       <string>uni9581</string>
       <string>uni9582</string>
-      <string>one</string>
+      <string>two</string>
       <string>uni9583</string>
       <string>uni9584</string>
       <string>uni9585</string>
@@ -30487,163 +30487,163 @@
       <string>uni9589</string>
       <string>uni958A</string>
       <string>uni958B</string>
-      <string>two</string>
-      <string>uni958C</string>
       <string>three</string>
-      <string>uni958D</string>
+      <string>uni958C</string>
       <string>four</string>
+      <string>uni958D</string>
+      <string>five</string>
       <string>uni958E</string>
       <string>uni958F</string>
       <string>uni9590</string>
       <string>uni9591</string>
-      <string>five</string>
-      <string>uni9592</string>
       <string>six</string>
-      <string>uni9593</string>
+      <string>uni9592</string>
       <string>seven</string>
+      <string>uni9593</string>
+      <string>eight</string>
       <string>uni9594</string>
       <string>uni9595</string>
       <string>uni9596</string>
-      <string>eight</string>
-      <string>uni9597</string>
       <string>nine</string>
-      <string>uni9598</string>
+      <string>uni9597</string>
       <string>zero.0</string>
+      <string>uni9598</string>
+      <string>zero.0s</string>
       <string>uni9599</string>
       <string>uni959A</string>
       <string>uni959B</string>
       <string>uni959C</string>
-      <string>zero.0s</string>
-      <string>uni959D</string>
       <string>zero.pnum</string>
+      <string>uni959D</string>
+      <string>one.pnum</string>
       <string>uni959E</string>
       <string>uni959F</string>
       <string>uni95A0</string>
-      <string>one.pnum</string>
+      <string>two.pnum</string>
       <string>uni95A1</string>
       <string>uni95A2</string>
-      <string>two.pnum</string>
-      <string>uni95A3</string>
       <string>three.pnum</string>
+      <string>uni95A3</string>
       <string>four.pnum</string>
-      <string>uni95A4</string>
       <string>five.pnum</string>
+      <string>uni95A4</string>
       <string>six.pnum</string>
-      <string>uni95A5</string>
       <string>seven.pnum</string>
+      <string>uni95A5</string>
       <string>eight.pnum</string>
+      <string>nine.pnum</string>
       <string>uni95A6</string>
       <string>uni95A7</string>
       <string>uni95A8</string>
       <string>uni95A9</string>
       <string>uni95AA</string>
-      <string>nine.pnum</string>
-      <string>uni95AB</string>
       <string>zero.0p</string>
+      <string>uni95AB</string>
+      <string>zero.0ps</string>
       <string>uni95AC</string>
       <string>uni95AD_JP</string>
-      <string>zero.0ps</string>
+      <string>zero.tnum</string>
       <string>uni95AE</string>
       <string>uni95AF</string>
       <string>uni95B0</string>
-      <string>zero.tnum</string>
       <string>one.tnum</string>
+      <string>two.tnum</string>
       <string>uni95B1</string>
       <string>uni95B2_JP</string>
       <string>uni95B3</string>
       <string>uni95B4</string>
       <string>uni95B5</string>
-      <string>two.tnum</string>
-      <string>uni95B6</string>
       <string>three.tnum</string>
+      <string>uni95B6</string>
       <string>four.tnum</string>
+      <string>five.tnum</string>
       <string>uni95B7</string>
       <string>uni95B8</string>
       <string>uni95B9</string>
-      <string>five.tnum</string>
       <string>six.tnum</string>
-      <string>uni95BA</string>
       <string>seven.tnum</string>
-      <string>uni95BB</string>
+      <string>uni95BA</string>
       <string>eight.tnum</string>
+      <string>uni95BB</string>
       <string>nine.tnum</string>
       <string>zero.onum</string>
-      <string>uni95BC</string>
       <string>one.onum</string>
+      <string>uni95BC</string>
+      <string>two.onum</string>
       <string>uni95BD</string>
       <string>uni95BE</string>
-      <string>two.onum</string>
-      <string>uni95BF</string>
       <string>three.onum</string>
+      <string>uni95BF</string>
+      <string>four.onum</string>
       <string>uni95C0</string>
       <string>uni95C1</string>
       <string>uni95C2</string>
-      <string>four.onum</string>
+      <string>five.onum</string>
       <string>uni95C3</string>
       <string>uni95C4</string>
       <string>uni95C5</string>
-      <string>five.onum</string>
-      <string>uni95C6</string>
       <string>six.onum</string>
-      <string>uni95C7</string>
+      <string>uni95C6</string>
       <string>seven.onum</string>
-      <string>uni95C8</string>
+      <string>uni95C7</string>
       <string>eight.onum</string>
+      <string>uni95C8</string>
+      <string>nine.onum</string>
       <string>uni95C9</string>
       <string>uni95CA</string>
-      <string>nine.onum</string>
-      <string>uni95CB</string>
       <string>zero.cap</string>
+      <string>uni95CB</string>
       <string>one.cap</string>
-      <string>uni95CC</string>
       <string>two.cap</string>
+      <string>uni95CC</string>
+      <string>three.cap</string>
       <string>uni95CE</string>
       <string>uni95CF</string>
-      <string>three.cap</string>
       <string>four.cap</string>
-      <string>uni95D0</string>
       <string>five.cap</string>
-      <string>uni95D1</string>
+      <string>uni95D0</string>
       <string>six.cap</string>
+      <string>uni95D1</string>
       <string>seven.cap</string>
       <string>eight.cap</string>
-      <string>uni95D2</string>
       <string>nine.cap</string>
-      <string>uni95D3</string>
+      <string>uni95D2</string>
       <string>period</string>
-      <string>uni95D4</string>
+      <string>uni95D3</string>
       <string>comma</string>
+      <string>uni95D4</string>
+      <string>colon</string>
       <string>uni95D5</string>
       <string>uni95D6</string>
       <string>uni95D7</string>
       <string>uni95D8</string>
       <string>uni95D9</string>
-      <string>colon</string>
+      <string>semicolon</string>
       <string>uni95DA</string>
       <string>uni95DB</string>
-      <string>semicolon</string>
-      <string>uni95DC</string>
       <string>ellipsis</string>
-      <string>uni95DD</string>
+      <string>uni95DC</string>
       <string>exclam</string>
+      <string>uni95DD</string>
       <string>exclamdown</string>
-      <string>uni95DE</string>
       <string>question</string>
+      <string>uni95DE</string>
       <string>questiondown</string>
+      <string>quotesingle</string>
       <string>uni95DF</string>
       <string>uni95E0</string>
       <string>uni95E1</string>
-      <string>quotesingle</string>
+      <string>quotedbl</string>
       <string>uni95E2</string>
       <string>uni95E3</string>
-      <string>quotedbl</string>
-      <string>uni95E4</string>
       <string>quoteleft</string>
+      <string>uni95E4</string>
       <string>quoteright</string>
+      <string>quotedblleft</string>
       <string>uni95E5</string>
       <string>uni95E6</string>
       <string>uni95E7</string>
-      <string>quotedblleft</string>
+      <string>quotedblright</string>
       <string>uni95E8</string>
       <string>uni95E9</string>
       <string>uni95EA</string>
@@ -30702,28 +30702,28 @@
       <string>uni961F</string>
       <string>uni9620</string>
       <string>uni9621</string>
-      <string>quotedblright</string>
+      <string>quotesinglbase</string>
       <string>uni9622</string>
       <string>uni9623</string>
       <string>uni9624</string>
-      <string>quotesinglbase</string>
+      <string>quotedblbase</string>
       <string>uni9625</string>
       <string>uni9626</string>
       <string>uni9627</string>
       <string>uni9628</string>
       <string>uni9629</string>
-      <string>quotedblbase</string>
+      <string>quotereversed</string>
       <string>uni962A</string>
       <string>uni962B</string>
-      <string>quotereversed</string>
+      <string>quoteleftheavy</string>
       <string>uni962C</string>
       <string>uni962D</string>
       <string>uni962E_CN</string>
       <string>uni962F</string>
       <string>uni9630</string>
-      <string>quoteleftheavy</string>
-      <string>uni9631</string>
       <string>quoterightheavy</string>
+      <string>uni9631</string>
+      <string>quotedblleftheavy</string>
       <string>uni9632</string>
       <string>uni9633</string>
       <string>uni9634</string>
@@ -30731,21 +30731,21 @@
       <string>uni9636</string>
       <string>uni9637</string>
       <string>uni9638</string>
-      <string>quotedblleftheavy</string>
       <string>quotedblrightheavy</string>
-      <string>uni9639</string>
       <string>quotesinglbaseheavy</string>
+      <string>uni9639</string>
       <string>quotedblbaseheavy</string>
+      <string>guilsinglleft</string>
       <string>uni963A</string>
       <string>uni963B</string>
       <string>uni963C</string>
       <string>uni963D</string>
       <string>uni963E</string>
       <string>uni963F</string>
-      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
       <string>uni9640</string>
       <string>uni9641</string>
-      <string>guilsinglright</string>
+      <string>guillemotleft</string>
       <string>uni9642</string>
       <string>uni9643</string>
       <string>uni9644</string>
@@ -30754,300 +30754,300 @@
       <string>uni9647</string>
       <string>uni9648</string>
       <string>uni9649</string>
-      <string>guillemotleft</string>
+      <string>guillemotright</string>
       <string>uni964A</string>
       <string>uni964B_JP</string>
       <string>uni964B</string>
       <string>uni964C</string>
-      <string>guillemotright</string>
       <string>hyphen</string>
+      <string>endash</string>
       <string>uni964D</string>
       <string>uni964E</string>
       <string>uni964F</string>
-      <string>endash</string>
       <string>emdash</string>
+      <string>twoemdash.alt1</string>
       <string>uni9650</string>
       <string>uni9651</string>
       <string>uni9652</string>
       <string>uni9653</string>
-      <string>twoemdash.alt1</string>
+      <string>threeemdash.alt1</string>
       <string>uni9654</string>
       <string>uni9655</string>
-      <string>threeemdash.alt1</string>
       <string>figuredash</string>
-      <string>uni9656</string>
       <string>horizontalbar</string>
+      <string>uni9656</string>
+      <string>periodcentered</string>
       <string>uni9657</string>
       <string>uni9658</string>
       <string>uni9659</string>
       <string>uni965A</string>
-      <string>periodcentered</string>
-      <string>uni965B</string>
       <string>bullet</string>
+      <string>uni965B</string>
+      <string>bullettriangle</string>
       <string>uni965C</string>
       <string>uni965D</string>
-      <string>bullettriangle</string>
+      <string>bulletwhite</string>
       <string>uni965E</string>
       <string>uni965F</string>
-      <string>bulletwhite</string>
+      <string>bulletsquare</string>
       <string>uni9660</string>
       <string>uni9661</string>
-      <string>bulletsquare</string>
+      <string>bulletsquarewhite</string>
       <string>uni9662</string>
       <string>uni9663</string>
       <string>uni9664</string>
-      <string>bulletsquarewhite</string>
-      <string>uni9665</string>
       <string>trianglesmallupblack</string>
+      <string>uni9665</string>
+      <string>trianglesmallupwhite</string>
       <string>uni9666</string>
       <string>uni9667</string>
       <string>uni9668</string>
       <string>uni9669</string>
-      <string>trianglesmallupwhite</string>
-      <string>uni966A</string>
       <string>trianglesmallrightblack</string>
-      <string>uni966B</string>
+      <string>uni966A</string>
       <string>trianglesmallrightwhite</string>
-      <string>uni966C</string>
+      <string>uni966B</string>
       <string>trianglesmalldownblack</string>
-      <string>uni966D</string>
+      <string>uni966C</string>
       <string>trianglesmalldownwhite</string>
+      <string>uni966D</string>
+      <string>trianglesmallleftblack</string>
       <string>uni966E</string>
       <string>uni966F</string>
-      <string>trianglesmallleftblack</string>
       <string>trianglesmallleftwhite</string>
+      <string>invbullet</string>
       <string>uni9670</string>
       <string>uni9671</string>
-      <string>invbullet</string>
       <string>filledrect</string>
       <string>underscore</string>
+      <string>underscoredbl</string>
       <string>uni9672</string>
       <string>uni9673</string>
       <string>uni9674</string>
       <string>uni9675_JP</string>
-      <string>underscoredbl</string>
       <string>overline</string>
-      <string>uni9675</string>
       <string>undertie</string>
-      <string>uni9676</string>
+      <string>uni9675</string>
       <string>parenleft</string>
+      <string>uni9676</string>
+      <string>parenright</string>
       <string>uni9677</string>
       <string>uni9678_JP</string>
-      <string>parenright</string>
+      <string>bracketleft</string>
       <string>uni9678</string>
       <string>uni9679</string>
       <string>uni967A</string>
-      <string>bracketleft</string>
-      <string>uni967B</string>
       <string>bracketright</string>
+      <string>uni967B</string>
+      <string>braceleft</string>
       <string>uni967C</string>
       <string>uni967D</string>
       <string>uni967E</string>
-      <string>braceleft</string>
+      <string>braceright</string>
       <string>uni967F</string>
       <string>uni9680</string>
-      <string>braceright</string>
       <string>slash</string>
-      <string>uni9681</string>
       <string>bar</string>
-      <string>uni9682</string>
+      <string>uni9681</string>
       <string>backslash</string>
-      <string>uni9683</string>
+      <string>uni9682</string>
       <string>brokenbar</string>
-      <string>uni9684</string>
+      <string>uni9683</string>
       <string>asterisk</string>
-      <string>uni9685</string>
+      <string>uni9684</string>
       <string>dagger</string>
+      <string>uni9685</string>
       <string>daggerdbl</string>
-      <string>uni9687</string>
       <string>section</string>
-      <string>uni9688</string>
+      <string>uni9687</string>
       <string>paragraph</string>
+      <string>uni9688</string>
       <string>bardbl</string>
-      <string>uni9689</string>
       <string>exclamdbl</string>
-      <string>uni968A</string>
+      <string>uni9689</string>
       <string>questiondbl</string>
-      <string>uni968B</string>
+      <string>uni968A</string>
       <string>exclamquestion</string>
+      <string>uni968B</string>
+      <string>questionexclam</string>
       <string>uni968C</string>
       <string>uni968D</string>
-      <string>questionexclam</string>
       <string>interrobang</string>
-      <string>uni968E</string>
       <string>interrobangdown</string>
+      <string>uni968E</string>
       <string>ceilingleft</string>
       <string>ceilingright</string>
+      <string>floorleft</string>
       <string>uni968F</string>
       <string>uni9690</string>
       <string>uni9691</string>
       <string>uni9692</string>
       <string>uni9693</string>
-      <string>floorleft</string>
+      <string>floorright</string>
       <string>uni9694</string>
       <string>uni9695</string>
       <string>uni9696</string>
-      <string>floorright</string>
       <string>bracketleftwhite</string>
-      <string>uni9697</string>
       <string>bracketrightwhite</string>
-      <string>uni9698</string>
+      <string>uni9697</string>
       <string>bracketangleleft</string>
+      <string>uni9698</string>
       <string>bracketangleright</string>
+      <string>brackhalftopleft</string>
       <string>uni969A</string>
       <string>uni969B</string>
-      <string>brackhalftopleft</string>
       <string>brackhalftopright</string>
       <string>brackhalfbotleft</string>
+      <string>brackhalfbotright</string>
       <string>uni969C</string>
       <string>uni969D</string>
-      <string>brackhalfbotright</string>
+      <string>copyright</string>
       <string>uni969E</string>
       <string>uni969F</string>
       <string>uni96A0</string>
-      <string>copyright</string>
+      <string>soundcopyright</string>
       <string>uni96A1</string>
       <string>uni96A2</string>
-      <string>soundcopyright</string>
+      <string>registered</string>
       <string>uni96A3_CN</string>
       <string>uni96A3</string>
       <string>uni96A4</string>
-      <string>registered</string>
-      <string>uni96A5</string>
       <string>trademark</string>
-      <string>uni96A6</string>
+      <string>uni96A5</string>
       <string>servicemark</string>
+      <string>uni96A6</string>
       <string>norights</string>
-      <string>uni96A7</string>
       <string>sharealike</string>
+      <string>uni96A7</string>
       <string>noncommercial</string>
       <string>copyleft</string>
+      <string>commercemark</string>
       <string>uni96A8</string>
       <string>uni96A9</string>
-      <string>commercemark</string>
       <string>deposeemark</string>
-      <string>uni96AA</string>
       <string>marcaregistrada</string>
+      <string>uni96AA</string>
+      <string>creativecommons</string>
       <string>uni96AB</string>
       <string>uni96AC</string>
       <string>uni96AD</string>
-      <string>creativecommons</string>
       <string>publicdomain</string>
+      <string>attribution</string>
       <string>uni96AE</string>
       <string>uni96AF</string>
-      <string>attribution</string>
-      <string>uni96B0</string>
       <string>at</string>
+      <string>uni96B0</string>
       <string>at.cap</string>
+      <string>exclamdown.cap</string>
       <string>uni96B1</string>
       <string>uni96B2</string>
       <string>uni96B3</string>
-      <string>exclamdown.cap</string>
       <string>questiondown.cap</string>
       <string>interrobangdown.cap</string>
       <string>colonmod.cap</string>
-      <string>uni96B4</string>
       <string>numbersign</string>
+      <string>uni96B4</string>
+      <string>zero.sups</string>
       <string>uni96B5</string>
       <string>uni96B6_JP</string>
       <string>uni96B6_CN</string>
       <string>uni96B6</string>
       <string>uni96B7_JP</string>
       <string>uni96B8_JP</string>
-      <string>zero.sups</string>
       <string>one.sups</string>
+      <string>two.sups</string>
       <string>uni96B8</string>
       <string>uni96B9_JP</string>
       <string>uni96B9</string>
-      <string>two.sups</string>
-      <string>uni96BA</string>
       <string>three.sups</string>
-      <string>uni96BB</string>
+      <string>uni96BA</string>
       <string>four.sups</string>
-      <string>uni96BC</string>
+      <string>uni96BB</string>
       <string>five.sups</string>
+      <string>uni96BC</string>
+      <string>six.sups</string>
       <string>uni96BD</string>
       <string>uni96BE</string>
       <string>uni96BF</string>
-      <string>six.sups</string>
       <string>seven.sups</string>
-      <string>uni96C0</string>
       <string>eight.sups</string>
-      <string>uni96C1</string>
+      <string>uni96C0</string>
       <string>nine.sups</string>
+      <string>uni96C1</string>
+      <string>plus.sups</string>
       <string>uni96C2</string>
       <string>uni96C3</string>
-      <string>plus.sups</string>
-      <string>uni96C4</string>
       <string>minus.sups</string>
+      <string>uni96C4</string>
       <string>equal.sups</string>
-      <string>uni96C5</string>
       <string>parenleft.sups</string>
-      <string>uni96C6</string>
+      <string>uni96C5</string>
       <string>parenright.sups</string>
+      <string>uni96C6</string>
       <string>period.sups</string>
       <string>comma.sups</string>
+      <string>zero.subs</string>
       <string>uni96C7</string>
       <string>uni96C8</string>
-      <string>zero.subs</string>
-      <string>uni96C9</string>
       <string>one.subs</string>
-      <string>uni96CA</string>
+      <string>uni96C9</string>
       <string>two.subs</string>
-      <string>uni96CB</string>
+      <string>uni96CA</string>
       <string>three.subs</string>
+      <string>uni96CB</string>
       <string>four.subs</string>
-      <string>uni96CC</string>
       <string>five.subs</string>
-      <string>uni96CD</string>
+      <string>uni96CC</string>
       <string>six.subs</string>
+      <string>uni96CD</string>
+      <string>seven.subs</string>
       <string>uni96CE</string>
       <string>uni96CF</string>
       <string>uni96D0</string>
-      <string>seven.subs</string>
-      <string>uni96D1</string>
       <string>eight.subs</string>
+      <string>uni96D1</string>
+      <string>nine.subs</string>
       <string>uni96D2</string>
       <string>uni96D3</string>
       <string>uni96D4</string>
-      <string>nine.subs</string>
       <string>plus.subs</string>
       <string>minus.subs</string>
       <string>equal.subs</string>
-      <string>uni96D5</string>
       <string>parenleft.subs</string>
-      <string>uni96D6</string>
+      <string>uni96D5</string>
       <string>parenright.subs</string>
-      <string>uni96D7</string>
+      <string>uni96D6</string>
       <string>period.subs</string>
+      <string>uni96D7</string>
       <string>comma.subs</string>
       <string>zero.dnom</string>
-      <string>uni96D8</string>
       <string>one.dnom</string>
-      <string>uni96D9</string>
+      <string>uni96D8</string>
       <string>two.dnom</string>
+      <string>uni96D9</string>
       <string>three.dnom</string>
-      <string>uni96DA</string>
       <string>four.dnom</string>
-      <string>uni96DB</string>
+      <string>uni96DA</string>
       <string>five.dnom</string>
+      <string>uni96DB</string>
       <string>six.dnom</string>
       <string>seven.dnom</string>
-      <string>uni96DC</string>
       <string>eight.dnom</string>
-      <string>uni96DD</string>
+      <string>uni96DC</string>
       <string>nine.dnom</string>
-      <string>uni96DE</string>
+      <string>uni96DD</string>
       <string>parenleft.dnom</string>
+      <string>uni96DE</string>
       <string>parenright.dnom</string>
+      <string>period.dnom</string>
       <string>uni96DF</string>
       <string>uni96E0</string>
-      <string>period.dnom</string>
+      <string>comma.dnom</string>
       <string>uni96E1</string>
       <string>uni96E2_JP</string>
-      <string>comma.dnom</string>
-      <string>uni96E2</string>
       <string>zero.numr</string>
+      <string>uni96E2</string>
+      <string>one.numr</string>
       <string>uni96E3</string>
       <string>uni96E4</string>
       <string>uni96E5</string>
@@ -31055,272 +31055,272 @@
       <string>uni96E7</string>
       <string>uni96E8</string>
       <string>uni96E8_TW</string>
-      <string>one.numr</string>
-      <string>uni96E9</string>
       <string>two.numr</string>
+      <string>uni96E9</string>
       <string>three.numr</string>
       <string>four.numr</string>
+      <string>five.numr</string>
       <string>uni96EB</string>
       <string>uni96EC</string>
       <string>uni96ED</string>
       <string>uni96EE</string>
-      <string>five.numr</string>
-      <string>uni96EF</string>
       <string>six.numr</string>
-      <string>uni96F0</string>
+      <string>uni96EF</string>
       <string>seven.numr</string>
+      <string>uni96F0</string>
       <string>eight.numr</string>
       <string>nine.numr</string>
-      <string>uni96F1</string>
       <string>parenleft.numr</string>
+      <string>uni96F1</string>
       <string>parenright.numr</string>
-      <string>uni96F2</string>
       <string>period.numr</string>
+      <string>uni96F2</string>
+      <string>comma.numr</string>
       <string>uni96F3</string>
       <string>uni96F4</string>
-      <string>comma.numr</string>
-      <string>uni96F5</string>
       <string>ordfeminine</string>
-      <string>uni96F6_JP</string>
+      <string>uni96F5</string>
       <string>ordfeminine.a</string>
+      <string>uni96F6_JP</string>
+      <string>ordmasculine</string>
       <string>uni96F6</string>
       <string>uni96F7_JP</string>
-      <string>ordmasculine</string>
-      <string>uni96F8</string>
       <string>A.sups</string>
-      <string>uni96F9</string>
+      <string>uni96F8</string>
       <string>B.sups</string>
-      <string>uni96FA</string>
+      <string>uni96F9</string>
       <string>C.sups</string>
+      <string>uni96FA</string>
       <string>D.sups</string>
       <string>E.sups</string>
+      <string>F.sups</string>
       <string>uni96FB</string>
       <string>uni96FC</string>
       <string>uni96FD</string>
-      <string>F.sups</string>
+      <string>G.sups</string>
       <string>uni96FE</string>
       <string>uni96FF</string>
-      <string>G.sups</string>
-      <string>uni9700</string>
       <string>H.sups</string>
+      <string>uni9700</string>
+      <string>I.sups</string>
       <string>uni9701</string>
       <string>uni9702</string>
-      <string>I.sups</string>
-      <string>uni9703</string>
       <string>J.sups</string>
+      <string>uni9703</string>
       <string>K.sups</string>
-      <string>uni9704</string>
       <string>L.sups</string>
+      <string>uni9704</string>
       <string>M.sups</string>
       <string>N.sups</string>
-      <string>uni9705</string>
       <string>O.sups</string>
+      <string>uni9705</string>
       <string>P.sups</string>
       <string>Q.sups</string>
-      <string>uni9706</string>
       <string>R.sups</string>
+      <string>uni9706</string>
       <string>S.sups</string>
+      <string>T.sups</string>
       <string>uni9707</string>
       <string>uni9708</string>
-      <string>T.sups</string>
       <string>U.sups</string>
-      <string>uni9709</string>
       <string>V.sups</string>
+      <string>uni9709</string>
+      <string>W.sups</string>
       <string>uni970A</string>
       <string>uni970B</string>
-      <string>W.sups</string>
-      <string>uni970C</string>
       <string>X.sups</string>
-      <string>uni970D</string>
+      <string>uni970C</string>
       <string>Y.sups</string>
+      <string>uni970D</string>
       <string>Z.sups</string>
-      <string>uni970E</string>
       <string>a.sups</string>
-      <string>uni970F</string>
+      <string>uni970E</string>
       <string>b.sups</string>
+      <string>uni970F</string>
       <string>c.sups</string>
-      <string>uni9710</string>
       <string>d.sups</string>
-      <string>uni9711</string>
+      <string>uni9710</string>
       <string>e.sups</string>
+      <string>uni9711</string>
       <string>f.sups</string>
-      <string>uni9712</string>
       <string>g.sups</string>
-      <string>uni9713</string>
+      <string>uni9712</string>
       <string>h.sups</string>
+      <string>uni9713</string>
       <string>i.sups</string>
+      <string>j.sups</string>
       <string>uni9714</string>
       <string>uni9715</string>
       <string>uni9716</string>
-      <string>j.sups</string>
+      <string>k.sups</string>
       <string>uni9717</string>
       <string>uni9718</string>
-      <string>k.sups</string>
       <string>l.sups</string>
+      <string>m.sups</string>
       <string>uni9719</string>
       <string>uni971A</string>
-      <string>m.sups</string>
-      <string>uni971B</string>
       <string>n.sups</string>
-      <string>uni971C</string>
+      <string>uni971B</string>
       <string>o.sups</string>
-      <string>uni971D</string>
+      <string>uni971C</string>
       <string>p.sups</string>
-      <string>uni971E</string>
+      <string>uni971D</string>
       <string>q.sups</string>
-      <string>uni971F</string>
+      <string>uni971E</string>
       <string>r.sups</string>
+      <string>uni971F</string>
       <string>s.sups</string>
-      <string>uni9720</string>
       <string>t.sups</string>
-      <string>uni9721</string>
+      <string>uni9720</string>
       <string>u.sups</string>
+      <string>uni9721</string>
       <string>v.sups</string>
+      <string>w.sups</string>
       <string>uni9722</string>
       <string>uni9723</string>
-      <string>w.sups</string>
       <string>x.sups</string>
-      <string>uni9724</string>
       <string>y.sups</string>
-      <string>uni9725</string>
+      <string>uni9724</string>
       <string>z.sups</string>
-      <string>uni9726</string>
+      <string>uni9725</string>
       <string>egrave.sups</string>
-      <string>uni9727</string>
+      <string>uni9726</string>
       <string>eacute.sups</string>
+      <string>uni9727</string>
       <string>eogonek.sups</string>
-      <string>uni9728</string>
       <string>schwa.sups</string>
+      <string>uni9728</string>
       <string>eopen.sups</string>
-      <string>uni9729</string>
       <string>eng.sups</string>
+      <string>uni9729</string>
       <string>mhook.sups</string>
       <string>nhookleft.sups</string>
-      <string>uni972A</string>
       <string>nsmall.sups</string>
+      <string>uni972A</string>
+      <string>theta.sups</string>
       <string>uni972B</string>
       <string>uni972C</string>
-      <string>theta.sups</string>
-      <string>uni972D</string>
       <string>hhook.sups</string>
+      <string>uni972D</string>
+      <string>rturned.sups</string>
       <string>uni972E</string>
       <string>uni972F</string>
-      <string>rturned.sups</string>
-      <string>uni9730</string>
       <string>gammalatin.sups</string>
+      <string>uni9730</string>
       <string>glottalstopreversed.sups</string>
-      <string>uni9731</string>
       <string>a.supa</string>
+      <string>uni9731</string>
       <string>g.supa</string>
-      <string>uni9732_JP</string>
       <string>l.supa</string>
+      <string>uni9732_JP</string>
+      <string>eogonek.supd</string>
       <string>uni9733</string>
       <string>uni9734</string>
-      <string>eogonek.supd</string>
       <string>colon.sups</string>
-      <string>uni9735</string>
       <string>hyphen.sups</string>
-      <string>uni9736</string>
+      <string>uni9735</string>
       <string>endash.sups</string>
+      <string>uni9736</string>
+      <string>emdash.sups</string>
       <string>uni9737</string>
       <string>uni9738</string>
-      <string>emdash.sups</string>
       <string>currency</string>
-      <string>uni9739</string>
       <string>dollar</string>
+      <string>uni9739</string>
       <string>sterling</string>
+      <string>yen</string>
       <string>uni973A</string>
       <string>uni973B</string>
       <string>uni973C</string>
-      <string>yen</string>
       <string>yuan</string>
       <string>Euro</string>
+      <string>cent</string>
       <string>uni973D</string>
       <string>uni973E</string>
-      <string>cent</string>
       <string>florin</string>
-      <string>uni973F</string>
       <string>colonmonetary</string>
+      <string>uni973F</string>
+      <string>lira</string>
       <string>uni9740</string>
       <string>uni9741</string>
-      <string>lira</string>
-      <string>uni9742</string>
       <string>naira</string>
+      <string>uni9742</string>
       <string>peseta</string>
-      <string>uni9743</string>
       <string>won</string>
+      <string>uni9743</string>
       <string>dong</string>
       <string>peso</string>
       <string>guarani</string>
+      <string>hryvnia</string>
       <string>uni9744</string>
       <string>uni9745</string>
-      <string>hryvnia</string>
       <string>cedi</string>
-      <string>uni9746</string>
       <string>rupeeindian</string>
-      <string>uni9747</string>
+      <string>uni9746</string>
       <string>liraturkish</string>
+      <string>uni9747</string>
       <string>tugrik</string>
-      <string>uni9748_JP</string>
       <string>tenge</string>
+      <string>uni9748_JP</string>
       <string>ruble</string>
-      <string>uni9749</string>
       <string>franc</string>
+      <string>uni9749</string>
       <string>fraction</string>
       <string>divisionslash</string>
-      <string>uni974A</string>
       <string>slash.frac</string>
-      <string>uni974B</string>
+      <string>uni974A</string>
       <string>percent</string>
+      <string>uni974B</string>
       <string>perthousand</string>
-      <string>uni974C</string>
       <string>pertenthousand</string>
+      <string>uni974C</string>
+      <string>onequarter</string>
       <string>uni974D</string>
       <string>uni974E</string>
-      <string>onequarter</string>
+      <string>onehalf</string>
       <string>uni974F</string>
       <string>uni9750</string>
       <string>uni9751</string>
       <string>uni9752_CN</string>
-      <string>onehalf</string>
+      <string>threequarters</string>
       <string>uni9753</string>
       <string>uni9754</string>
-      <string>threequarters</string>
-      <string>uni9755</string>
       <string>onethird</string>
-      <string>uni9756</string>
+      <string>uni9755</string>
       <string>twothirds</string>
+      <string>uni9756</string>
       <string>onefifth</string>
-      <string>uni9757</string>
       <string>twofifths</string>
-      <string>uni9758</string>
+      <string>uni9757</string>
       <string>threefifths</string>
-      <string>uni9759</string>
+      <string>uni9758</string>
       <string>fourfifths</string>
-      <string>uni975A</string>
+      <string>uni9759</string>
       <string>onesixth</string>
+      <string>uni975A</string>
       <string>fivesixths</string>
-      <string>uni975B</string>
       <string>oneseventh</string>
+      <string>uni975B</string>
       <string>oneeighth</string>
-      <string>uni975C</string>
       <string>threeeighths</string>
+      <string>uni975C</string>
       <string>fiveeighths</string>
+      <string>seveneighths</string>
       <string>uni975D</string>
       <string>uni975E_JP</string>
       <string>uni975E_CN</string>
       <string>uni975E</string>
-      <string>seveneighths</string>
-      <string>uni975F</string>
       <string>oneninth</string>
+      <string>uni975F</string>
       <string>onetenth</string>
       <string>zerothirds</string>
       <string>plus</string>
-      <string>uni9760</string>
       <string>minus</string>
+      <string>uni9760</string>
       <string>multiply</string>
       <string>divide</string>
       <string>bulletoperator</string>
+      <string>equal</string>
       <string>uni9761</string>
       <string>uni9762</string>
       <string>uni9763</string>
@@ -31328,44 +31328,44 @@
       <string>uni9765</string>
       <string>uni9766</string>
       <string>uni9767</string>
-      <string>equal</string>
-      <string>uni9768</string>
       <string>equivalence</string>
+      <string>uni9768</string>
       <string>less</string>
+      <string>greater</string>
       <string>uni9769</string>
       <string>uni976A</string>
-      <string>greater</string>
+      <string>lessequal</string>
       <string>uni976B</string>
       <string>uni976C</string>
-      <string>lessequal</string>
       <string>greaterequal</string>
       <string>plusminus</string>
+      <string>asciicircum</string>
       <string>uni976E</string>
       <string>uni976F</string>
       <string>uni9770</string>
       <string>uni9771</string>
-      <string>asciicircum</string>
-      <string>uni9772</string>
       <string>notequal</string>
+      <string>uni9772</string>
+      <string>asciitilde</string>
       <string>uni9773</string>
       <string>uni9774</string>
-      <string>asciitilde</string>
       <string>approxequal</string>
+      <string>logicalnot</string>
       <string>uni9775</string>
       <string>uni9776</string>
-      <string>logicalnot</string>
-      <string>uni9777</string>
       <string>revlogicalnot</string>
+      <string>uni9777</string>
+      <string>intersection</string>
       <string>uni9778</string>
       <string>uni9779</string>
-      <string>intersection</string>
+      <string>orthogonal</string>
       <string>uni977A</string>
       <string>uni977B</string>
       <string>uni977C</string>
-      <string>orthogonal</string>
+      <string>infinity</string>
       <string>uni977D</string>
       <string>uni977E</string>
-      <string>infinity</string>
+      <string>degree</string>
       <string>uni977F</string>
       <string>uni9780</string>
       <string>uni9781</string>
@@ -31373,7 +31373,7 @@
       <string>uni9783</string>
       <string>uni9784</string>
       <string>uni9785</string>
-      <string>degree</string>
+      <string>prime</string>
       <string>uni9786</string>
       <string>uni9787</string>
       <string>uni9788</string>
@@ -31381,173 +31381,173 @@
       <string>uni978A</string>
       <string>uni978B</string>
       <string>uni978C</string>
-      <string>prime</string>
       <string>dblprime</string>
+      <string>primereversed</string>
       <string>uni978D</string>
       <string>uni978E</string>
-      <string>primereversed</string>
-      <string>uni978F</string>
       <string>partialdiff</string>
+      <string>uni978F</string>
+      <string>integral</string>
       <string>uni9790</string>
       <string>uni9791</string>
       <string>uni9792</string>
       <string>uni9793</string>
       <string>uni9794</string>
       <string>uni9795</string>
-      <string>integral</string>
+      <string>integraltp</string>
       <string>uni9796</string>
       <string>uni9797</string>
-      <string>integraltp</string>
       <string>integralbt</string>
       <string>radical</string>
       <string>universal</string>
-      <string>uni9799</string>
       <string>existential</string>
+      <string>uni9799</string>
       <string>ratio</string>
       <string>proportion</string>
+      <string>summation</string>
       <string>uni979A</string>
       <string>uni979B</string>
       <string>uni979C</string>
-      <string>summation</string>
+      <string>product</string>
       <string>uni979D</string>
       <string>uni979E</string>
-      <string>product</string>
+      <string>careof</string>
       <string>uni979F</string>
       <string>uni97A0</string>
-      <string>careof</string>
+      <string>litre</string>
       <string>uni97A1</string>
       <string>uni97A2</string>
-      <string>litre</string>
-      <string>uni97A3</string>
       <string>estimated</string>
+      <string>uni97A3</string>
+      <string>arrowleft</string>
       <string>uni97A4</string>
       <string>uni97A5</string>
-      <string>arrowleft</string>
+      <string>arrowup</string>
       <string>uni97A6</string>
       <string>uni97A7</string>
-      <string>arrowup</string>
       <string>arrowright</string>
-      <string>uni97A8</string>
       <string>arrowdown</string>
+      <string>uni97A8</string>
+      <string>arrowupleft</string>
       <string>uni97A9</string>
       <string>uni97AA</string>
-      <string>arrowupleft</string>
-      <string>uni97AB</string>
       <string>arrowupright</string>
+      <string>uni97AB</string>
+      <string>arrowdownright</string>
       <string>uni97AC</string>
       <string>uni97AD</string>
       <string>uni97AE</string>
       <string>uni97AF</string>
       <string>uni97B0</string>
-      <string>arrowdownright</string>
-      <string>uni97B1</string>
       <string>arrowdownleft</string>
-      <string>uni97B2</string>
+      <string>uni97B1</string>
       <string>arrowdblleft</string>
+      <string>uni97B2</string>
       <string>arrowdblup</string>
-      <string>uni97B3</string>
       <string>arrowdblright</string>
-      <string>uni97B4</string>
+      <string>uni97B3</string>
       <string>arrowdbldown</string>
-      <string>uni97B5</string>
+      <string>uni97B4</string>
       <string>arrowboth</string>
+      <string>uni97B5</string>
       <string>arrowupdn</string>
+      <string>arrowupdnbse</string>
       <string>uni97B6</string>
       <string>uni97B7</string>
-      <string>arrowupdnbse</string>
       <string>circleblack</string>
-      <string>uni97B8</string>
       <string>circlewhite</string>
+      <string>uni97B8</string>
+      <string>squareblack</string>
       <string>uni97B9</string>
       <string>uni97BA</string>
       <string>uni97BB</string>
-      <string>squareblack</string>
       <string>squarewhite</string>
+      <string>squareshadow</string>
       <string>uni97BC</string>
       <string>uni97BD</string>
-      <string>squareshadow</string>
       <string>diamondblack</string>
-      <string>uni97BE</string>
       <string>triangleupblack</string>
+      <string>uni97BE</string>
       <string>triangleupwhite</string>
+      <string>trianglerightblack</string>
       <string>uni97BF</string>
       <string>uni97C0</string>
       <string>uni97C1</string>
-      <string>trianglerightblack</string>
-      <string>uni97C2</string>
       <string>trianglerightwhite</string>
+      <string>uni97C2</string>
       <string>triangledownblack</string>
-      <string>uni97C3</string>
       <string>triangledownwhite</string>
+      <string>uni97C3</string>
       <string>triangleleftblack</string>
-      <string>uni97C4</string>
       <string>triangleleftwhite</string>
-      <string>uni97C5</string>
+      <string>uni97C4</string>
       <string>pointerblackright</string>
+      <string>uni97C5</string>
       <string>pointerblackleft</string>
+      <string>invcircle</string>
       <string>uni97C6</string>
       <string>uni97C7</string>
-      <string>invcircle</string>
       <string>fisheye</string>
-      <string>uni97C8</string>
       <string>checkbox</string>
+      <string>uni97C8</string>
       <string>checkedbox</string>
+      <string>check</string>
       <string>uni97C9</string>
       <string>uni97CA</string>
       <string>uni97CB_JP</string>
       <string>uni97CB</string>
-      <string>check</string>
-      <string>uni97CC</string>
       <string>checkheavy</string>
+      <string>uni97CC</string>
       <string>xballot</string>
       <string>xballotheavy</string>
-      <string>uni97CD</string>
       <string>eighthnote</string>
+      <string>uni97CD</string>
+      <string>musicalnotedbl</string>
       <string>uni97CE</string>
       <string>uni97CF</string>
-      <string>musicalnotedbl</string>
-      <string>uni97D0</string>
       <string>heart</string>
+      <string>uni97D0</string>
+      <string>club</string>
       <string>uni97D1</string>
       <string>uni97D2</string>
-      <string>club</string>
       <string>diamond</string>
-      <string>uni97D3</string>
       <string>spade</string>
+      <string>uni97D3</string>
+      <string>smileface</string>
       <string>uni97D4</string>
       <string>uni97D5</string>
       <string>uni97D6</string>
-      <string>smileface</string>
       <string>invsmileface</string>
-      <string>uni97D7</string>
       <string>heartblackheavy</string>
-      <string>uni97D8</string>
+      <string>uni97D7</string>
       <string>coffee</string>
+      <string>uni97D8</string>
       <string>poop</string>
       <string>robot</string>
+      <string>lock</string>
       <string>uni97D9</string>
       <string>uni97DA</string>
-      <string>lock</string>
-      <string>uni97DB</string>
       <string>mercury</string>
-      <string>uni97DC</string>
+      <string>uni97DB</string>
       <string>female</string>
-      <string>uni97DD</string>
+      <string>uni97DC</string>
       <string>earth</string>
-      <string>uni97DE</string>
+      <string>uni97DD</string>
       <string>male</string>
-      <string>uni97DF</string>
+      <string>uni97DE</string>
       <string>prescription</string>
+      <string>uni97DF</string>
       <string>tincture</string>
-      <string>uni97E0</string>
       <string>sun</string>
+      <string>uni97E0</string>
       <string>lozenge</string>
+      <string>house</string>
       <string>uni97E1</string>
       <string>uni97E2</string>
       <string>uni97E3</string>
-      <string>house</string>
-      <string>uni97E4</string>
       <string>grave</string>
+      <string>uni97E4</string>
+      <string>acute</string>
       <string>uni97E5</string>
       <string>uni97E6</string>
       <string>uni97E7</string>
@@ -31557,48 +31557,48 @@
       <string>uni97EB</string>
       <string>uni97EC</string>
       <string>uni97ED</string>
-      <string>acute</string>
+      <string>circumflex</string>
       <string>uni97EE</string>
       <string>uni97EF</string>
-      <string>circumflex</string>
+      <string>caron</string>
       <string>uni97F0</string>
       <string>uni97F1</string>
-      <string>caron</string>
       <string>tilde</string>
+      <string>dieresis</string>
       <string>uni97F2</string>
       <string>uni97F3_JP</string>
       <string>uni97F3</string>
-      <string>dieresis</string>
-      <string>uni97F4</string>
       <string>macron</string>
+      <string>uni97F4</string>
       <string>breve</string>
-      <string>uni97F5</string>
       <string>ring</string>
-      <string>uni97F6</string>
+      <string>uni97F5</string>
       <string>hungarumlaut</string>
-      <string>uni97F7</string>
+      <string>uni97F6</string>
       <string>dotaccent</string>
+      <string>uni97F7</string>
+      <string>cedilla</string>
       <string>uni97F8</string>
       <string>uni97F9</string>
-      <string>cedilla</string>
       <string>ogonek</string>
-      <string>uni97FA</string>
       <string>primemod</string>
+      <string>uni97FA</string>
+      <string>commaturnedmod</string>
       <string>uni97FB</string>
       <string>uni97FC</string>
-      <string>commaturnedmod</string>
+      <string>apostrophemod</string>
       <string>uni97FD</string>
       <string>uni97FE</string>
-      <string>apostrophemod</string>
-      <string>uni97FF</string>
       <string>commareversedmod</string>
+      <string>uni97FF</string>
       <string>ringhalfrightmod</string>
+      <string>ringhalfleftmod</string>
       <string>uni9800</string>
       <string>uni9801</string>
       <string>uni9802</string>
-      <string>ringhalfleftmod</string>
-      <string>uni9803</string>
       <string>glottalstopmod</string>
+      <string>uni9803</string>
+      <string>glottalstopreversedmod</string>
       <string>uni9804</string>
       <string>uni9805</string>
       <string>uni9806</string>
@@ -31607,177 +31607,177 @@
       <string>uni9809</string>
       <string>uni980A</string>
       <string>uni980B</string>
-      <string>glottalstopreversedmod</string>
+      <string>colontriangularmod</string>
       <string>uni980C</string>
       <string>uni980D</string>
-      <string>colontriangularmod</string>
-      <string>uni980E</string>
       <string>colontriangularhalfmod</string>
+      <string>uni980E</string>
+      <string>ringhalfrightcenteredmod</string>
       <string>uni980F</string>
       <string>uni9810</string>
-      <string>ringhalfrightcenteredmod</string>
-      <string>uni9811</string>
       <string>ringhalfleftcenteredmod</string>
-      <string>uni9812</string>
+      <string>uni9811</string>
       <string>uptackmod</string>
+      <string>uni9812</string>
+      <string>downtackmod</string>
       <string>uni9813</string>
       <string>uni9814</string>
       <string>uni9815</string>
-      <string>downtackmod</string>
+      <string>plusmod</string>
       <string>uni9816</string>
       <string>uni9817</string>
       <string>uni9818_JP</string>
-      <string>plusmod</string>
-      <string>uni9818</string>
       <string>minusmod</string>
+      <string>uni9818</string>
+      <string>hookrhoticmod</string>
       <string>uni9819</string>
       <string>uni981A</string>
-      <string>hookrhoticmod</string>
+      <string>verticallinemod</string>
       <string>uni981B</string>
       <string>uni981C</string>
-      <string>verticallinemod</string>
-      <string>uni981D</string>
       <string>macronmod</string>
-      <string>uni981E</string>
+      <string>uni981D</string>
       <string>acutemod</string>
+      <string>uni981E</string>
+      <string>gravemod</string>
       <string>uni981F</string>
       <string>uni9820</string>
-      <string>gravemod</string>
+      <string>verticallinelowmod</string>
       <string>uni9821</string>
       <string>uni9822</string>
-      <string>verticallinelowmod</string>
-      <string>uni9823</string>
       <string>arrowdownmod</string>
+      <string>uni9823</string>
+      <string>colonmod</string>
       <string>uni9824</string>
       <string>uni9825</string>
-      <string>colonmod</string>
+      <string>circledotted</string>
       <string>uni9826</string>
       <string>uni9827</string>
-      <string>circledotted</string>
+      <string>gravecmb</string>
       <string>uni9828</string>
       <string>uni9829</string>
       <string>uni982A</string>
-      <string>gravecmb</string>
+      <string>gravecmb.cap</string>
       <string>uni982B</string>
       <string>uni982C</string>
       <string>uni982D</string>
       <string>uni982E</string>
       <string>uni982F</string>
-      <string>gravecmb.cap</string>
       <string>variacmb</string>
+      <string>acutecmb</string>
       <string>uni9830</string>
       <string>uni9831</string>
-      <string>acutecmb</string>
+      <string>acutecmb.cap</string>
       <string>uni9832</string>
       <string>uni9833</string>
-      <string>acutecmb.cap</string>
       <string>tonoscmb</string>
+      <string>circumflexcmb</string>
       <string>uni9835</string>
       <string>uni9836</string>
       <string>uni9837</string>
-      <string>circumflexcmb</string>
       <string>circumflexcmb.cap</string>
-      <string>uni9838</string>
       <string>tildecmb</string>
+      <string>uni9838</string>
+      <string>tildecmb.cap</string>
       <string>uni9839</string>
       <string>uni983A</string>
-      <string>tildecmb.cap</string>
       <string>macroncmb</string>
-      <string>uni983C</string>
       <string>macroncmb.cap</string>
+      <string>uni983C</string>
+      <string>overlinecmb</string>
       <string>uni983D</string>
       <string>uni983E</string>
       <string>uni983F</string>
-      <string>overlinecmb</string>
+      <string>overlinecmb.cap</string>
       <string>uni9840</string>
       <string>uni9841</string>
       <string>uni9842</string>
       <string>uni9843</string>
-      <string>overlinecmb.cap</string>
-      <string>uni9844</string>
       <string>brevecmb</string>
+      <string>uni9844</string>
       <string>brevecmb.cap</string>
-      <string>uni9845</string>
       <string>brevecmb.cyr</string>
-      <string>uni9846</string>
+      <string>uni9845</string>
       <string>brevecmb.cyrcap</string>
-      <string>uni9847</string>
+      <string>uni9846</string>
       <string>dotaccentcmb</string>
-      <string>uni9848</string>
+      <string>uni9847</string>
       <string>dotaccentcmb.cap</string>
+      <string>uni9848</string>
+      <string>dieresiscmb</string>
       <string>uni9849</string>
       <string>uni984A</string>
       <string>uni984B</string>
       <string>uni984C</string>
-      <string>dieresiscmb</string>
-      <string>uni984D</string>
       <string>dieresiscmb.cap</string>
-      <string>uni984E</string>
+      <string>uni984D</string>
       <string>hoicmb</string>
+      <string>uni984E</string>
+      <string>hoicmb.cap</string>
       <string>uni984F</string>
       <string>uni9850</string>
       <string>uni9851</string>
-      <string>hoicmb.cap</string>
+      <string>ringcmb</string>
       <string>uni9852</string>
       <string>uni9853</string>
-      <string>ringcmb</string>
+      <string>ringcmb.cap</string>
       <string>uni9854</string>
       <string>uni9855</string>
       <string>uni9856</string>
       <string>uni9857</string>
       <string>uni9858</string>
       <string>uni9859</string>
-      <string>ringcmb.cap</string>
-      <string>uni985A</string>
       <string>hungarumlautcmb</string>
+      <string>uni985A</string>
       <string>hungarumlautcmb.cap</string>
+      <string>caroncmb</string>
       <string>uni985B</string>
       <string>uni985C</string>
-      <string>caroncmb</string>
       <string>caroncmb.a</string>
-      <string>uni985D</string>
       <string>caroncmb.cap</string>
+      <string>uni985D</string>
       <string>verticallineabovecmb</string>
       <string>verticallineabovecmb.cap</string>
+      <string>dblgravecmb</string>
       <string>uni985F</string>
       <string>uni9860</string>
-      <string>dblgravecmb</string>
+      <string>dblgravecmb.cap</string>
       <string>uni9861</string>
       <string>uni9862</string>
-      <string>dblgravecmb.cap</string>
+      <string>candrabinducmb</string>
       <string>uni9863</string>
       <string>uni9864</string>
-      <string>candrabinducmb</string>
-      <string>uni9865</string>
       <string>candrabinducmb.cap</string>
-      <string>uni9866</string>
+      <string>uni9865</string>
       <string>breveinvertedcmb</string>
+      <string>uni9866</string>
       <string>breveinvertedcmb.cap</string>
+      <string>commaturnedabovecmb</string>
       <string>uni9867</string>
       <string>uni9868</string>
       <string>uni9869</string>
-      <string>commaturnedabovecmb</string>
-      <string>uni986A</string>
       <string>commaturnedabovecmb.cap</string>
+      <string>uni986A</string>
+      <string>aspercmb</string>
       <string>uni986B</string>
       <string>uni986C</string>
-      <string>aspercmb</string>
+      <string>commaabovecmb</string>
       <string>uni986D</string>
       <string>uni986E</string>
-      <string>commaabovecmb</string>
+      <string>commaabovecmb.cap</string>
       <string>uni986F</string>
       <string>uni9870</string>
-      <string>commaabovecmb.cap</string>
       <string>leniscmb</string>
+      <string>commaaboverightcmb</string>
       <string>uni9871</string>
       <string>uni9872</string>
-      <string>commaaboverightcmb</string>
       <string>commaaboverightcmb.cap</string>
       <string>lefttackbelowcmb</string>
       <string>righttackbelowcmb</string>
-      <string>uni9873</string>
       <string>leftangleabovecmb</string>
+      <string>uni9873</string>
       <string>horncmb</string>
+      <string>ringhalfleftbelowcmb</string>
       <string>uni9874</string>
       <string>uni9875</string>
       <string>uni9876</string>
@@ -31832,88 +31832,88 @@
       <string>uni98A7</string>
       <string>uni98A8_JP</string>
       <string>uni98A8_TW</string>
-      <string>ringhalfleftbelowcmb</string>
+      <string>uptackbelowcmb</string>
       <string>uni98A9</string>
       <string>uni98AA</string>
       <string>uni98AB</string>
-      <string>uptackbelowcmb</string>
-      <string>uni98AC</string>
       <string>downtackbelowcmb</string>
-      <string>uni98AD</string>
+      <string>uni98AC</string>
       <string>plusbelowcmb</string>
-      <string>uni98AE</string>
+      <string>uni98AD</string>
       <string>minusbelowcmb</string>
+      <string>uni98AE</string>
       <string>dotbelowcmb</string>
+      <string>dieresisbelowcmb</string>
       <string>uni98AF</string>
       <string>uni98B0</string>
-      <string>dieresisbelowcmb</string>
       <string>ringbelowcmb</string>
       <string>commabelowcmb</string>
-      <string>uni98B1</string>
       <string>commabelowcmb.a</string>
+      <string>uni98B1</string>
       <string>cedillacmb</string>
-      <string>uni98B2</string>
       <string>cedillacmb.cap</string>
-      <string>uni98B3</string>
+      <string>uni98B2</string>
       <string>ogonekcmb</string>
+      <string>uni98B3</string>
+      <string>ogonekcmb.cap</string>
       <string>uni98B4</string>
       <string>uni98B5</string>
-      <string>ogonekcmb.cap</string>
-      <string>uni98B6</string>
       <string>verticallinebelowcmb</string>
-      <string>uni98B7</string>
+      <string>uni98B6</string>
       <string>bridgebelowcmb</string>
-      <string>uni98B8</string>
+      <string>uni98B7</string>
       <string>caronbelowcmb</string>
-      <string>uni98B9</string>
+      <string>uni98B8</string>
       <string>brevebelowcmb</string>
-      <string>uni98BA</string>
+      <string>uni98B9</string>
       <string>breveinvertedbelowcmb</string>
+      <string>uni98BA</string>
       <string>tildebelowcmb</string>
       <string>macronbelowcmb</string>
-      <string>uni98BB</string>
       <string>lowlinecmb</string>
+      <string>uni98BB</string>
       <string>tildeoverlaycmb</string>
       <string>ringhalfrightbelowcmb</string>
       <string>bridgeinvertedbelowcmb</string>
-      <string>uni98BC</string>
       <string>squarebelowcmb</string>
-      <string>uni98BD</string>
+      <string>uni98BC</string>
       <string>seagullbelowcmb</string>
-      <string>uni98BE</string>
+      <string>uni98BD</string>
       <string>xabovecmb</string>
-      <string>uni98BF</string>
+      <string>uni98BE</string>
       <string>perispomenicmb</string>
-      <string>uni98C0</string>
+      <string>uni98BF</string>
       <string>perispomenicmb.cap</string>
-      <string>uni98C1</string>
+      <string>uni98C0</string>
       <string>koroniscmb</string>
+      <string>uni98C1</string>
       <string>dialytikatonoscmb</string>
-      <string>uni98C2</string>
       <string>iotasubscriptcmb</string>
-      <string>uni98C3</string>
+      <string>uni98C2</string>
       <string>ringhalfrightabovecmb</string>
+      <string>uni98C3</string>
       <string>ringhalfrightabovecmb.cap</string>
+      <string>dotaboverightcmb</string>
       <string>uni98C4</string>
       <string>uni98C5</string>
-      <string>dotaboverightcmb</string>
       <string>dotaboverightcmb.cap</string>
-      <string>uni98C6</string>
       <string>brevedoublebelowcmb</string>
+      <string>uni98C6</string>
       <string>macrondoublecmb</string>
-      <string>uni98C7</string>
       <string>macrondoublebelowcmb</string>
-      <string>uni98C8</string>
+      <string>uni98C7</string>
       <string>breveinverteddoublecmb</string>
+      <string>uni98C8</string>
       <string>circumflexdoublecmb</string>
-      <string>uni98C9</string>
       <string>macrondoublecmb.a</string>
-      <string>uni98CA</string>
+      <string>uni98C9</string>
       <string>breveinverteddoublecmb.a</string>
+      <string>uni98CA</string>
       <string>circumflexdoublecmb.a</string>
-      <string>uni98CB</string>
       <string>slashshortcmb</string>
+      <string>uni98CB</string>
       <string>slashlongcmb</string>
+      <string>circumflexgrave</string>
       <string>uni98CC</string>
       <string>uni98CD</string>
       <string>uni98CE</string>
@@ -31940,149 +31940,148 @@
       <string>uni98E0_JP</string>
       <string>uni98E0_CN</string>
       <string>uni98E0</string>
-      <string>circumflexgrave</string>
       <string>circumflexgrave.cap</string>
-      <string>uni98E1</string>
       <string>circumflexacute</string>
+      <string>uni98E1</string>
       <string>circumflexacute.cap</string>
-      <string>uni98E2</string>
       <string>circumflextilde</string>
+      <string>uni98E2</string>
       <string>circumflextilde.cap</string>
+      <string>circumflexmacron</string>
       <string>uni98E3</string>
       <string>uni98E4</string>
-      <string>circumflexmacron</string>
       <string>circumflexmacron.cap</string>
-      <string>uni98E5</string>
       <string>circumflexbreve</string>
+      <string>uni98E5</string>
       <string>circumflexbreve.cap</string>
-      <string>uni98E6</string>
       <string>circumflexhoi</string>
+      <string>uni98E6</string>
       <string>circumflexhoi.cap</string>
+      <string>circumflexcaron</string>
       <string>uni98E7</string>
       <string>uni98E8</string>
-      <string>circumflexcaron</string>
       <string>circumflexcaron.cap</string>
-      <string>uni98E9</string>
       <string>macrongrave</string>
+      <string>uni98E9</string>
       <string>macrongrave.cap</string>
-      <string>uni98EA</string>
       <string>macronacute</string>
+      <string>uni98EA</string>
       <string>macronacute.cap</string>
-      <string>uni98EB</string>
       <string>brevegrave</string>
-      <string>uni98EC</string>
+      <string>uni98EB</string>
       <string>brevegrave.cap</string>
+      <string>uni98EC</string>
       <string>breveacute</string>
+      <string>breveacute.cap</string>
       <string>uni98ED</string>
       <string>uni98EE</string>
-      <string>breveacute.cap</string>
       <string>brevetilde</string>
       <string>brevetilde.cap</string>
-      <string>uni98EF</string>
       <string>brevehoi</string>
-      <string>uni98F0</string>
+      <string>uni98EF</string>
       <string>brevehoi.cap</string>
+      <string>uni98F0</string>
       <string>dieresisgrave</string>
-      <string>uni98F1</string>
       <string>dieresisgrave.cap</string>
+      <string>uni98F1</string>
       <string>dialytikagravecmb</string>
-      <string>uni98F2</string>
       <string>dieresisacute</string>
-      <string>uni98F3</string>
+      <string>uni98F2</string>
       <string>dieresisacute.cap</string>
+      <string>uni98F3</string>
       <string>dieresistilde</string>
-      <string>uni98F4</string>
       <string>dieresismacron</string>
-      <string>uni98F5</string>
+      <string>uni98F4</string>
       <string>dieresismacron.cap</string>
+      <string>uni98F5</string>
       <string>dieresiscaron</string>
+      <string>dieresiscaron.cap</string>
       <string>uni98F6</string>
       <string>uni98F7</string>
       <string>uni98F8</string>
-      <string>dieresiscaron.cap</string>
-      <string>uni98F9</string>
       <string>ringacute</string>
+      <string>uni98F9</string>
       <string>ringacute.cap</string>
-      <string>uni98FA</string>
       <string>carondotaccent</string>
-      <string>uni98FB</string>
+      <string>uni98FA</string>
       <string>carondotaccent.cap</string>
+      <string>uni98FB</string>
       <string>caroncomma</string>
-      <string>uni98FC</string>
       <string>caroncomma.cap</string>
+      <string>uni98FC</string>
       <string>aspergravecmb</string>
-      <string>uni98FD</string>
       <string>asperacutecmb</string>
+      <string>uni98FD</string>
       <string>aspertildecmb</string>
+      <string>lenisgravecmb</string>
       <string>uni98FE</string>
       <string>uni98FF</string>
-      <string>lenisgravecmb</string>
+      <string>lenisacutecmb</string>
       <string>uni9900</string>
       <string>uni9901</string>
-      <string>lenisacutecmb</string>
       <string>lenistildecmb</string>
       <string>CGJ</string>
-      <string>uni9902</string>
       <string>command</string>
+      <string>uni9902</string>
       <string>option</string>
+      <string>deleteright</string>
       <string>uni9903</string>
       <string>uni9904</string>
-      <string>deleteright</string>
       <string>delete</string>
+      <string>shift</string>
       <string>uni9905</string>
       <string>uni9906</string>
-      <string>shift</string>
       <string>control</string>
-      <string>uni9907</string>
       <string>figurespace</string>
+      <string>uni9907</string>
       <string>thinspace</string>
       <string>hairspace</string>
-      <string>uni9908</string>
       <string>ZWS</string>
+      <string>uni9908</string>
       <string>NNBS</string>
-      <string>uni9909</string>
       <string>ZWNBS</string>
+      <string>uni9909</string>
       <string>space.frac</string>
+      <string>fi</string>
       <string>uni990A</string>
       <string>uni990B</string>
-      <string>fi</string>
       <string>fl</string>
+      <string>they</string>
       <string>uni990C</string>
       <string>uni990D</string>
-      <string>they</string>
+      <string>their</string>
       <string>uni990E</string>
       <string>uni990F</string>
-      <string>their</string>
       <string>They</string>
-      <string>uni9910</string>
       <string>Their</string>
+      <string>uni9910</string>
       <string>THEY</string>
-      <string>uni9911</string>
       <string>THEIR</string>
+      <string>uni9911</string>
       <string>hariod</string>
-      <string>uni9912</string>
       <string>sariod</string>
+      <string>uni9912</string>
       <string>haxclam</string>
-      <string>uni9913</string>
       <string>saxclam</string>
+      <string>uni9913</string>
       <string>huestion</string>
-      <string>uni9914</string>
       <string>suestion</string>
+      <string>uni9914</string>
       <string>florin.a</string>
       <string>oxia.cap</string>
-      <string>uni9915</string>
       <string>uni004Duni0300.alt1</string>
+      <string>uni9915</string>
       <string>uni004Duni0304.alt1</string>
-      <string>uni9916</string>
       <string>uni006Duni0300.alt1</string>
+      <string>uni9916</string>
       <string>uni006Duni0304.alt1</string>
-      <string>uni9917</string>
       <string>uni00CAuni0304.alt1</string>
+      <string>uni9917</string>
       <string>uni00CAuni030C.alt1</string>
-      <string>uni9918</string>
       <string>uni00EAuni0304.alt1</string>
-      <string>uni9919</string>
+      <string>uni9918</string>
       <string>uni00EAuni030C.alt1</string>
+      <string>uni9919</string>
       <string>uni991A</string>
       <string>uni991B</string>
       <string>uni991C</string>
