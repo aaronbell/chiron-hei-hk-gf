@@ -1,6 +1,7 @@
-v2.523 (2024/12/27)
+v2.523 (2025/01/02)
 ====
-- Fix glyphs with stroke misalignment issues.
+- Modified the glyph of 襯 (U+896F).
+- Fix glyphs with stroke misalignment issues, and other minor glyph adjustments.
 
 v2.522 (2024/12/24)
 ====
