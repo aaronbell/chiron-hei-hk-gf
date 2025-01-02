@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>733</integer>
     <key>copyright</key>
-    <string>Copyright 2024 The Chiron Hei project authors (https://github.com/chiron-fonts/chiron-hei-hk-gf)</string>
+    <string>Copyright 2025 The Chiron Hei project authors (https://github.com/chiron-fonts/chiron-hei-hk-gf)</string>
     <key>descender</key>
     <integer>-120</integer>
     <key>familyName</key>
@@ -29,7 +29,7 @@
       </dict>
     </array>
     <key>openTypeHeadCreated</key>
-    <string>2024/12/08 15:07:10</string>
+    <string>2025/01/02 11:41:38</string>
     <key>openTypeHeadFlags</key>
     <array>
       <integer>0</integer>
@@ -285,7 +285,7 @@
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>
-    <integer>53</integer>
+    <integer>523</integer>
     <key>xHeight</key>
     <integer>543</integer>
   </dict>
