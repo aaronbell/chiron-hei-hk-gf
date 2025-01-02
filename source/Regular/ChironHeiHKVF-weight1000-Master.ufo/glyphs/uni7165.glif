@@ -163,14 +163,14 @@
     </contour>
     <contour>
       <point x="545" y="856" type="curve"/>
-      <point x="518" y="764"/>
-      <point x="466" y="660"/>
-      <point x="376" y="582" type="curve"/>
-      <point x="407" y="565"/>
-      <point x="453" y="523"/>
-      <point x="475" y="494" type="curve"/>
-      <point x="578" y="593"/>
-      <point x="638" y="712"/>
+      <point x="515" y="763"/>
+      <point x="457" y="659"/>
+      <point x="356" y="580" type="curve"/>
+      <point x="387" y="563"/>
+      <point x="433" y="521"/>
+      <point x="455" y="492" type="curve"/>
+      <point x="568" y="592"/>
+      <point x="634" y="711"/>
       <point x="679" y="835" type="curve"/>
       <point x="679" y="835"/>
       <point x="545" y="856"/>

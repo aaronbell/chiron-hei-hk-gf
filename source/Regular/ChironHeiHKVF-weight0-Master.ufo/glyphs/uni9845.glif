@@ -230,12 +230,9 @@
       <point x="130" y="291"/>
       <point x="130" y="429" type="curve"/>
       <point x="130" y="429"/>
-      <point x="130" y="742"/>
-      <point x="130" y="742" type="curve"/>
-      <point x="139" y="743"/>
-      <point x="143" y="746"/>
-      <point x="144" y="751" type="curve"/>
-      <point x="144" y="751"/>
+      <point x="130" y="752"/>
+      <point x="130" y="752" type="curve"/>
+      <point x="130" y="752"/>
       <point x="100" y="760"/>
     </contour>
     <contour>
