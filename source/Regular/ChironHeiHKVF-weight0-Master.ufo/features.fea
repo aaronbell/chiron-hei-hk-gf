@@ -5753,6 +5753,21 @@ lookup SingleSubstitution56 {
     sub uni3127_V by uni3127;
 } SingleSubstitution56;
 
+lookup SingleSubstitution126 {
+    lookupflag 0;
+    ;
+    # Original source: 125 
+    sub Yi.sc by Yi.as;
+} SingleSubstitution126;
+
+lookup ChainedContextualGSUB101 {
+    lookupflag 0;
+    ;
+    # Original source: 100 
+    sub Yi.sc' lookup SingleSubstitution126 Yi.sc;
+    sub [Iukran.sc Yi.as] Yi.sc' lookup SingleSubstitution126;
+} ChainedContextualGSUB101;
+
 lookup LigatureSubstitution57 {
     lookupflag 0;
     ;
@@ -8512,21 +8527,6 @@ lookup SingleSubstitution100 {
     sub Kahook.a by Kahook.as;
     sub Zhebreve.a by Zhebreve.as;
 } SingleSubstitution100;
-
-lookup SingleSubstitution126 {
-    lookupflag 0;
-    ;
-    # Original source: 125 
-    sub Yi.sc by Yi.as;
-} SingleSubstitution126;
-
-lookup ChainedContextualGSUB101 {
-    lookupflag 0;
-    ;
-    # Original source: 100 
-    sub Yi.sc' lookup SingleSubstitution126 Yi.sc;
-    sub [Iukran.sc Yi.as] Yi.sc' lookup SingleSubstitution126;
-} ChainedContextualGSUB101;
 
 lookup SingleSubstitution102 {
     lookupflag 0;
@@ -20319,3 +20319,22 @@ feature vpal {
 
 } vpal;
 
+table BASE {
+  HorizAxis.BaseTagList     icfb  icft  ideo  romn;
+  HorizAxis.BaseScriptList  
+                DFLT 	ideo  	-68   828  -120     0,
+                hani  	ideo   	-68   828  -120     0,
+                kana  	ideo   	-68   828  -120     0,
+                latn  	romn   	-68   828  -120     0,
+                cyrl  	romn   	-68   828  -120     0,
+                grek  	romn   	-68   828  -120     0;
+
+  VertAxis.BaseTagList      icfb  icft  ideo  romn;
+  VertAxis.BaseScriptList 
+                DFLT  	ideo    	43   952     0   120,
+                hani  	ideo    	43   952     0   120,
+                kana  	ideo    	43   952     0   120,
+                latn  	romn   	    43   952     0   120,
+                cyrl  	romn    	43   952     0   120,
+                grek  	romn    	43   952     0   120;
+} BASE;
